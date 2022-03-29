@@ -1,0 +1,504 @@
+>Lyngbya extdbtmp 000041 M28 family metallopeptidase [Sediminibacterium] 1 100.0% 100.0% 3451
+ITKQLLIVLVLTSFGLYSSAQTLIQRDQEIEKMVKEVNADSLKSYILKMVSYGTRNTLSTQSDPNRGIGA
+ARNWVLQKFNEFAKKSNGRFSSFIDTTTLQPVAGSRVERPVVLGNVVGILKGTDTADKRIFVISGHLDNM
+RTNVRDSIGDAPGANDDASGCAAVIECARIMTQKSFPATIIFVTVSGEEQGLLGAKFMATKAKNQGWNIE
+AVLNNDIMGSNNTSETNIIDNTRIRVFSEGLPAYETEKAARNIRQLGLENDGKARQLARYVKEVGERYVD
+NLEVVMIYRNDRFLRGGDHTSFVEQGYAAVRFTEMNENYYHQHQNVRLENGIQYGDLPEFMDFEYLRKNT
+AMNLSNLANLAKAPAMPEEVKIETRRLTNYSLLTWAAPKTGKVKGYYILMRETTSAVWQKKIFTTDNSYQ
+LPYSKDNYFFAVQSVNESGNESLPVVPVP
+>GKIL 3207 peptidase M28 1 346 3e-114 1 97.8% 44.1% 3451 32474
+LAAQAALAIVLLGLAPAPTQAAPAAKDAQLEQITSEISASRIEATIRKLVSFGTRHTLSAKAAPDRGIAP
+ATAWVHSEFERAARQGGARLEVKLDTF-VQPVS-ARVPVPTQMTNVLAVLPGT-SDPGRIYVVSGHLDSc
+aQDVLDATSDAPGADDDASGVAVVLELARVMAKERFPATIVFAAVVGEEQGLYGSAHLAEQYRAQGAQIE
+GMITNDIVGSS----AGRTGPPALRVFSEGVPSDESEAQAKVRRSVGGENDAPSRQLARYIQEVAGRTVP
+GITVEPIWRRDRYSRGGDHIPFLQNGYPAVRFTEWLEDYRHQHQRLRTKDGIQYGDLPQFVDFNYVAQVA
+RVNAVALASLALAPAAPKAVTIDS-SLSNDTKLQWQA-VPGAV-GYQVVWRETTAPFWNHVQSttATSFT
+LplSKDNYFFGVQSLDSNGHASLVSFPKP
+>Nos7107 3427 peptidase M28 1 60.5 5e-09 1 36.5% 28.9% 148327 131305
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVASSPGADDNGTGVAVVLEVARLLGSQPTPRTLQLAFFDKEEAGLLGSKAFAAKAKRLG-NLS
+GVIVMDMVGYACYTPG-------CQQYPPGLPVTPPSDKGDFLAVVG---DIEHLPL---LSAFQKSQPD
+NLPAVLTVPIP--LKgsDHAPFWYQGVGAVLVTdlRTPHYHQSSD-------------------------
+----------------------------------------------------------------------
+-----------------------------
+>GKIL 1438 peptidase M28 1 59.7 1e-08 1 30.3% 31.9% 117254 292440
+----------------------------------------------------------------------
+--------------------------------------------NVVAVLPGRDPVLKNEYVvsAHLDHL
+GVgaGDRIYN--GAMDNAAGVATLIEAARRLQNRPPRRSVLFLAVCGEEKGLLGSRYYTRRPTVPANQLV
+ADLNLDmlSVQGLEESNLEEPLRQAAEAEGVTLQSDPEPSRN----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Chro 0527 peptidase M28 1 58.9 2e-08 1 17.4% 42.3% 148225 228306
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DSVPGAPGANDNASGTAVVLEIARRISKTPLANQTWFVAFDGEEDGLHGSKAFVQTAQPQFisLK
+AMLNFDMVGVNSS---------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Npun R4137 peptidase M28 1 57.8 4e-08 1 41.0% 28.3% 124328 115315
+----------------------------------------------------------------------
+---------------------------------------------------GTNKAAKAILVAAHY----
+-----DTVALSPGADDNASGVAVVLEVARLLGSRPTPRTLQLAFFDKEEAGLLGSqfVSQTARLQ--NLD
+GAIVMDMVGYACYT-------VGCQKYPAGLPVTPPsaVVGDMEHLPLLNAFPSSQM--LPSSALNKQES
+NLPPVLILptPDTLR-SDHAPFWYQGVGAVLVTdlRTPHYHQPSDV------------------------
+----------------------------------------------------------------------
+-----------------------------
+>gll4423 hypothetical protein 1 57.4 7e-08 1 36.3% 28.3% 117314 294462
+----------------------------------------------------------------------
+--------------------------------------------NVAAMLPGSDPKLKNEyvLSAHLDHL
+--GIGEPIGGDrgAMDNAAGVATLIDVAAGMRAQNLKlsVVFLAVCGEEKGLLGSKFFA-----------
+----------NRPTMRPLVANFNMDMF---LPIHPLTR----LTALGLEESNLAQPLRESAGQVGVTVIS
+DPEP----NRNSFVR-SDQYSFIRTGVPALAF--------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cal6303 3074 peptidase M28 1 56.2 8e-08 1 37.0% 26.6% 148324 106277
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGSPGADDNATGVAVLLELARIFASAPTKYPLRLVAFDMEEYGLLGSASYAAKLKQEQQSLR
+LMLSLEMLGYRSQEDHS-------QVYPPPLEKFYPHK-GNFIALIgwRTLGDLIGVSRGMRKVgsQWLP
+VPNRGLIVRQT---RRSDHAPFWDLGYPAILVtdMRNPYYHE----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Nos7524 1521 putative aminopeptidase 1 55.5 2e-07 1 21.2% 32.4% 117221 108202
+----------------------------------------------------------------------
+--------------------------------------------NIFAERAGTDTKGGAILVAAHY----
+-----DTVAESPGADDNASGVAVLLEIARVFRSLPTPQTLQLAFFDQEEAGLLGSKAFVTEEKRL-QNLR
+GVIVMDMVG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Glo7428 4850 peptidase M28 1 55.8 2e-07 1 16.9% 39.0% 148224 265342
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DSVPGSPGANDNASGTAVVLDIARNVAQTPLAREAWFVVFDGEEDGLHGSRAFVSQAQPD-wgLD
+AMFNFDMVGVND----------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cal7507 4958 peptidase M28 1 54.3 4e-07 1 16.3% 39.2% 148221 130202
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVAASPGADDNASGVAVVLEVARLLNSYSTPRTLQLAFFDQEETGLLGSKAFISK-KTRLKNLR
+GVIVMDMVG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>VL20 2888 aminopeptidase 1 53.5 6e-07 1 37.6% 24.4% 148327 81255
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVPGSPGADDNATGLAVLLELARFFGENQANYPIRLIAFDLEEYGLLGSIAYSEKLKQTKQDLR
+LMLSLEMLGYCDKNPH-----------SQKYPAFLEYFYPNTGDFIALIGNLKTREDLKFLSRvnQTPCE
+WLPVIFAGYIVPDTRRSDHSPFWDCGYSAIMVTdmRNPYYHSSQD-------------------------
+----------------------------------------------------------------------
+-----------------------------
+>IJ00 24005 peptidase M28 1 53.9 6e-07 1 21.2% 32.4% 117221 104198
+----------------------------------------------------------------------
+--------------------------------------------NIVATKPGTDTQAGKI-LIAAHYDTV
+EV--------SPGADDNSSGIAVLLEIARLYKNQPTIRTLELAFFDQEEAGLLGSKAFTTEKQNLD-SLQ
+AVIVMDMIG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Riv7116 0585 putative aminopeptidase 1 53.5 7e-07 1 45.4% 25.9% 122353 124333
+----------------------------------------------------------------------
+-------------------------------------------------IKGVEKPDE-IVIIGGHYDTA
+FT--------SPGANDNGSGVAAVLELARRFADKKPNKTLRFVEFTNEEPPymGSLVYAKGCKERNENVV
+AMLSLETMGYFSEEEG-----------SQKYPFPLNLIYPSQGNFIAFVGDINSSWLVKKTIDLFRKQVq
+qSEGVAIFGQIPGVGWSDHWSFWEQDYQALMVTDTAPFRYKHYHTLE--------DIPDKIDYEKFARVV
+A---------------------------------------------------------------------
+-----------------------------
+>MAE 40240 M28A family peptidase 1 53.1 8e-07 1 41.6% 24.6% 121327 62255
+----------------------------------------------------------------------
+------------------------------------------------ILDLPNNSQKPPILIGAHYD--
+------TVPGSPGADDNATGLAVLLELARFFGENQANYPIRLIAFDLEEYGLLGSIAYAEKLKQTKQDLR
+LMLSLEMLGYCDKNPH-----------SQKYPAFLEYFYPNTGDFIALIGNLKTRklSRVMRE-NQTPCE
+WLPVIFGGYIVPDTRRSDHSPFWSRGYSAIMVTdmRNPYYHSYRD-------------------------
+----------------------------------------------------------------------
+-----------------------------
+>CYA 2057 peptidase M28A family 1 52.8 1e-06 1 40.5% 25.0% 117324 62255
+----------------------------------------------------------------------
+--------------------------------------------NWILKLPGSQPG-RRPILIGAHFDAA
+PAT--------PGADDNASGVAVLLELARHFAAEPAPSPLWLVAFDLEERGLLGSKAYARFLRQQRQPLR
+LMLSLEMLGYRDPTPGS-------QRYPAGLERLYPDRGD----YIGLIGngDLLRLQRGFQQVG-----
+-IPCCWLPAGQRGlrLSDHSPFWDAGYPAAMVTdlRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>all4710 hypothetical protein 1 52.8 1e-06 1 40.5% 27.9% 117324 109302
+----------------------------------------------------------------------
+--------------------------------------------NVFAERPGTDTTGDAILVAAHY----
+-----DTVAGSPGADDNASGVAVILEIARLFASHSTPRTLQLAFFDLEEAGLVGSKAFVTNTQRLE-KLR
+GVIVMDMVGYACYT-------AGCQQYPPGLPVTPPSDKGDFLVAVgiEN-------LSLLKAFNHADTK
+NLPSVliLTPDT-LR-SDHAPFWYQGVGAVLVTdlRTPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Anacy 2278 peptidase M28 1 52.0 2e-06 1 52.3% 24.2% 81344 70307
+----------------------------------------------------------------------
+--------FQRFTPKERSHSRTYITTQLRKFGWKPQIEKFPTGVNIFAQKQGTDKAAGAI-LIAAHYDTV
+EF--------SPGADDNSTGVAVVLEVARLFATHPTSRTLQLAFFDKEETGLLGSQAFVKKAARLK-NIQ
+GVIVMDMVGYACYT-------SGCQQYPTGLPVTPPSDKGDFLAVVG---DMEHLPLLNAFNSTNQNLPA
+VLTLPIPFktPDTLR-SDHAPFWYQGVGAVLVTDT--------ANLRSPNYHQPSDLPKNID--------
+----------------------------------------------------------------------
+-----------------------------
+>MYAER 1968 putative aminopeptidase 1 51.6 2e-06 1 36.5% 26.1% 148323 81251
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVPGSPGADDNATGLAVLLELARFFGENQANYPIRLIAFDLEEYGLLGSIAYAEKLKQTKQDLR
+LMLSLEMLGYCDKNPH-----------SQKYPAFLEYFYPNTGDFIALIGNLKTRklSRVMRE-NQTPCE
+WLPVIFGGYIVPDTRRSDHSPFWSRGYSAIMVTdmRNPYYH-----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>PCC7418 2937 peptidase M28 1 51.6 3e-06 1 41.6% 23.6% 117324 58252
+----------------------------------------------------------------------
+--------------------------------------------NYVLNLPAENGSEKPPILVAAHYD--
+------SVPGTPGADDNGTGVAVLLELMRVFSENPLPIPLRFIAFDLEEYGMVGSEVYAQQLKENNEKIR
+LMFSLEMLgpDSQDYPPLID--RFYPHTGNFIAFVGNLATTQ------ESRFFTRQM-RHSGTPSEWLSV
+PFSGTMIPET----RLSDHSPFWDQGYKAMMVTdlRNPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>KR100 10545 hypothetical protein 1 51.2 3e-06 1 40.3% 24.4% 130342 72263
+----------------------------------------------------------------------
+---------------------------------------------------------RRPLLVGAHYDGP
+LHSI--------GADDNASGIVALLELARRWSAKPPKRPVWLVAFDQEEWGMLGSAALAEELRTDRQPLK
+LMVSLEMLA-----------------FTSDMQAY-PHPAMRHIYgaLVANAGAGLMLPRLTHSMGQHVTT
+KLLPVLRAGHdsAVRRSDHSPFWDRGYNALMVTDtnPNYH------RMSDTIDSLDLPFF----------
+----------------------------------------------------------------------
+-----------------------------
+>Mic7113 1807 putative aminopeptidase 1 51.2 4e-06 1 20.3% 33.0% 122221 126221
+----------------------------------------------------------------------
+-------------------------------------------------IPGTDRADE-IVIVGGHYD--
+------SVFGSPGANDNGTGAVATLELARLFADKKPSRTLRFVEFVNEEPPfmGSFVYAKRCKDRKEKVV
+AMLSLETMG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Riv7116 4614 putative aminopeptidase 1 50.4 7e-06 1 20.9% 30.5% 117221 121215
+----------------------------------------------------------------------
+--------------------------------------------NVFAEKPGTDSKAGAILLAAHY----
+-----DTVLNSPGADDNATGVAVLLEIARLFNSAATPRTLQLAFFDKEEAGLLGSrfVKNQARLQ--NLR
+GVIVMDMVG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cal6303 0026 peptidase M28 1 50.4 7e-06 1 20.9% 32.4% 117221 106200
+----------------------------------------------------------------------
+--------------------------------------------NVFAQRQGTNKAAGAILVAAHY----
+-----DTVMRSPGADDNGSGVSVALELARIFASHPTPRTLQLAFFDKEEAGLLGSrfVAKSGKLQG--LE
+GAIVMDMVG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>cce 2764 hypothetical protein 1 49.7 1e-05 1 45.9% 23.8% 118348 62268
+----------------------------------------------------------------------
+---------------------------------------------ILNLPSQCNTQQKKPILIGAHYDTV
+-------IGSS-GADDNATGIAVLLELGRFFYHHPAQYPICLIAFDLEEYGLLGSSAYANYLKQQQIKIR
+LMISLEMLGYCN-------HNPKSQKYPPGL-DYFYPSTGNFIALIglSTILDLRKISRSIRHT-EIPCE
+WLSVPFHGKIVPDTRRSDHAPFWDNNYNAIMITDT--------ANLRNPNYHQSSDTLETIDLDFL----
+----------------------------------------------------------------------
+-----------------------------
+>Osc7112 0919 peptidase M28 1 50.1 1e-05 1 42.8% 26.1% 117327 113317
+----------------------------------------------------------------------
+--------------------------------------------NVFAERKGTDSNAGAILVAAHY----
+-----DTVPNSPGADDNATGVAVVLEVARLLGSSATPRTLQVAFFDREEIGLLGsaFTGSDARLK--NLQ
+GAIVLDMVGYACRTPG-------CQQYPEGlpFLEAskSPDKGEFIAVIGDAEHPLLLKSFAESGKADLP
+AVVALPvlLTPDVLR-SDHAPFWYKGIGAVLVTdlRSPHYHQSSD-------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Sta7437 4453 peptidase M28 1 49.7 1e-05 1 36.7% 25.4% 148324 81251
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGTPGADDNATGVAVLLELASVFATKPAKYPLRLVAFDLEEYGLLGSTAYAKTLKEANQPLR
+LMLSLEMLGYCDR-------NKGSQSYPPGL-KYFYPSTGDFITLVG--NLSTIPDLMRLSSRI--RKHT
+PCEWLPVFNQGKLvrLSDHSPFWDRGYAAMMMTdlRNPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Ple7327 4329 putative aminopeptidase 1 48.9 2e-05 1 36.7% 26.6% 148324 69240
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGTPGADDNASGVAVLLELAKAFAAEPPQSPVRLVAFDLEEYGLLGSAAYAEHLKQAGQRLR
+LMLSLEMLGYCDRTPNS-------QRYPIGL-QYFYPNRGDFIALIglSPIGDIIRLSRIIRRSGT----
+PCEWLLVPQQGRLvrLSDHSPFWDRGYRAIMVTdmRNPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>glr2658 probable aminopeptidase 1 49.3 2e-05 1 16.9% 36.8% 148223 274350
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DSVEGAPGANDNASGSAVLLESARRLAGTPLARRAWFVHFDAEEEGLVGSrfVRSASAPLIKALR
+GMLNFDMVGVN-----------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>KR49 01180 hypothetical protein 1 48.1 4e-05 1 37.6% 25.8% 155340 88260
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------GADDNASAVAALLELARRWSAHPPRRPVWLVAFDLEEWGMLGSAALAEKLRTDQQPLK
+LMVSLEMLA--YTSEEQNYPH----------PAMRAVYGDRGDFIALVGNAGPALMLTQLTHAMGQHVIT
+klPVPRAGRDVPDVRLSDHSPFWDRGYDALMVTdmRNPNYHQ-----MSDTIETLDLP------------
+----------------------------------------------------------------------
+-----------------------------
+>Ava 1960 Peptidases M20 and M28 1 48.1 4e-05 1 40.5% 26.0% 117324 109302
+----------------------------------------------------------------------
+--------------------------------------------NVFAERPGTDNTGDAILVAAHY----
+-----DTVVGSPGADDNASGVAVILEIARLFASHPTPRTLQLAFFDLEEAGLVGSKAFVTNTQRLE-KLR
+GVIVMDMVGYACYT-------AGCQQYPPGLPVTPPSDKGDFLVAVgiEN-------LSLLKAFNHADTK
+NLPSVLTIPIP--LKgsDHAPFWYQGIGAVLVTdlRTPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Osc7112 3940 peptidase M28 1 47.8 5e-05 1 17.1% 31.2% 148224 91167
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVPGTPGADDNATGVAVLLELARDIASAPLKYPVQLVAFDMEEYGCLGSSHHAAKYKQQQKSIR
+LMISLEMLGYCN----------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cal7507 2561 peptidase M28 1 47.8 5e-05 1 36.1% 26.6% 148324 84255
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGTPGADDNATGVAVLLELARKFTAEPARYPLRLVAFDMEEYGLLGSADYAALLRQQKQRLR
+LMMSLEMLGYQN-SQPN----------SQNYPP-PLERFYPniALIglRTLPDLISISRSIRQVgsQWLP
+APNRGLIVPQTRL---SDHASFWDVGYPAMMVTdlRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cri9333 0225 peptidase M28 1 47.0 9e-05 1 36.5% 23.7% 148324 83254
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGSPAADDNATGVAVLLELAKAFAAQPLKYPVRLVAFDMEEYGLLGSEAYAEELKQQQQPLR
+LMISLEMLGYCDHTPGS-------QRYPTGLERFYPD-TGNFIALIglTTIFDLIKLSRHISKAGTPsvP
+NKGLMV-----RATRLSDHSPFWDRGYRAMMITdmRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Oscil6304 0771 putative aminopeptidase 1 47.0 9e-05 1 36.7% 22.1% 26224 1170
+-----------------------MQENHHPEETTRELKAN-LQSHLVQIVR---------DRDPYFATGg
+vREYIRQQLQQYGIVETHRFE----------ISGRTHE------NLVLDIPGGDRtpKPPILIGAHYD--
+------AVPGSPGADDNATGIAVLLEIARIFATETTRYPLRLIAFDMEEYGLCGSTAYATELATKREPLR
+LMISLEMLGYCN----------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Ple7327 3004 putative aminopeptidase 1 46.6 1e-04 1 41.2% 23.9% 148348 83267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVIGSPGADDNATGVAVLLELARIFAAEPGHYPLRLVAFDLEEYNLLGSFCYASKLRRQEQPLR
+LTISLEMLGYCN-------HNPGSQQYPPGLNFFYPSKGDFIALIGNLPTLLDLIHISYHIKNTGIP-CE
+WLPVAIRGLLLPDTRRSDHAPFWDNGYPAIMVTDT--------ANLRNPHYHQPSDTIDTVDFEFL----
+----------------------------------------------------------------------
+-----------------------------
+>Glo7428 0545 peptidase M28 1 46.2 1e-04 1 37.2% 24.9% 148324 81256
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGTPGADDNATGVAVLLELARIFASNPAKHPLRLVAFDLEEYGLlgASEYAVHLRQQNQPLR
+LMISLEMLGYCDSTPGS--QQYPIRLLERLYP-----NCGNFIGLIglPTILDLVYLSRSIRQAgsEWLP
+VFNKGLIVPQTRL---SDHAHFWDQGYPAMMITdlRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Pse7367 2272 peptidase M28 1 44.7 4e-04 1 40.5% 22.9% 148348 100284
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGSPGADDNATGVAVLLELARSLNFNPAHRPVRLVAFDMEEYALAGSRAYAAELAQQGQKLR
+LMISLEMLGYTDR-------NPGSQHYPTGLKYFYPDRGDFIALIGNLFTIAEMIGLQRNIKKSgeWLAA
+GLQGKIVPDTRR----SDHAPFWDLGYRAIMVTDT--------ANLRNPHYHQPGDRLETLDLDFL----
+----------------------------------------------------------------------
+-----------------------------
+>Lepto7376 2356 peptidase M28 1 43.5 0.001 1 41.9% 25.4% 116324 67262
+----------------------------------------------------------------------
+-------------------------------------------GNIILDLCADDAVqkPPILIGAHYD--
+------AVISCPGADDNGTGLAVLLEMANFFSQNPARYPIRLVAFDLEEFGLCGSLEYAAHLKKNQQPLR
+LMLSLEMLGYCSHAPNSQTYPSFLKYF---YPSTGDFIALIGDIQTIPEMWGMGRSLKKSVppAGWRGYP
+VPDA----------RRSDHLAFWEQGYKAMMVtdMRNPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Anacy 4300 peptidase M28 1 43.5 0.001 1 35.2% 24.3% 148324 110281
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTVAADDNATGMAVLLEFARNFAAEPIKYPLRLVAFDMEEYGLLGSADYAALLREQGQNLR
+LMMSLEMLGYRDssPLGLIYPNriGLIGNWRTLADLMSLSRSIRQTG----------------VPSQWLP
+APNRGLMVPQTRL---SDHAPFWDQGYPAMMVTdmRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>CYB 0747 peptidase M28A family 1 43.1 0.001 1 42.1% 23.6% 105324 57257
+----------------------------------------------------------------------
+--------------------------------AGGRLHR-----NWILKLPGSRSGRPPI-LIGAHFDAA
+PAT--------PGADDNASGIAVLLELARHFAAEPASSPLWLVAFDLEERGMVGSGAYAQFLQRQRQSLR
+LMLSLEMLGYRDPTPG-----------SQDYPAGLEKLYPNRGDYIGLIGngDLLKLQHDFQKAG-----
+-IPCCWLLAGQRGlrLSDHSPFWDAGYPAVMVTdlRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Oscil6304 2789 putative aminopeptidase 1 43.1 0.002 1 18.7% 33.7% 130221 123211
+----------------------------------------------------------------------
+---------------------------------------------------------EEIIVIGAHYD--
+------SVVGSQGANDNGSGTAAVLAIAREFADKSTARTLRFVGFTNEEPPfmGSFVYAKRCRDRQENIV
+GMLSLETMG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Nos7107 0554 peptidase M28 1 42.7 0.002 1 36.3% 24.3% 148328 103279
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DAVPGTPGADDNATGVAVLLELARKFAVEPVKYPLRLVAFDMEEYGLLGSAEYAGLLHQQQQQLR
+LMISLEMLGYCNSTPGS-------QAYPRPLEKFYPNQglRTIRDL--------ISLSRSIRKVgsQWLP
+VPNRGLIVPQTRL---SDHAPFWDLGYPAIMVTDtnPNYHKPSDNI------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Syn7502 01452 putative aminopeptidase 1 42.4 0.002 1 19.8% 33.7% 124221 89187
+----------------------------------------------------------------------
+---------------------------------------------------GSDRAEE-IVVIGAHYD--
+------SVAGCPGANDNGSGAVGVLELARLFSKksPKKTLRFVQFVNEEPpmMGSLVYAKACKQRKEKIV
+GMLSIETIG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Dacsa 1648 putative aminopeptidase 1 42.4 0.003 1 38.8% 22.5% 148329 81258
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTAGADDNATGVAVLLELIREFVDNPLPIPLRFIAFDLEEYGMIGSEIYAEELKEKREKVS
+LMFSLEMLGYCSQEPNSQVYPPLIENFYPN-----TGNFIAFVGNLGTTKE--ARFFAGEMRKSGTP-SE
+WLSVPLSGNLLPETRLSDHSPFWDQGYKAMMVTDtnPNYHQPSDSIE-----------------------
+----------------------------------------------------------------------
+-----------------------------
+>Riv7116 0853 putative aminopeptidase 1 42.0 0.003 1 16.5% 29.7% 148221 84157
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTPAADDNASGVAVLLELARIFATQPTKYPIRLVAFDMEEAGLLGSKDYVNELVKKKQKLR
+LMMSLEMLG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>AM1 4982 peptidase M28 family 1 41.6 0.004 1 37.4% 24.3% 148324 85256
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGSPGADDNATGVAVLLELAQHFHHHPARHPIHIIGFDLEEYGRLGSQAYAQELRQTNTRIT
+TMISLEMLGY-------IDARKHTQRYPPGL-KYLYPSTGNFIALLglRSIPTMFKMSTHFKRNGAP-CE
+WLPVPLRGTPIPDTRRSDHASFWDYGYSAVMVTDTADshYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Osc7112 3796 peptidase M28 1 41.6 0.005 1 20.3% 31.0% 122221 120215
+----------------------------------------------------------------------
+-------------------------------------------------MTGGKKADE-IVVIGAHYD--
+------SVVGSPGANDNATGAAGVLALARMFADKKPEKTVRFVEFVNEEPPfmGSLVYAKRCRERNEKIV
+SMLSLETIG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>AM1 4085 peptidase M28 family 1 41.6 0.006 1 41.0% 25.5% 148355 154347
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DSVRGSPGSDDNATGVVVALEVARLLGDRKTIRPLRIVLFDQEEAGLVGSYAYAQRPENLK-NLD
+GVVILEMLgsCSTPGCQQVPGE----FKVKLPSDKGDF-------LAIAGDTEHLPLLNAFSEHHQPNLP
+ALVPVSilLTPVILR-SDHTPFWFEGIGAVMLTdlRNPHYHRRT-----------DTPDTVDAAFLTGnt
+AVN-------------------------------------------------------------------
+-----------------------------
+>GEI7407 1203 peptidase M28 1 40.0 0.016 1 37.6% 23.8% 148332 85263
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGSPAADDNATGVAALLEIGRAIAHHPARHPVRCVAFDLEEMGLVGSEQYATALRADKVSLR
+LMISLEMLGYCDRAPG-----------SQRYPSILDRFYPSQGDFIGLIGngDLLHFHRAMQRVGARS--
+--EWLPAGRRGLMvrQSDHAPFWDRGYRALMVTdlRNPHYHQPSD-RLET--------------------
+----------------------------------------------------------------------
+-----------------------------
+>Nos7524 4073 putative aminopeptidase 1 39.3 0.021 1 20.0% 25.5% 124221 68157
+----------------------------------------------------------------------
+---------------------------------------------------GTQKQDLPPILIGAHYD--
+------AVPGTSGADDNATGVAVLLELARKFAAQPVKYPLRLVAFDMEEYGLLGSADYAALLRQQQQPLR
+LMMSLEMLG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>GKIL 0436 peptidase M28 1 39.7 0.023 1 17.6% 37.6% 117201 307394
+----------------------------------------------------------------------
+--------------------------------------------NVVARLSGADPRFKQQAVltAHHDHL
+------GIGPAvgANDNASGVADLLAMAQAAKLAPPPksLYFAAVTAEESGLLGSAYFA-----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cyan7425 0754 peptidase M28 1 39.7 0.023 1 16.3% 31.1% 148221 130202
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVAGSPGADDNASGVATVLEIAHLFAQQSTARPLQLAFFDLEEQNLQGS-FAFANDPQQRADLA
+GVIVLEMLG-------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>AA650 02310 peptidase M28 1 38.1 0.058 1 39.9% 21.8% 128324 72255
+----------------------------------------------------------------------
+-------------------------------------------------------ADLPPILIGAHYDGV
+PGTV--------AADDNATGVAVLLEFARSFAETPARYPLRLVAFDMEEYGLLGSANYAALLHEQKQPLR
+LMISLEMLGYRDSTPGSQKYPFPLQFFYPNRGDFIALIG--NLRTL-----GDLISLSKSIDPSgsQWLP
+APNRGLLVPQTRL---SDHAPFWDQGYPAIMVTdmRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>GEI7407 2623 peptidase M28 1 37.7 0.095 1 12.5% 32.1% 148203 148203
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVADSPGSDDNATGLAVLLEAARLLGDRPTVRGLKLAFFDLEEAGLRGSLAMAAE---------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>all2989 hypothetical protein 1 36.6 0.18 1 36.1% 23.7% 148324 84255
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTVGADDNATGVVVLLELARKFATTPAKYPLRLVAFDMEEYGLLGSTDYAGLLRQQQQPLR
+LMMSLEMLGYRDSTPG-----------SQRYPA-PLEKFYPniALIglRTIPDLIGMSRNIRKAgsQWLP
+VPKRGLIVPQTRL---SDHAPFWDAGYPAIMVTdlRNPHYHQ----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Ava 0920 Peptidases M20 and M28 1 36.6 0.19 1 36.1% 23.2% 148324 84255
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTSGADDNATGVVVLLELARKFAAAPAKYPLRLVAFDMEEYGLLGSTDYAGLLRQQQQPLR
+LMMSLEMLGYRDCTPG-----------SQRYPA-PLEKFYPniALIglRTIPDLIGMSRHIRKAgsQWLP
+VPNRGLIVPQTRL---SDHAPFWDAGYPAIMVTdlRNPHYHK----------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Npun F5999 peptidase M28 1 36.2 0.24 1 17.6% 24.1% 148226 84162
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DGVPGTSAADDNATGVAVLLELARKFAAQAVKYPLRLVAFDMEEYGLLGSADYAALLHQQKQQLR
+LMISLEMLGYKDST--------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>glr1367 folate hydrolase homolog 1 36.2 0.38 1 30.7% 30.3% 117271 363515
+----------------------------------------------------------------------
+--------------------------------------------NVIARLPGAELPDE--WIIRghYDAW
+VL----------GAHDPISGTVALMEEARalTKSGWKptIVYAHWDGEEPGLLGseWVETHADELRKKAA
+IYINTDsmGGSHTLERYFNEVTRDVIDPQkiPVKERVRAGRIV-----GGSGEARREAR-----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Chro 5019 peptidase M28 1 33.9 1.2 1 12.2% 29.1% 148202 84138
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----DTVPGTPGADDNATGVSVLLELAKSLATQPAKHPIQLVAFDLEEYGFTGKDGIAV----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>GKIL 2068 glutamate carboxypeptidase II 1 33.5 2.3 1 15.6% 33.3% 117197 335409
+----------------------------------------------------------------------
+--------------------------------------------DVIARLPGSERPDQWI---------I
+RGNHYD--GWVFGANDPLSGAVTLLEEARALSewRPKRTIVFALWDGEEPGLIGS---------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>PCC7418 1574 Bifunctional DNA primase/polymerase 1 33.1 2.9 1 19.6% 23.6% 288376 840928
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----FIAKQERFWLI-HHPDIAQQMIRSVWYSAMEQNLIRehQQWSIIQGLISLNLPQFLDLEKTWTNQ
+SLDLKQLSEKTHALGIDRKLNLNT----------------------------------------------
+-----------------------------
+>Anacy 1363 SNF2-related protein 1 32.0 7.8 1 27.2% 30.3% 278409 405536
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------KRLPD
+LLEP--LYR--RAIASGHHWLAMETAELLSRLKP-SSNYKKQAEALREDSGIQ-----TIVDLIQPQEAW
+EMCLNALANLQKQPQTPGKPESELRliTFHSVQCSLQPKEQKvkGRPIALKRLSSGL-------------
+-----------------------------

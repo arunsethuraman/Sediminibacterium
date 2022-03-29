@@ -1,0 +1,764 @@
+>Lyngbya extdbtmp 000039 GNAT family N-acetyltransferase 1 100.0% 100.0% 5154
+NWYYKPFAELTPHELYAIMHLRSEVFVVEQNCVYLDADGKDLSSWHLMGWDGTKLVAYCRLLPAGLAFTE
+VSIGRVVSSPAYRGTGTGKTLMETAIQTCKALFGDQPIRIGAQLYLQKFYESLGFVQVSEMYLEDNIPHI
+EMRREGSSNK
+>Syn7502 02446 putative acyltransferase 1 120 1e-34 1 94.7% 40.1% 5146 4146
+NWYWQQFSDISGEEMHEILSLRQKVFVVEQRCAYLDADELDKQSWHLLgrNDRQLIAYARLNFPNTRYSE
+PSFGRVITTKEIRGIGAGRRVVKACIEKSTQEYPDLNIQISAQTYLVRFYQEFGFTSVGVPYDDAGIEHV
+NM--------
+>AOY38 16065 acetyltransferase 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>MYO 131240 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>SYNPCCP 3086 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>SYNPCCN 3086 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>SYNGTI 3087 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>SYNGTS 3088 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>sll0451 hypothetical protein 1 114 2e-32 1 94.7% 40.8% 5146 4146
+NWSWQRFNDISGEAMHEMLALRQEVFVVEQGCLYLDADGLDKQSWHLFGrnDQQLVAYARLNFPNTRYPE
+PSFGRVLTSKAIRGMGAGRKIVAACIQKSLREYPNLDLQISAQAHLTEFYAEFGFTKVGDPYDDHGIEHI
+SM--------
+>Nos7524 4188 putative acyltransferase 1 75.5 3e-17 1 87.3% 34.3% 16149 12143
+-----------PTEFPAIAAIRKTVFQEEQAvpLLEFDGKDETSDHLIAYLNHQAVGTARI--RYLDQQT
+AKIERLAVLSVARGQGIGRKMMEKALEVV-ASYNISEVIIHAQVYIKPLYQTLEFIEVGDIFIEAGIPHI
+EMRKK-----
+>Glo7428 3931 GCN5-related N-acetyltransferase 1 70.5 4e-15 1 88.0% 36.4% 12154 8146
+-------AEL--QEWQSIQEIRRVVFQEEQGvaALEFDGKDDTA--------EQLIAYWNAQPVGTARIr
+aKIERLAVLSTARGQGIGKQLMQKAIERAIAQKMQEAV-IHAQEYVKALYQQLGFIQEGETFDEAGIPHV
+KMRRKLTSNE
+>glr3403 hypothetical protein 1 68.2 3e-14 1 80.7% 35.9% 21148 16138
+----------------ALYYVRRVVFIEEQNVpeIEIDEWDTLSVHALACDAEGSPIGcrLLPDG-----
+-HLGRMAVLAAWRSRGVGKALLECLLSLAQAA-GMEAVELSAQVHAQPFYEKFGFKAFGEIYDEAGIPHR
+AMRR------
+>Chro 5227 GCN5-related N-acetyltransferase 1 67.4 5e-14 1 88.0% 36.6% 12153 14152
+-------AEL-PEDFSAMRSVRAAVFQLEQRipELDFDGKDETS--------DQLVAYINDQPIGTARIr
+aKIERLAVLPIVRGKGIGKLIMEKAIELA-AQKKMQEVVIHSQEYIQGLHQKLGFEPEGAVFEEAGIPHV
+KMRKKLGST-
+>PCC7424 0647 GCN5-related N-acetyltransferase 1 67.0 6e-14 1 87.3% 32.3% 17149 13144
+------------QEKIVINTIRTLVFQQEQGVaeLEFDGQDETATHLLAYLNDKPVGTLRI--RQLQPEI
+VKIERLAVLKPARGQGIGKKLMISALTLVQKNPQIKQVTLNAQDYIKKLYETLGFEQIGDRFDEAGIPHV
+KMIKQ-----
+>Ava 2943 GCN5-related N-acetyltransferase 1 67.4 6e-14 1 87.3% 32.8% 16149 24155
+-----------PEEFPVVATIRKIVFQEEQGvaALEFDGKDDICEHLIAYLDDQAVGTARL--RYLDDKT
+VKIERLAVLSIARGQGIGQKIMEKALEFIAHKNITEAV-VHAQTYIKSLYQKLNFTEVGEIFIEASIPHI
+EMRKK-----
+>Npun F4747 GCN5-related N-acetyltransferase 1 66.2 2e-13 1 97.3% 33.3% 5154 3149
+NFLSIKVAEI-PKDYPEIQAIRRVVFLDEQKVdaLEFDGKDAISEHLVAYLNEEAVGTARI--RYLEDKT
+AKIERLAVLSTARGQGIGTKIMEKALQVI-ANKNITEVVIHAQEYVKDLYKKLDFVEEGEIFEEASILHV
+KMRRKISSSK
+>alr0541 hypothetical protein 1 65.9 3e-13 1 84.7% 34.8% 16147 27156
+-----------PEEFPVVATIRKIVFQEEQGvtALEFDGKDDICEHLIAYLDNQAVGTARL--RYLDDKT
+VKIERLAVLSIARRQGIGQKIMEEALEFikNM---TEVVVYAQLYIKSLYQKLNFIEVGEIFLEAGIPHI
+EMR-------
+>cce 2219 hypothetical protein 1 63.9 1e-12 1 91.3% 34.5% 8146 2141
+---YKVTIEITNYqiEAIKKIRVAVFQKEQGVdaLEFDGNDNNCIHLLAYLDKEAVGTARIRY--IDEST
+AKIERLAVLSQTRGQGIGKALMKQAIAFIQEQKHCQKIVIHAQVYIQSLYEKLGFEPVGDRFKEAEILHI
+KM--------
+>Sta7437 1589 GCN5-related N-acetyltransferase 1 63.2 2e-12 1 82.7% 34.9% 18146 14140
+-------------KMQEIKTIRTQVFQVEQGVAelEFDGLDEKSQHLIAYLNQQPVGTTRIRT--IDEQT
+VKIERLAVLSEARGQGIGKKLMEKALEIVS---NdqAVIIHAQEYIKELYLKLGFEQVGKTFQEAGIAHI
+KM--------
+>Riv7116 3941 putative acyltransferase 1 63.2 2e-12 1 83.3% 35.2% 25152 20145
+--------------------IRRRVFQDEQNvaQLDIDGKDKFCPQLIAYLDNAVVGTARI--RYLDRKT
+AKIERLAVLSYARGNGIGKRLMQKALEVI-ASENIAEVYINAQEYIKGLHQQLGFEQVGEAFLEAGIPHV
+KMVKIVSS--
+>Cri9333 2907 GCN5-related N-acetyltransferase 1 61.6 7e-12 1 86.7% 34.6% 11146 8140
+------IAEL-PLEFPAIKKIRKAVFQLEQGisTLDFDGEDEKHEHILAYLDDQPVGTARI--KYLDNKT
+AKIERLAVLSEVRGQGIAKKIMASALdtQKGFI---KVLIHAQEYVKGLHEKLGFEQVGEIFEEAGIPHV
+KM--------
+>Cyan7822 5808 GCN5-related N-acetyltransferase 1 61.6 9e-12 1 86.7% 28.8% 18149 14144
+-------------EKININNIRTLVFQIEQGVteLEFDGQDETAIHLLAYCAQKPVGTLRI--RHIDPKT
+VKIERLAVLQSARHQGIGKKLLQKALDIAQNELKIEKVIVNAQEYIKKLYDHFGFQQFGDSFFEAGILHI
+KMIKQ-----
+>Cyan8802 0716 GCN5-related N-acetyltransferase 1 61.6 9e-12 1 81.3% 35.2% 23147 17141
+------------------LAIRHEVFVLGQNvlALEVDGLDNQSVhlLYFDHNPitARLRFVNQG---QD
+AKIERVAILSNYRSQGLGKQLMQFILDDLRENDTIKSVVLGAQIQVISFYQSLGFTVYGEVFLEAGIEHQ
+MMR-------
+>PCC8801 0688 GCN5-related N-acetyltransferase 1 61.6 9e-12 1 81.3% 35.2% 23147 17141
+------------------LAIRHEVFVLGQNvlALEVDGLDNQSVhlLYFDHNPitARLRFVNQG---QD
+AKIERVAILSNYRSQGLGKQLMQFILDDLRENDTIKSVVLGAQIQVISFYQSLGFTVYGEVFLEAGIEHQ
+MMR-------
+>PCC7418 0010 GCN5-related N-acetyltransferase 1 58.2 2e-10 1 76.7% 34.5% 25143 18135
+--------------------IRTQVFVMEQgsAEIETDEWENHSTHYLAGDGEKALATArlINNQTA---
+-KIERVAVLKEARSQGVGTELMRYILQEIHSYSNIQTIKLGSQNSAIPFYEKLGFQVIGEEYLDAGIPH-
+----------
+>Pse7367 1619 GCN5-related N-acetyltransferase 1 57.4 4e-10 1 82.7% 33.6% 22146 18152
+-----------------IEQIRRQVFHLEQGVAtlDFDGEDATATQLLAFYAGQPAATTRIRYLSLNFEh
+aKIERLAVLTTYRRKGIGSKLMQAAIEVISDR-GIKQVKIHAQAYVAKMYLQLGFEPQGEEFYEAGIAHL
+EM--------
+>GKIL 4163 GCN5-related N-acetyltransferase 1 56.2 8e-10 1 80.7% 33.6% 18148 15137
+-------------ELY---YVRRLVFIEEQAvaEIEIDGWDELSIHVLARdgGEPIGCGRLLPDG-----
+-HIGRMAVLPAWRGQGVGRALLDCLLDLAQKA-GIETVHLSAQVHAIPFYLKAGFVPYGDIYDEAGIPHR
+AMHK------
+>Ple7327 3219 putative acyltransferase 1 56.2 1e-09 1 84.7% 31.0% 18146 14141
+-------------EATTIHSIRRLVFQEEQGVaeVEFDGRDETATHLLAYLNGQPVGTIRI--RFLDKKT
+AKIERLALLPLARGKGIGKKLMKAATEIVEKNENYEEIVIHAQEYIKELHKQLGFESAGEPFYEAGILHI
+KM--------
+>Dacsa 0334 putative acyltransferase 1 55.1 2e-09 1 79.3% 32.2% 23143 16136
+------------------MMIRTRVFVIEQnaANLETDEFENTSTHYLVGNGEGFIATAR--SRFLEDKE
+TaiERVAVLKEARGKGVGRQLMDYILNDLYTSPHLKTIKLGSQKTAIGFYQKLGFQVIGEEYIDAGIPH-
+----------
+>AM1 1472 acetyltransferase gnat family 1 52.0 4e-08 1 79.3% 32.0% 22146 25148
+-----------------IFLIRQQVFHIEQNipELDMDGEDETANHFVAYWQQQPVGIARIRAYGDG-TQ
+AKIERVAVLEGFRQQGIGKAITTAALQ-----YAQQQGFATAILYAQsfYEQFGFERRGDPFLQADMLHI
+AM--------
+>PCC8801 2632 GCN5-related N-acetyltransferase 1 46.2 5e-06 1 57.3% 34.4% 54149 53148
+-------------------------------------------------WDGKRMIGFCRGTSDGIY--R
+GTIWDVVIHPDYQGAGLGRKLVETAL--------SHPIMCRVetYQQNFYERIGFqqSTTMVLqdQITHL
+PLSNQ-----
+>Cyan8802 3471 GCN5-related N-acetyltransferase 1 46.2 6e-06 1 55.3% 35.5% 54146 53145
+-------------------------------------------------WDGKRMIGFCRGTSDGIY--R
+GTIWDVVIHPDYQGAGLGRKLVETAL--------SHPIMCRVetYQQNFYERIGFqqSTTMVLqdQITHL
+PL--------
+>Cyan10605 0865 GCN5-related N-acetyltransferase 1 44.3 3e-05 1 78.0% 27.0% 25146 20137
+--------------------IRYRVFVIEQNveTLELDDRDSICIHLLLKLNNYYIGTGRIDLQ----QQ
+GKIGRLAVLPSFRNKGYGQIILHN-LELVARENQLNSVWLNAQKQSLNFYLKSGYNTISDEFLEANIPHL
+KM--------
+>Sta7437 1026 GCN5-related N-acetyltransferase 1 42.7 8e-05 1 46.0% 37.2% 54131 53126
+-------------------------------------------------WDQHKLIGFSRATSDGIY--R
+AGIWDVVVHPEYRGMGLGRKLVETVISHPK-------VNKVERVYlqSFYERIGFKQ-------------
+----------
+>Syn7502 02021 acetyltransferase N-acetylglutamate synthase 1 42.0 2e-04 1 42.7% 35.5% 54129 53124
+-------------------------------------------------WDGVKLIGHAR--ATSDVVYR
+ATIWDVVIDPDYRGTGLGRKLVQTVlrVCNV----------ERVYlqKFYQHIGF---------------
+----------
+>Nos7107 1527 GCN5-related N-acetyltransferase 1 42.0 2e-04 1 45.3% 33.8% 54130 53125
+-------------------------------------------------WDDTKLIGFARATSDGIY--R
+ATIWDVVIHPDYQGTGLGSKLIETVLSHPR-------MKLVECVYlqGFYKKMGFI--------------
+----------
+>ETSB 0204 N-acetyltransferase 1 40.8 5e-04 1 44.0% 31.6% 54129 53124
+-------------------------------------------------WDTTRMIGFCRGISDGIY--R
+GTIWDVLVCPEYQGLGLGRKLVETTL--------SHPLMCRVetYQRKFYERIGF---------------
+----------
+>cce 4205 hypothetical protein 1 40.4 7e-04 1 48.0% 32.9% 54129 53124
+-------------------------------------------------WDGKTMIGFCRGTSDGVY--R
+ATIWDVVIHKEYQGLGLGRKLVETAL--SHPLMSQVERVYLMTTYQQKFYQKIGF---------------
+----------
+>Cri9333 2439 GCN5-related N-acetyltransferase 1 40.0 0.001 1 44.7% 34.2% 54129 53124
+-------------------------------------------------WDKNKLIGFARATSDGI--YR
+ATIWDVVIDPNYRGAGLGRKLVETVLSHPR-------MSRVERVYlqSFYERIGF---------------
+----------
+>Glo7428 2582 GCN5-related N-acetyltransferase 1 40.0 0.001 1 44.7% 34.2% 54129 61132
+-------------------------------------------------WDGEKLIGFARATSDGV--YR
+ATIWDVVIHPDYRGAGLGRKLVESVLSHPH-------MNRVERVYlqSFYERIGF---------------
+----------
+>Lepto7376 2602 GCN5-related N-acetyltransferase 1 39.7 0.001 1 52.0% 32.2% 54140 57141
+-------------------------------------------------WDGDRMIGFTRGTSDGVF--R
+ATIWDVVIHPDYQGLGLGRKLVETLISHPR-------MNRVERIYlqEFYERIGFtqTTTMVLHNH----
+----------
+>Pse7367 2217 GCN5-related N-acetyltransferase 1 39.3 0.001 1 48.0% 28.9% 54129 53124
+-------------------------------------------------WDGDKLIGHARATSDGIY--R
+ATIWDVIIHPDYQGSGLGRKLVQTVLSHPKVCNVERTYLMTT--HQQSFYARIGF---------------
+----------
+>Ava 1487 GCN5-related N-acetyltransferase 1 39.3 0.002 1 44.7% 32.9% 54129 53124
+-------------------------------------------------WDAERLIGFARATSDGI--YR
+ATIWDVVIHPDYQGNGLGSKLVETVLAHPR-------MRWVERVYlqEFYEKIGF---------------
+----------
+>Mic7113 0225 acetyltransferase N-acetylglutamate synthase 1 39.3 0.002 1 48.0% 31.6% 54129 53124
+-------------------------------------------------WDGEQLIGFSRATSDGIY--R
+GTIWDVVIHPDYRGVGLGRKLVETVLSHPRMNRVERVYLMTT--HQQSFYERIGF---------------
+----------
+>Cyan7425 1749 GCN5-related N-acetyltransferase 1 39.3 0.002 1 50.0% 30.4% 51129 57131
+----------------------------------------------ISAWDREQLIGFARATSDGIY--R
+ATIWDVVIHPDYRGSGLGRKLVQTVL--AHPLVNKVERVYLMTTHQQKFYERIGF---------------
+----------
+>Cyan7822 3304 GCN5-related N-acetyltransferase 1 39.7 0.002 1 62.0% 29.8% 44137 87184
+---------------------------------------KLLNSWQHLRQKLVYKLIFNRFLKENYPHKS
+CYVANLAVHPEYRGRGIGTKLLESCLEKAKGL-GSTSVWISVDirAQKLYESVGfvETKKMLL-------
+----------
+>Anacy 1414 GCN5-related N-acetyltransferase 1 38.9 0.002 1 49.3% 33.3% 54137 53131
+-------------------------------------------------WDGERLIGFARANSDGI--YR
+ATIWDVVIHPEYQGNGLGIKLVETVL--------SHPRMHVERVYlqAFYEKIGFQVNSTMTM-------
+----------
+>Syn6312 0728 acetyltransferase N-acetylglutamate synthase 1 38.9 0.003 1 53.3% 34.8% 41129 47140
+------------------------------------AQGRDlsDVVVTAWNGAKLIGMARALSDRVY--R
+ATVWDVVVLPQYRGQGLGKQLVQTLLETPE-------LKRVERIYlqAFYERFGF---------------
+----------
+>PCC7424 0993 GCN5-related N-acetyltransferase 1 38.5 0.003 1 48.0% 31.6% 54129 53124
+-------------------------------------------------WDGNQMIGCARATSDGIY--R
+ATIWDVVIAPHYQGFGLGRKLVETVLS--HPLLSRVERVYLMTTYQQNFYERIGF---------------
+----------
+>Nos7524 1407 acetyltransferase N-acetylglutamate synthase 1 38.5 0.003 1 46.7% 35.5% 54129 53123
+-------------------------------------------------WDGERLIGFAR--ATSDCIYR
+GTIWDVVIHPDYRGTGLGSKLVETVLSHPRM----QVERVYLMTTEQkfYEKIGF---------------
+----------
+>Riv7116 1609 acetyltransferase N-acetylglutamate synthase 1 38.5 0.003 1 58.7% 28.3% 54145 53144
+-------------------------------------------------WNKQQLIGFAR--ATGDGVYR
+ATIWDVVIHPDFRGTGLGSKLVETVLSHPRMSKVERVYLMTT--HQQRFYEKIGFEQNSsiYNRSNLTNL
+D---------
+>Oscil6304 0244 acetyltransferase N-acetylglutamate synthase 1 38.1 0.005 1 47.3% 31.2% 54133 53128
+-------------------------------------------------WEGERLIGLARATSDGIY--R
+ATIWDVIIHPEYQGVGLGRKLVET-------LLSHPRMNRVERVYlqRFYERIGFEENS-----------
+----------
+>all0118 hypothetical protein (ycf52) 1 38.1 0.005 1 44.7% 32.9% 54129 53124
+-------------------------------------------------WDAEHLIGFARATSDGIY--R
+ATIWDVVIHPDYQGNGLGSKLVETVLAHPR-------MRWVERVYlqEFYEKIGF---------------
+----------
+>Cyast 0196 GCN5-related N-acetyltransferase 1 38.1 0.005 1 64.0% 30.0% 54153 60157
+-------------------------------------------------WDNKRLIGSARATSDGIY--R
+ATIWDVVIDAEYQGLGLGRKLVETLIS--HPLLNRVERIYLTTTHQQKFYQRIGFveTTTMVLYNSYPNP
+EDLLKQSQN-
+>SYNPCC7002 A0832 acetyltransferase GNAT family 1 37.7 0.006 1 42.7% 34.2% 54129 57128
+-------------------------------------------------WDGDRLIGFTRGTSDGVF--R
+ATVWDVVIHPDYQGLGLGRKLVETLirMCRV----------ERVYlqTFYERIGF---------------
+----------
+>Osc7112 2305 GCN5-related N-acetyltransferase 1 37.7 0.006 1 49.3% 28.2% 54131 58131
+-------------------------------------------------WDGSRAIGFARATSDGI--YR
+ATIWDVAIHPDYQGAGLGRKLVQTVLSHPRMCRVERVYLMTT--YKQSFYERIGFQQ-------------
+----------
+>GEI7407 2471 GCN5-related N-acetyltransferase 1 37.7 0.006 1 44.7% 32.9% 54129 60131
+-------------------------------------------------WDGDRLIGFARATSDGI--YR
+AMIWDVVIHPDYQGAGLGRKLVETVLSHPR-------LSRVERVYlqAFYERIGF---------------
+----------
+>Ple7327 2658 acetyltransferase N-acetylglutamate synthase 1 37.7 0.007 1 48.0% 30.3% 54129 53124
+-------------------------------------------------WDANRTIGFARATSDGIY--R
+ATIWDVVIHPDYRGLGLGRKLVETVLS--HPLLNRVEKVYLMTTHQQSFYERIGF---------------
+----------
+>Dacsa 3297 acetyltransferase N-acetylglutamate synthase 1 37.7 0.007 1 48.0% 31.6% 54129 50121
+-------------------------------------------------WEGERLIGFSR--ATSDCVYR
+ATIWDVVIHPEYQGVGLGSTLVETMLAHPR-LIGVERVYL-MTTYQQNFYQQIGF---------------
+----------
+>PCC7418 2144 GCN5-related N-acetyltransferase 1 37.4 0.007 1 48.0% 30.3% 54129 50121
+-------------------------------------------------WEGERLIGFSRATTDCVY--R
+ATIWDVVVHPEYRGIGLGSTLVETMLAHPRLCNVERVYLMTT--YQQNFYKQIGF---------------
+----------
+>Cyan7822 1485 GCN5-related N-acetyltransferase 1 37.4 0.009 1 48.0% 30.3% 54129 53124
+-------------------------------------------------WDGNRMIGCARATSDGIY--R
+ATIWDVVIDPDYQGFGLGRKLVETVL--SHPLLNRVERVYLMTTYQQNFYQRIGF---------------
+----------
+>AM1 1812 acetyltransferase gnat family 1 37.0 0.010 1 47.3% 32.5% 54133 37112
+-------------------------------------------------WDREELIGFARATSDGI--YR
+AMIWDVVIHPDYRGQGLGRQLVQT-------LLAHPRMNRVERIYlqRFYEHIGFASNS-----------
+----------
+>Cyan10605 0734 GCN5-related N-acetyltransferase 1 36.6 0.015 1 48.0% 31.6% 54129 53124
+-------------------------------------------------WDRQRLIGSARATSDGIY--R
+ATIWDVVIHPDYQGLGLGRKLVETII--SHPLLNRVERVYLTTTHQQKFYQKIGF---------------
+----------
+>Cal6303 3135 GCN5-related N-acetyltransferase 1 36.2 0.024 1 34.0% 35.3% 84134 92142
+----------------------------------------------------------------------
+---------PNYRNQGIGTHLLTQLLETAKKDFPALSLNVRANNPVVKLYEGLGFVKVPQ----------
+----------
+>Tery 3035 GCN5-related N-acetyltransferase 1 35.8 0.030 1 44.7% 29.4% 76143 73139
+----------------------------------------------------------------------
+-SISYVAVLPKFQSQGVGTALIQKIIEIAKEK-QLKSLRVMSRLSASKFYEKIGFISTGQQLNFLGIPH-
+----------
+>CYB 0503 acetyltransferase GNAT family 1 35.0 0.065 1 44.0% 37.8% 61134 88164
+--------------------------------------------------------SYRRLIGFARATSd
+aTIWDVVVHPDFQGRGLGKRLMEKVIHELRalFADQGV--------VSFYERLGFTADPE----------
+----------
+>Oscil6304 0804 acetyltransferase 1 35.0 0.069 1 56.7% 30.3% 46134 81165
+-----------------------------------------VSMWEMRG-KTRRLIGFSRAT-SDHAFN-
+ATIWDVVVHPEYQGKGFGKSLMNYTIKRLRSE-DISNITLFADPHVVEFYRNLGFMSDPE----------
+----------
+>Syncc9605 1561 putative ribosomal-protein-alanine acetyltransferase 1 35.0 0.081 1 33.3% 39.6% 77129 67116
+----------------------------------------------------------------------
+--IGLFVVKPEHRGQGIGRRLWQHALKT---LSGVQCIGLEAAVQMVGFYERAGF---------------
+----------
+>ANA C20556 GCN5-related N-acetyltransferase 1 34.3 0.085 1 44.7% 30.3% 54129 53124
+-------------------------------------------------WEKELLIGFARATSDGI--YR
+ATIWDVVIHPEYQGNGLGSKLVETVLSHPR-------MQKVERVYlqEFYEKIGF---------------
+----------
+>Chro 4880 GCN5-related N-acetyltransferase 1 34.7 0.086 1 56.7% 30.3% 46134 81165
+-----------------------------------------VSMWQVRG-TQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPSFQGKGLGKALMKYAIKKLRAE-DISNITLFADPHVVDFYRGMGFMTDPE----------
+----------
+>Nos7524 2077 acetyltransferase 1 34.3 0.091 1 43.3% 34.8% 84149 91159
+----------------------------------------------------------------------
+---------PHYQGQGIGRTLVEHFCHTATTQ-GVERVVTTASLYAEGFYLRLGFTSIKRvhLGSgvPVM
+EMSKE-----
+>KR52 08405 alanine acetyltransferase 1 34.7 0.097 1 33.3% 35.8% 77129 67116
+----------------------------------------------------------------------
+--IGLFVVKPEHRGQGIGRHLWQHALKTLSSV---QCIGLEAAVQMMDFYEKAGF---------------
+----------
+>Nos7524 0733 acetyltransferase 1 34.3 0.10 1 34.0% 40.4% 80131 84137
+----------------------------------------------------------------------
+-----VTVSPKFRGQGIGNQMMKAAIQM-SADAGCYKVTLSSNlrAHQFYQSLGFEQ-------------
+----------
+>PMM0562 possible acetyltransferase 1 33.9 0.13 1 46.0% 30.6% 58129 93161
+-----------------------------------------------------RLVGFARCTGDGI--IE
+ATIWDVAINPVYQGLGLGKELMKYILQELKKI-GISKVTLFADAEVVSFYKRQGW---------------
+----------
+>Osc7112 2311 GCN5-related N-acetyltransferase 1 33.9 0.14 1 56.7% 30.3% 46134 89173
+-----------------------------------------VSMWEMRG-SQRRLVGFARAT-SDHAFN-
+ATLWDVVVHPDYQGKGMGKALMKYIIKKLRSE-DISNITLFADPHVVDFYRNLGFMADPE----------
+----------
+>P9301 12541 Hypothetical protein 1 33.5 0.15 1 48.7% 27.0% 73146 60132
+--------------------------------------------------------------------NK
+ARIRKMATKPAYQKKGFGSKLICHSISFLE-LKNINYIYLFSRKKAQMFYEKFGFLSEGDYFKKENISYI
+KM--------
+>AM1 B0233 acetyltransferase putative 1 33.9 0.16 1 40.7% 26.2% 80140 73133
+----------------------------------------------------------------------
+-----MATAPGWRNQGIGTGLIRYLLEDLQESNQARPIWSNARVSSARFYRELGWREVSEQFENGN----
+----------
+>AA650 05290 acetyltransferase 1 33.5 0.17 1 44.7% 31.6% 54129 53124
+-------------------------------------------------WDRELLIGFARATSDGI--YR
+ATIWDVVIHPDYQGNGLGSKLVETVLSHPRM----QKVE---RVYlrEFYEKIGF---------------
+----------
+>MAE 08900 putative acetyltransferase 1 33.5 0.17 1 44.7% 27.6% 54129 54125
+-------------------------------------------------WNERQLIGFARAISDGIY--R
+ATIWDVIVHPDYQGAGLGRKLVETVLAHPR-------INRVERVYleNFYRRIGF---------------
+----------
+>SynWH7803 0698 Possible acetyltransferase 1 33.5 0.17 1 46.0% 31.9% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVLE
+ATIWDVAVHPLYQGAGLGKQLMDYILDCLRAL-GTERATLFADPGVLPFYQRLGW---------------
+----------
+>AM1 H0017 acetyltransferase gnat family 1 33.5 0.18 1 40.7% 26.2% 80140 73133
+----------------------------------------------------------------------
+-----MATAPGWRNQGIGTGLIRYLLEDLQESNQARPIWSNARVSSARFYRELGWREVSEQFENGN----
+----------
+>Syncc8109 1072 putative ribosomal-protein-alanine acetyltransferase 1 33.9 0.19 1 33.3% 39.6% 77129 67116
+----------------------------------------------------------------------
+--IGLFVVKPEHRGQGIGRQLWHHALKT---LGGVQCIGLEAAVQMVDFYERDGF---------------
+----------
+>Pse7367 1155 GCN5-related N-acetyltransferase 1 33.5 0.19 1 53.3% 29.8% 46129 73152
+-----------------------------------------ISMWEKRG-TYSRLIGFARAT-SDHAFN-
+ATLWDVVVHPEYQGKGLGKALMKETIKSLRQA-DISNISLFADAHVVEFYRQLGF---------------
+----------
+>GKIL 3656 ribosomal-protein-alanine N-acetyltransferase 1 33.5 0.20 1 38.7% 33.9% 76134 91148
+----------------------------------------------------------------------
+-TIWDVVVHPEYQGKGLGRALMDRIIAELRAA-DISNITLFADPHVVDFYRRLGFIPDPE----------
+----------
+>P9215 06431 possible acetyltransferase 1 33.5 0.23 1 46.7% 27.4% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGI--LE
+ATVWDVAINPVYQGIGLGKELMKYVLKELKNI-GISKVTLFADAEVVSFYKRQGWI--------------
+----------
+>M744 05135 hypothetical protein 1 33.1 0.25 1 46.7% 25.7% 56129 66135
+---------------------------------------------------GDRLLGFARATSDGIY--R
+ATIWDVIVHPDFQGSGIGRKLVETVLSHPHVSHAERVYLMTT--HQQRFYEKVGF---------------
+----------
+>Synpcc7942 2240 conserved hypothetical protein YCF52 1 33.1 0.25 1 46.7% 25.7% 56129 66135
+---------------------------------------------------GDRLLGFARATSDGIY--R
+ATIWDVIVHPDFQGSGIGRKLVETVLSHPHVSHAERVYLMTT--HQQRFYEKVGF---------------
+----------
+>syc1858 c hypothetical protein YCF52 1 33.1 0.25 1 46.7% 25.7% 56129 66135
+---------------------------------------------------GDRLLGFARATSDGIY--R
+ATIWDVIVHPDFQGSGIGRKLVETVLSHPHVSHAERVYLMTT--HQQRFYEKVGF---------------
+----------
+>Chro 2694 GCN5-related N-acetyltransferase 1 33.1 0.26 1 56.0% 26.1% 54141 76161
+-------------------------------------------------WDEERLIGFARATSDGIY--R
+ATIWDVAIHPDYQGRGLGRKLVQTVLSHPRMSRVERVYLMTT--HQQRFYERIGFesSTTMVLKDRL---
+----------
+>PMT 1191 possible acetyltransferase 1 33.1 0.27 1 46.0% 29.2% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVLE
+ATVWDVAIHPIYQGVGLGKHLMDYTLESLKEM-GVKRVTLFADPGVVDFYERQGW---------------
+----------
+>P9303 08251 possible acetyltransferase 1 33.1 0.29 1 46.0% 29.2% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVLE
+ATVWDVAIHPIYQGVGLGKHLMDYTLESLKEM-GVKRVTLFADPGVVDFYERQGW---------------
+----------
+>CYA 2174 acetyltransferase GNAT family 1 33.1 0.30 1 44.7% 33.8% 58134 91164
+-----------------------------------------------------RLIGFARAT-SDHAFN-
+ATIWDVVVHPEFQGRGLGRRLMEKVIHELRalFADRDV--------VSFYERLGFTPDPE----------
+----------
+>AM1 3686 acetyltransferase putative 1 32.7 0.33 1 40.7% 29.5% 74134 85145
+---------------------------------------------------------------------E
+IRIIDIAILPAYRGQGIGSSLLQQILAEGQCSHKSVRIHVEQNNRALKLYQRLGFQKKSE----------
+----------
+>Npun F3853 GCN5-related N-acetyltransferase 1 32.7 0.39 1 44.7% 28.9% 54129 53124
+-------------------------------------------------WDRDRLIGFARATSDGIY--R
+ATIWDVVIHPEYQSSGLGSNLVKTVLSHPR-------MRRVERVYlqGFYKKIGF---------------
+----------
+>Nos7107 1734 GCN5-related N-acetyltransferase 1 32.7 0.40 1 44.0% 29.9% 76142 86154
+----------------------------------------------------------------------
+-EIKRMYVKPKFREKGIGKALLENIIYEA-ANIGYSKLRLDTAPFtqTLYHSLGFQDIEPYFAKHEVP--
+----------
+>M744 12880 acetyltransferase 1 32.3 0.49 1 35.3% 36.4% 76130 115168
+----------------------------------------------------------------------
+-TIWDVVINPSFQGQGLGRVLMEYVIAQLQQ--AEIpiTLFADPHVVDFYRRLGFV--------------
+----------
+>P9515 06261 possible acetyltransferase 1 32.3 0.49 1 46.7% 28.8% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGV--IE
+ATIWDVAVNPVYQGLGLGKELMKYILKELKKT-GISKVTLFADAEVVSFYKRQGWI--------------
+----------
+>Cyan7822 2839 GCN5-related N-acetyltransferase 1 32.3 0.51 1 54.0% 29.4% 46130 80160
+-----------------------------------------VSMWEVRG-NRRRLIGFARAT-SDYAFN-
+ATIWDVVVHPSFQNQGLGKALMKYMIKKLRSE-DISNITLFADPQVIDFYRRLGFV--------------
+----------
+>Aazo 4968 GCN5-related N-acetyltransferase 1 32.0 0.54 1 46.7% 30.3% 54129 53123
+-------------------------------------------------WDREHLIGFARANSDGI--YR
+ATIWDVVIHPEYQGNGLGIKLVETVLSHPRM----QVERVymTTYQHAFYKKIGF---------------
+----------
+>PMT9312 0562 acetyltransferase-like protein 1 32.3 0.59 1 46.7% 26.0% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGI--LE
+ATVWDVAVNPVYQGLGLGKEIMKYVLKELKNI-GISKVTLFADAEVVTFYKRQGWI--------------
+----------
+>M744 00665 GCN5 family acetyltransferase 1 32.0 0.66 1 30.7% 43.5% 84129 67114
+----------------------------------------------------------------------
+---------PDYRGQGIGKALMVAAIARAQAEGGRRLIVATGNSSLDpfYQKLGF---------------
+----------
+>Synpcc7942 0460 putative acetyltransferase 1 32.0 0.66 1 30.7% 43.5% 84129 67114
+----------------------------------------------------------------------
+---------PDYRGQGIGKALMVAAIARAQAEGGRRLIVATGNSSLDpfYQKLGF---------------
+----------
+>syc1058 d putative acetyltransferase 1 32.0 0.66 1 30.7% 43.5% 84129 67114
+----------------------------------------------------------------------
+---------PDYRGQGIGKALMVAAIARAQAEGGRRLIVATGNSSLDpfYQKLGF---------------
+----------
+>PCC7424 1451 GCN5-related N-acetyltransferase 1 32.0 0.66 1 52.7% 32.9% 46130 80160
+-----------------------------------------VSMWEVRG-NRRRLIGFARAT-SDYAFN-
+ATIWDVVVHPSFQNKGLGKALMKYMI---KKLRGEdnITLFADPQVIDFYRRLGFV--------------
+----------
+>Pse7367 1357 GCN5-related N-acetyltransferase 1 32.0 0.69 1 40.0% 33.3% 75134 94156
+----------------------------------------------------------------------
+VKIGRLANAIAVRGKGIGRKLLFHAlqTVekMVGVSGVTADAKIESIGFYEKYGFLRLED----------
+----------
+>P9301 05881 possible acetyltransferase 1 32.0 0.70 1 46.7% 27.4% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGI--LE
+ATVWDVAINPVYQGLGLGKELMKYILKELKNI-GISKVTLFADAEVVTFYKRQGWI--------------
+----------
+>syc0763 d hypothetical protein YCF52 1 32.0 0.70 1 36.7% 35.1% 74130 141196
+---------------------------------------------------------------------N
+ATIWDVVINPSFQGQGLGRVLMEYVIAQLQQ--AEIpiTLFADPHVVDFYRRLGFV--------------
+----------
+>Glo7428 2577 GCN5-related N-acetyltransferase 1 32.0 0.71 1 56.0% 29.5% 47134 91174
+------------------------------------------SMWEVRG-TQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPSFQGKGLGKALMKYMIKKLRSE-DISNITLFADPHVVDFYRGLGFMSDPE----------
+----------
+>GEI7407 1154 GCN5-related N-acetyltransferase 1 31.6 0.72 1 56.7% 29.2% 46134 60144
+-----------------------------------------VSMWEQRG-ERRRLIGFSRAT-SDHAFN-
+ATIWDVVIHPNFQGKGLGKALMRHMIKKLRNE-DISNITLFADPHVVDFYRTLGFMPDPE----------
+----------
+>D082 14170 SAM-dependent methyltransferase DSY4148 1 32.3 0.74 1 28.7% 32.6% 547 112154
+NWFQTKFVEIRPGDAFALPVPDNSVDLVAQNCLFNIFEPEDLS---------------------------
+----------------------------------------------------------------------
+----------
+>PCC7424 3352 GCN5-related N-acetyltransferase 1 32.0 0.75 1 54.0% 24.7% 43123 37122
+--------------------------------------ARDMISLSLVAHIDEQIVGYIAFSPVELESNE
+SSlaPLAILPQYQRQALGSNLVEIGLQQCQALGYEAIVVLGEPTFYHRF---------------------
+----------
+>CYA 2292 acetyltransferase GNAT family 1 32.0 0.80 1 46.7% 29.1% 53131 108182
+------------------------------------------------AWDGERLIGFGRATSDGV--YR
+AVLWDIVVDHEYRRQGIGRKLVET-------LISHPHLQSVERIYlrGFYERIGFVE-------------
+----------
+>EW14 0608 N-acetyltransferase (GNAT) family 1 32.0 0.80 1 46.7% 26.0% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGI--LE
+ATVWDVAINPVYQGLGLGKEIMRYVLKELKNI-GISKVTLFADAEVVSFYKRQGWI--------------
+----------
+>Synpcc7942 0773 conserved hypothetical protein YCF52 1 32.0 0.81 1 35.3% 38.2% 76130 134187
+----------------------------------------------------------------------
+-TIWDVVINPSFQGQGLGRVLMEYViqLQQAEIPN--ITLFADPHVVDFYRRLGFV--------------
+----------
+>A9601 06181 possible acetyltransferase 1 31.6 0.82 1 46.7% 26.0% 58130 93162
+-----------------------------------------------------RLVGFARCTGDGI--LE
+ATVWDVAINPVYQGLGLGKEIMRYVLKELKNI-GISKVTLFADAEVVSFYKRQGWI--------------
+----------
+>IJ00 21615 acetyltransferase 1 31.6 0.84 1 44.7% 28.9% 54129 52123
+-------------------------------------------------WKHQRLIGFAR--ATSDCVYR
+ATIWDVIIHPEYRGLGLGSKLVETVLSHPR-------IHRVERVYlqDFYQKIGF---------------
+----------
+>Nos7107 1532 GCN5-related N-acetyltransferase 1 31.6 0.95 1 56.0% 27.3% 47134 87170
+------------------------------------------SMWQVRG-NQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDYQGKGLGKALMKYVLKKLRSEEISN-VTLFADPHVVDFYRGMGFMSDPE----------
+----------
+>IJ00 05635 acetyltransferase 1 31.2 1.0 1 52.7% 30.2% 51136 50140
+----------------------------------------------FVAEDNQVLTGFTQLYPS---FSS
+VSMKRvfVAEDYRRQGVATLLMDTAEqaIRIVLATQVSNLSAQ----KLYESRRYIQDKDFY--------
+----------
+>PMN2A 1892 acetyltransferase GNAT family 1 31.6 1.0 1 35.3% 34.5% 58112 97156
+-----------------------------------------------------KLIGFARCTGDGI--ID
+ATIWDVAINPVYQGYGLGKQLMEYLMKSLktLFADSDV--------------------------------
+----------
+>Chro 2926 GCN5-related N-acetyltransferase 1 31.2 1.1 1 35.3% 33.9% 77132 84141
+----------------------------------------------------------------------
+--IGGLVVAPSDRGTGIGRKLLhaKIRRCQSILVRSNIVRSAA---HHFYQKCGYSQV------------
+----------
+>P9301 05411 possible alpha-ribazole-5'-P phosphatase 1 31.6 1.2 1 36.0% 25.9% 61114 3487
+--------------------------------------------------------GYEQARKAGKALSK
+INFDKIYSSPLVRAAETAKTIKKTFTKDQDIVFDDNLLEV------------------------------
+----------
+>sync 1937 possible acetyltransferase 1 31.2 1.3 1 46.0% 27.8% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVLE
+ATIWDVAVHPLYQGAGLGRQLMDYILEALREM-GTERATLFADPGVLPFYDRLGW---------------
+----------
+>A9601 05711 possible alpha-ribazole-5'-P phosphatase 1 31.6 1.4 1 36.0% 25.9% 61114 3487
+--------------------------------------------------------GYKQARKAGKALSK
+INFDKIYSSPLVRAAETAKTIKKTFKKEQNIVFDDNLLEV------------------------------
+----------
+>Cal7507 0904 GCN5-related N-acetyltransferase 1 31.2 1.4 1 54.7% 25.6% 49134 93174
+--------------------------------------------WQVRG-NKRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGKGLGKSLMKYVLKKLRSEEISN-VTLFADPHVVDFYRTMGFMADPE----------
+----------
+>PMT9312 0515 alpha-ribazole-5'-P phosphatase-like protein 1 31.6 1.5 1 25.3% 34.2% 6198 3471
+--------------------------------------------------------GYEQALKAGKALSK
+INFDKIYSSPLVRAAETAKTIKES----------------------------------------------
+----------
+>Riv7116 1603 acetyltransferase 1 30.8 1.6 1 54.7% 27.9% 49134 86167
+--------------------------------------------WQVRG-NRRRLVGFARA-TSDHAFN-
+ATIWDVVVHPDVQGKGMGKALMKYVLKKLRSE-DISNVTLFADPHVVDFYRNLGFMSDPE----------
+----------
+>SynWH7803 0521 Possible Universal Stress Protein with 2 USP-like domains 1 31.2 1.8 1 52.0% 25.9% 22106 127205
+-----------------MLLVRDDLYVRHINRVLVTIDGTG------VGDDALKLAcmVKDIPGG-QLTG
+VHVSRTERTPSRGGAGSSDSLLDRAVQRARML--------------------------------------
+----------
+>all3024 hypothetical protein 1 30.8 1.8 1 43.3% 34.8% 84149 91159
+----------------------------------------------------------------------
+---------PHYQGRGNGRALVEHFFHQATQQKVDKVITT-ASLYAEGFYLRLGfiEKSPHQLSKgvPVI
+KMSKE-----
+>Sta7437 0820 GCN5-related N-acetyltransferase 1 30.4 1.8 1 40.7% 35.5% 77138 90150
+----------------------------------------------------------------------
+--IWNVYVESAYRRQGIASKLSNESINYLKSLGCTRAI-LHASPHGKPIYEKLGFVANNEMRLE------
+----------
+>Glo7428 3271 GCN5-related N-acetyltransferase 1 30.4 2.0 1 43.3% 31.3% 76142 87154
+----------------------------------------------------------------------
+-EIKRMYVRPEYRRKGIGKALVQAIISEAQQI-GYSKLRLDCAPfaQALYHSVGFQRI-QPYPESEIP--
+----------
+>AA650 11360 hypothetical protein 1 30.8 2.0 1 42.7% 40.6% 65133 112191
+------------------------------------------------------------LLVKNLISTE
+isDGKIvvNPEYRGQGIGKTLMDRFVVVAK----DKRVK-RISLYTdqFYEKYGFTRYS-----------
+----------
+>EW14 0560 Phosphoglycerate mutase 1 31.2 2.0 1 36.0% 25.9% 61114 3487
+--------------------------------------------------------GYEQARKAGKALSK
+INFDKIYSSPLVRAAETAKTIKKTFNKEQNIVFDDNLLEV------------------------------
+----------
+>NATL1 06171 possible acetyltransferase 1 30.4 2.1 1 35.3% 32.7% 58112 97156
+-----------------------------------------------------RLIGFARCTGDGI--ID
+ATIWDVAINPVYQGYGLGKQLMEYLMKSLktLFADSDV--------------------------------
+----------
+>Ava 1482 GCN5-related N-acetyltransferase 1 30.4 2.2 1 54.7% 25.6% 49134 92173
+--------------------------------------------WQVRG-NQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGKGLGKALMKYVLKKLRSEEISN-VTLFADPHVVDFYRTMGFMPDPE----------
+----------
+>alr0113 hypothetical protein (ycf52) 1 30.4 2.2 1 54.7% 25.6% 49134 92173
+--------------------------------------------WQVRG-NQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGKGLGKALMKYVLKKLRSEEISN-VTLFADPHVVDFYRTMGFMPDPE----------
+----------
+>VL20 6422 N-acetyltransferase family 1 30.4 2.2 1 54.0% 30.6% 46130 77157
+-----------------------------------------VSMWEVRG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVVHPHYQSKGFGKALMKFMIRKLRGE-DISNITLFADPQVVDFYRRLGFV--------------
+----------
+>MAE 54530 GCN5-related N-acetyltransferase 1 30.4 2.2 1 54.0% 30.6% 46130 77157
+-----------------------------------------VSMWEVRG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVVHPHYQSKGFGKALMKFMIRKLRGE-DISNITLFADPQVVDFYRRLGFV--------------
+----------
+>Ava 0887 Acetyltransferase GNAT family 1 30.4 2.2 1 43.3% 34.8% 84149 91159
+----------------------------------------------------------------------
+---------PHYQGRGNGRALVEHFFHQATQQKVDKVI-TTASLYAEGFYLRLGfiEKSPHQLSKgvPVI
+KMSKE-----
+>Nos7524 1401 putative acetyltransferase 1 30.4 2.3 1 53.3% 26.2% 47130 90169
+------------------------------------------SMWQVRG-NQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGKGLGKALMKYVLKKLRSE-EISNVTLFADPHVVDFYRTMGFM--------------
+----------
+>MYAER 2914 N-acetyltransferase (GNAT) family Ycf52 protein 1 30.4 2.4 1 54.0% 30.6% 46130 77157
+-----------------------------------------VSMWEVRG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVVHPHYQSKGFGKALMKFMIRKLRGE-DISNITLFADPQVVDFYRRLGFV--------------
+----------
+>EW15 0659 N-acetyltransferase (GNAT) family 1 30.4 2.4 1 35.3% 32.7% 58112 97156
+-----------------------------------------------------RLIGFARCTGDGI--ID
+ATIWDVAINPVYQGYGLGKQLMEYLMKSLktLFADSDV--------------------------------
+----------
+>Cyan7425 4121 GCN5-related N-acetyltransferase 1 30.0 2.7 1 49.3% 29.9% 58134 93166
+-----------------------------------------------------RLIGFSRAT-SDHAFN-
+ATIWDVVVHPEFQGKGLGKALMKQIIKELRNE-DISNITLFADPHVVNFYRGLGFMPDPE----------
+----------
+>GEI7407 0918 Enoyl-(acyl-carrier-protein) reductase (NADH) 1 30.4 2.9 1 44.7% 29.2% 45116 120188
+----------------------------------------DISAYSL-----TRLAAAAklRSGGSIITL
+TYLGSVRVVPNYNVMGVAKAALESSVRYLASEFGPQAVRVNA----------------------------
+----------
+>Cal6303 4773 GCN5-related N-acetyltransferase 1 30.0 3.0 1 56.0% 26.1% 47134 88171
+------------------------------------------SMWQVRG-NQRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGKGMGKALMKYMLKKLRSEEISN-VTLFADPHVVDFYRGMGFMTDPE----------
+----------
+>Cyagr 1527 acetyltransferase N-acetylglutamate synthase 1 30.0 3.0 1 35.3% 29.1% 84138 97150
+----------------------------------------------------------------------
+---------PDWTRRGIGRSVFTVCVRacAA--GLMTFECNSSLNAEKFYRALGFVRIREIDIE------
+----------
+>GKIL 3794 GCN5-related N-acetyltransferase 1 30.0 3.3 1 49.3% 31.2% 37129 57138
+--------------------------------IALDGD-EEVVGwhPGSWPGTEHVGH------------
+LGIGVLAS---HRGQGIGRQLIET---TVTAAFAANLERIELEVFASnfYEAFGF---------------
+----------
+>AA650 22925 phosphinothricin acetyltransferase 1 30.0 3.4 1 24.7% 45.0% 67106 75111
+--------------------------------------------------------------PAYYATAE
+ISI---YISPDFQGRGLGKQLLEKAIQESPNL--------------------------------------
+----------
+>Cal7507 0910 GCN5-related N-acetyltransferase 1 29.6 3.4 1 44.0% 29.3% 55129 54124
+--------------------------------------------------DNKQLIGFAR--ATSDCIYR
+ATIWDVVIHPDYREMGLGNKLVETVLSHPR-------VRLVERVYlqGFYKKIGF---------------
+----------
+>P9215 05961 possible alpha-ribazole-5'-P phosphatase 1 30.4 3.4 1 25.3% 28.9% 6198 3471
+--------------------------------------------------------GYEQAMKAGKALSK
+INFDKIFSSPLVRAANTAKTIKKS----------------------------------------------
+----------
+>AOY38 14060 acetyltransferase 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>MYO 127370 hypothetical protein 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>SYNPCCP 2709 hypothetical protein 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>SYNPCCN 2709 hypothetical protein 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>SYNGTI 2710 hypothetical protein 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>SYNGTS 2711 hypothetical protein 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>sll0286 hypothetical protein YCF52 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEMQG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVIHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>D082 22430 N-acetyltransferase (GNAT) family 1 30.0 3.5 1 54.0% 28.2% 46130 77157
+-----------------------------------------VTMWEIRG-NRRRLVGFARAT-SDHAFN-
+ATVWDVVVHPSLQSKGLGKALMQYIIRKLRH-YDISNITLFADPQVVDFYRRLGFV--------------
+----------
+>SynRCC307 0835 Possible acetyltransferase 1 30.0 3.6 1 46.0% 25.0% 58129 97165
+-----------------------------------------------------KLIGFARC--TGDGVLD
+ATIWDLAIHPLYQGAGLGKGLMQVLLERLRAMEVEK-VTLFADANVVSFYKAQGW---------------
+----------
+>Anacy 1843 hypothetical protein 1 30.0 3.7 1 32.0% 35.2% 760 125176
+--YFHPFREITPWDFYP--HSSEQTFVLGQ----LISNGKIYsnWHILCFDRNNRV--------------
+----------------------------------------------------------------------
+----------
+>Oscil6304 2031 acetyltransferase N-acetylglutamate synthase 1 29.6 3.9 1 34.7% 29.8% 77133 67118
+----------------------------------------------------------------------
+--LGSLVVEKSWRDRGLGSYLVQHLVQESTA-----PVYVECMGWLVEFYEHLEFVKIS-----------
+----------
+>AM1 1786 acetyltransferase gnat family 1 29.6 4.0 1 46.0% 31.4% 61130 95167
+--------------------------------------------------------SYNRLIGFSRATSd
+aTIWDVVVHPDFQGQGLGKALMKQIIKELRRE-DISNITLFADPHVVNFYRDLGFM--------------
+----------
+>Aazo 4973 GCN5-related N-acetyltransferase 1 29.6 4.6 1 48.7% 28.6% 47130 82161
+------------------------------------------SMWQVRG-NKRRLIGFARAT-SDHAFN-
+ATIWDVVVHPDFQGQGMGKALMKYVLKKLRslFADPQV--------VDFYRTMGFM--------------
+----------
+>KR100 00475 hypothetical protein 1 29.6 5.2 1 30.7% 32.6% 3681 136181
+-------------------------------AVALDVSLPDMTQGYLYGWVANQLSAAVRLLPLGPSRAQ
+IVQQRLL---------------------------------------------------------------
+----------
+>Sta7437 1590 3-oxoacyl-(acyl-carrier-protein) reductase 1 29.6 5.3 1 23.3% 37.1% 120154 198234
+----------------------------------------------------------------------
+---------------------------------------------MEKRAEELgfDEAIESFLEEKRPHL
+ELKRRGKAQE
+>Anacy 3165 GCN5-related N-acetyltransferase 1 29.3 5.3 1 34.0% 36.5% 80131 84137
+----------------------------------------------------------------------
+-----VTVTSKLRGQGIGSEMIKAAIQIC-ADAGCYKVILSSNLQREkfYKKLGFEQ-------------
+----------
+>Cyan7425 3199 GCN5-related N-acetyltransferase 1 29.3 5.6 1 29.3% 35.6% 86130 93139
+----------------------------------------------------------------------
+-----------YRGQGIGRHTIEFLKQIC-AILGIKALHLEVevHAQTFYRRVGFV--------------
+----------
+>PMN2A 0771 adenosylcobyric acid synthase (glutamine-hydrolysing) 1 29.6 5.9 1 19.3% 48.3% 89117 1745
+----------------------------------------------------------------------
+--------------SGAGKTLIATAICRCLKRKGEQPIPFKGQ---------------------------
+----------
+>AM1 3677 acetyltransferase. putative 1 29.3 5.9 1 35.3% 33.3% 85138 104156
+----------------------------------------------------------------------
+----------AYRRQGFGRQLTEVAVEYLRLQHCTHAI-LHASPWGKPVYEQIGFTPSNEMRLE------
+----------
+>Cyagr 3438 acetyltransferase 1 29.3 6.1 1 46.0% 26.4% 58129 113181
+-----------------------------------------------------RLVGFARC--TGDGVVE
+ATVWDVAVHPRYQGAGLGKELMDYVLEQLRGMGIDR-VSLFADPDVVGFYAAQGW---------------
+----------
+>Syncc9902 0882 possible acetyltransferase 1 29.3 6.2 1 46.0% 26.4% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVFE
+ATVWDVAVHPLYQGNGLGKQMMIYILETLHQM-GTERVSLFADPDVVNFYQRQGW---------------
+----------
+>Glo7428 1888 GCN5-related N-acetyltransferase 1 28.9 6.5 1 50.7% 29.4% 45129 53133
+----------------------------------------EISGIGVVGWIHAHL---CLLLQTNL---H
+AEIGGLVVDERYRGSGIGRQLLlaSQQGCESVYLRSNI-IRKQAHI--FYKKMGY---------------
+----------
+>Npun F3703 GCN5-related N-acetyltransferase 1 28.9 6.5 1 38.0% 34.5% 84141 91149
+----------------------------------------------------------------------
+---------PKYQGKGIGRALVQNFCDEATDRGIDKVITT-ASLYAEGFYLRLGfiQKAPHYLSKGI---
+----------
+>P9515 18831 possible p-aminobenzoate synthetase 1 29.6 6.5 1 19.3% 37.9% 3361 2755
+----------------------------EHGLSWLDSDGKDNGKWSIMGVNPKKIIS-------------
+----------------------------------------------------------------------
+----------
+>PCC7418 0863 ATP-NAD/AcoX kinase 1 29.3 6.8 1 28.0% 33.3% 3778 4990
+--------------------------------VFLSSVGNEIDLAIVLGGDGTALAAARQLSPEGVQILA
+VNVG------------------------------------------------------------------
+----------
+>Cyan8802 3871 protein of unknown function DUF1499 1 28.9 7.2 1 59.3% 31.2% 52147 50143
+-----------------------------------------------LGVSQDKL-ALCPLTPNCVSSQS
+QDTEHYIDPIVYQGSP------KTAIASLQEIINQQeiTVNDqlYAQFSSRWLGFVDDVEFYLNDNKKVI
+EVR-------
+>Nos7107 4378 inorganic polyphosphate/ATP-NAD kinase 1 29.3 7.2 1 28.0% 33.3% 3778 4990
+--------------------------------VFLASSGQPIDMALVLGGDGTVLTSARHLAPAGIPILG
+VNVG------------------------------------------------------------------
+----------
+>SynWH8103 01740 acetyltransferase family protein 1 28.9 7.2 1 46.0% 26.4% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVFE
+ATVWDVAVHPLYQGSGLGSQLMVYVLEALEAM-GTERVSLFADPGVVNFYQRQGW---------------
+----------
+>NATL1 16121 Cobyric acid synthase CobB 1 29.3 7.3 1 19.3% 48.3% 89117 735
+----------------------------------------------------------------------
+--------------SGAGKTLIATAICRCLRRKGEQPIPFKGQ---------------------------
+----------
+>Tery 1645 GCN5-related N-acetyltransferase 1 28.9 7.3 1 34.7% 27.8% 76129 78129
+----------------------------------------------------------------------
+-TIWDIVIHPNYQGGGLGRKLVQTILSHPRMCYVERVYLMTT--YQQNFYKRIGF---------------
+----------
+>ANA C12388 GCN5-related N-acetyltransferase 1 28.9 7.7 1 24.7% 42.5% 67106 75111
+--------------------------------------------------------------PAYYSTAE
+ISI---YISPDFQGRGLGKQLLEKAIQESPNL--------------------------------------
+----------
+>PCC8801 3821 protein of unknown function DUF1499 1 28.9 7.8 1 59.3% 31.2% 52147 50143
+-----------------------------------------------LGVSQDKL-ALCPLTPNCVSSQS
+QDTEHYIDPIVYQGSP------KTAIASLQEIINQQeiTVNDqlYAQFSSRWLGFVDDVEFYLNDNKKVI
+EVR-------
+>Npun F1179 GCN5-related N-acetyltransferase 1 29.3 7.9 1 68.7% 26.7% 16131 13129
+-----------PQDIQQLEHILEQCFI--------SALGGEEAYINMIGVENFRIIRRLEQVAGGLATLD
+MgiAVVGIAPEYRGSGAAIALMQ---HTLKELY-DRGIAISA-LyvQSLYRKVGYEQ-------------
+----------
+>Cal7507 4454 GCN5-related N-acetyltransferase 1 28.9 8.2 1 36.0% 32.7% 77131 81137
+----------------------------------------------------------------------
+--LDSVTVTPQVRGQGIGTQMVKAALQ-LSAEAGCYKVMLSSNIRREkfYQSLGFEQ-------------
+----------
+>IJ00 21010 acetyltransferase 1 28.9 8.3 1 54.7% 25.6% 49134 86167
+--------------------------------------------WQVRG-SKKRLIGFARA-TSDHAFN-
+ATIWDVVVHPDFQGNGLGKAMMKYMLRKLRSE-EISNVTLFADPHVVDFYRGLGFMSDPE----------
+----------
+>Osc7112 6025 glycosyl transferase family 2 1 28.9 8.8 1 32.7% 32.7% 92140 140190
+----------------------------------------------------------------------
+-----------------GRTELSAGidLLSAVFLRQSLQIGATLFRRRALEEVGFLRPNLQNCEDN----
+----------
+>CYB 2252 arginase family protein 1 28.9 8.9 1 42.0% 28.1% 49112 176238
+--------------------------------------------WAQDGWDPQQVVASLPDQPVFL-VVD
+CSVLDPSLAPAVHHPEPGGVSWPQLLQTCEAIFAARPV--------------------------------
+----------
+>Anacy 3085 DSH domain protein 1 29.3 9.1 1 38.7% 37.1% 71132 2791
+------------------------------------------------------------------AIAS
+LNAGrvVCAP----TGSGKTLIGeaLARGKRVFYTTPLKALSNQKLRDFREKFGFEQV------------
+----------
+>Syncc9605 0969 possible acetyltransferase 1 28.5 9.5 1 46.0% 26.4% 58129 84152
+-----------------------------------------------------RLVGFARC--TGDGVFE
+ATVWDVAVHPLYQGNGLGKQLMAYILEALDQM-GTERVSLFADPGVVSFYQGQGW---------------
+----------
+>Cyagr 2547 urease accessory protein UreF 1 28.9 9.7 1 22.0% 45.5% 3769 141173
+--------------------------------VALDIAHQDLVEAYLYGWIATQLSAAVRLVPLG-----
+----------------------------------------------------------------------
+----------
+>all4768 hypothetical protein 1 28.5 9.8 1 37.3% 36.8% 3187 47103
+--------------------------VVEQNSITQPRRIedLSAQRLFAWEGKKLV-YSFRISTGKRSTP
+TPIGQFKINSKYR---------------------------------------------------------
+----------
+>Npun R1696 DSH domain protein 1 29.3 10.0 1 38.7% 37.1% 71132 2791
+------------------------------------------------------------------AIAS
+LNAGrvVCAP----TGSGKTLVGeaLSRGKRVFYTTPLKALSNQKLRDFREKFGFDQV------------
+----------

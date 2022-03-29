@@ -1,0 +1,414 @@
+>Lyngbya extdbtmp 000011 metallophosphatase [Sediminibacterium] 1 100.0% 100.0% 1309
+MPINRRKFIQDTGATLLASTLMPLSSVAAAEPVQKLTILHTNDVHSRLEPFPMDGSRNQGLGGVAARAAL
+IAKIRQKEEQVLVLDAGDIFQGTPYFNIYKGEPEIKAMSAMGYDAATMGNHDFDLGMENFATQLKHASFP
+ILISNYDFSGTELEGKTKPWQIFKKGDLQIGVFGVGIELQGLVAENLYGKTVYRDPIQTANATAAMLHKK
+GCDLVICLSHLGDRYQENKVSDEVLAKESYDIDLIIGGHTHRFFEEPRKYTNKKGGVVAVNQVGFGGIQL
+GRLEYEFSRAKKKNLANAHTVVIGKKTSE
+>Cyan7822 2288 metallophosphoesterase 1 108 2e-25 1 80.3% 30.2% 27284 1251
+--------------------------MVTTERCKKFTILHSNDMHGDFLAEVKSGEGNL-IGGLSILSGY
+INKVRQEEPNTLFVISGDMLQGSMIDTEYKGLSTIEIMNYLAPNVVTLGNHELDYGFPHLLFLEKMANFP
+IVNANLYIKKYN-KRLMNPYLILNVDGFDIMFIGIVTelKALKLDTSIGTFvlEDAAAEVGKICNAYKTE
+DIDLTILLTHIG--FEEDKKLAAMLDPE-WGVDIIIGGHSHTFLEQPEKVNN-----ILITQAGVGTDQI
+GRFD-------------------------
+>Chro 2394 5'-Nucleotidase domain-containing protein 1 101 4e-23 1 72.2% 34.6% 16258 11244
+---------------VLQVVALCIASPALAEVVE-ITLLHLNDVY---EIAPVDGGKR---GGLARVATL
+RQELLSQNPRTYTVLAGDAFsgTAKVnpLAGQHMVAVMNAVGFDYATFGNHEFDLVESEFLQRLKESQFK
+WISSNvdNRGKSFPGVAESQILNVKSdiRVGLIGLTID------SNKQKYVSYAEPIQAARTQVAAL-KG
+QVDLIIALTHL------NLAQDQKLAAEVPEIDLILGGHEHENIQQWR----------------------
+-----------------------------
+>SYNPCC7002 A0150 Ser/Thr protein phosphatase family protein 1 89.4 9e-19 1 67.6% 31.1% 35256 134361
+----------------------------------RLKILHFNDLHGRISHLAPEGN-------IPVFSRL
+VSRYHQQQRkvLLLSAGDDMVGTPFDavSECNHAYDLYQTLGVDAAALGNHDLDLGTHALAKMIQRsdFP
+VLSANL-LPPAQLKKVVYPAALLDVKGVRVGIIGlsAQMKGSDARHL----TFVDPVQVVKNLLPVL-RP
+YCHVLIILSHLGYDLQSTSAtdRQLAEhsGAVDLIIGGHTHHILNE------------------------
+-----------------------------
+>AOY38 14055 5'-nucleotidase 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>MYO 127360 hypothetical protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>SYNPCCP 2708 hypothetical protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>SYNPCCN 2708 hypothetical protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>SYNGTI 2709 hypothetical protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>SYNGTS 2710 hypothetical protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>slr0306 unknown protein 1 88.2 2e-18 1 71.8% 32.0% 8251 1240
+-------MVKNQGAWllWSVLiaMATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVANL
+RQQLEQADPHTYTVLAGDFLsgTALYnrLAGKQMVAVLNAMGLDYAAVGNHEFDVNAQQFQQRITESDFQ
+WLSANidGTGNQFEG-IKPYEIleGGELKVGILALTID------SNAVDYVTYSDPIATARRY--IDNPQ
+gvDVWVALTHL------SLAQDLALAQAIPELDLILGGHEH-----------------------------
+-----------------------------
+>Lepto7376 3099 5'-nucleotidase 1 88.2 2e-18 1 82.8% 30.1% 27298 73353
+--------------------------TATSLPVhrLKILHFNDLHGRI-------SHLTSTGNTPVFSRI
+VSRYKNQQQkaLLLSAGDDMVGTP-FDILMAEQhyELYQDLGVDAAALGNHDLDLGIQTLSHIIERskFP
+VLSANLHVPPT-----LKPwaLVDVKGVRVGIIGLTTAAQMKSAEARLLK--FADPVEVVNNLLPVL-RP
+YCHVLIVLSHLGYDLHATSAadRQLAEapyaVDAIIGGHTHHILNESGLSPNNIVNGIPIMQAGSMGRFL
+GELTITLQDQQTVTVTNA-----------
+>CYB 2932 2`3`-cyclic-nucleotide 2`-phosphodiesterase putative 1 85.9 1e-17 1 78.6% 32.0% 35293 2280
+----------------------------------RLTILHTSDLHANLHPW------NYFTggLAKLATL
+IKRVRasEDPVLLIDSGDTIQGSPLGTYysPHPLAHALNALGYDAFTPGNHDFNFGLQVLQDFIGDLRCP
+VLCAnlRQNGDPL---FQPYLIRELAGVRVGLLGLTTPRIDTWERPDYIAGLRFAplETARHYLSLLRPQ
+-VDVLILILHSgdrwCSNKseNELLALAELdiDVILSGHTH------QTIAGLGGSQALVVQPGYWGSHL
+SQVSLELERQGSR----------------
+>CYA 0972 putative 2`3`-cyclic-nucleotide 2`-phosphodiesterase 1 84.3 3e-17 1 76.4% 32.9% 35289 2276
+----------------------------------RLTILHTSDLHANLHPW------NYFAggLAKLATL
+IKRVRasEDPVLLIDSGDTIQGSPLGTYysPHPMAHALNALGYDAFTPGNHDFNFglQDFTADLR---CP
+TLCAnlRHNGDPL---FRPYLIREEAGIRVGLLGLTTPRIDTWERPDYIAGLRFAplETAQHYLSLLRPQ
+-VDVLVLILHSgdrwASNKseNELLaaELEGIDVILSGHTH------QTIAGLGGAKALVVQPGYWGSHL
+SHVSLELER--------------------
+>Oscil6304 0841 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 83.2 8e-17 1 73.5% 30.5% 9251 6240
+--------IWKTCSVVLSGFSIFLVTPVLAEIV-NLNLLHLNDINEITPP------QNENvgGLARVATL
+RQQLLRENPHTFTLLAGDLLSPSGLGNaiAGEQMVAVMNTLGLDYATFGNHEFDLSKEQFYARLQESNFQ
+WISTNVSTESGEPFEQVPRSIIFEIVSEQGAVVRVG--LIGLTLdnRRNYVTYADPIQSAKTQVQQLQGQ
+-VDILVAITHL------SLAEDKQLAESIPEIDLILGGHEH-----------------------------
+-----------------------------
+>Ava 3996 metallophosphoesterase 1 81.6 2e-16 1 69.6% 31.5% 24258 20245
+-----------------------LATPALAEIV-KINLLQLNDIY---EITPVEGGTRGGLARVATLRQQ
+LYKANPRTYTVL---AGDTFsgTAKInpLAGQQMVAVMNALGLNYATFGNHEFDLPENLFYQRLEESQFR
+WVSSNvdSTGQPFKGVPRSIVFNVKGdvRVGLIGVTLD------SNKPKYVSYTDPITTAKQQVSTLKGK
+-VDIIVAITH------QSIEDDRKLAETVPEIDIILGGHEHENTQQWR----------------------
+-----------------------------
+>IJ00 01910 5'-nucleotidase 1 80.9 5e-16 1 71.5% 30.0% 19258 9245
+------------------SVFLplAAVTFTTpiVNINLLHLNDIY---EITPVEGGTR---GGLARVATL
+RQELYKTNPRTYTMFAGDAFsgTAKInpLAGQQMVAVMNALGMNYGTFGNHEFDLPENFFYQRLQESRFR
+WISSNvdSTGKPFKNVPRSLVFNVKGdvKVGLIGVTLD------SNRPKYVSYTDPIATAKQQVQALKGK
+-VDIIVALTHLAME------DDRKLAETVPEIDIILGGHEHENIQQWR----------------------
+-----------------------------
+>Cyan7822 2183 5'-Nucleotidase domain protein 1 80.5 6e-16 1 69.9% 31.1% 24258 19244
+-----------------------FSPIARAEEV-KITLLQLNDVYEI-------SSLAEGKQGGLARVAT
+LEklKKTNPNTYTILAGDCLsgTAIVnsLAGEQMVAVLNAMGLDFATFGNHEFDLKYQQFLKRLEESKFT
+WISSNVFDKENKPFPKVEPYKIItkANTTVKVGLIGLTLDSNPADYV----TYKAVIETARQQVQQL-KG
+QVDIIIAVTHLA------LAQDQELAQTIPEIDLILGGHEHENIQQWR----------------------
+-----------------------------
+>D082 22440 5'-nucleotidase 1 79.7 1e-15 1 68.6% 31.6% 24251 1219
+-----------------------MATVCRAETI-PFTLLQLNDVY---EIAPIDNGR---WGGLARVAHL
+RRQLQQANPHTYTVLAGDFLsgTAPYnrLAGRQMVAVLNAMGLDYAAVGNHEFDVNAQQFLQRIGESEFQ
+WLSANidAAGNRFSG-IEPYKILTIPGAAGEEVKVGI-LTLTIASNPVDYVTYSDPITTARGYVDNL-KG
+EVDVWVALTHL------SLAEDLALAEAIPELDLILGGHEH-----------------------------
+-----------------------------
+>syc0766 c hypothetical protein 1 76.3 2e-14 1 67.6% 30.6% 28256 31255
+---------------------------AAAE-IYRFQILQLNDVY---EITPVQGGRS---GGLARVATL
+LKQLKAENPQTWSMLAGDYLsgTAKVnrLAGQQMVAVLNAMGLDLATFGNHEFDISEAQLRQRLQEQKFA
+LVTGnlDAQGRLFPNTQTDYQFQVQAtlKVSVLGVTID------SNQAPYVRYGDPLKTLQQQIQQ-RQS
+NTDLFIGLTHL------NLSQDQRLARSLPALDLILGGHEHENIQQ------------------------
+-----------------------------
+>Synpcc7942 0770 conserved hypothetical protein 1 75.9 2e-14 1 67.6% 30.6% 28256 21245
+---------------------------AAAE-IYRFQILQLNDVY---EITPVQGGRS---GGLARVATL
+LKQLKAENPQTWSMLAGDYLsgTAKVnrLAGQQMVAVLNAMGLDLATFGNHEFDISEAQLRQRLQEQKFA
+LVTGnlDAQGRLFPNTQTDYQFQVQAtlKVSVLGVTID------SNQAPYVRYGDPLKTLQQQIQQ-RQS
+NTDLFIGLTHL------NLSQDQQLARSLPALDLILGGHEHENIQQ------------------------
+-----------------------------
+>Cyan7425 1464 5'-Nucleotidase domain protein 1 72.0 5e-13 1 77.3% 33.3% 35289 34330
+----------------------------------KLQILHASDFEAGVPALE---------DAVGFSAVL
+NALKAEYPDQTLVLSSGDNYIMGPFFdaGSGHSDITVLNALGIQAAALGNHEFDQGTAKVADLITsaNFP
+YLSANLDFSndGQESKTIPHKIAKSA--VITVNGTKVGLVGATTPTlpGPSVVVNPWDSENWQAiaLTAQ
+GINKIILLSHM----QQLMIEQE-LASRLTDVDVIIAGGSHEVLAdpILKTSAKGEPVAVLNIGSNYRYV
+GRLVVDFDR--------------------
+>CYA 1059 5'-nucleotidase family protein 1 71.6 6e-13 1 73.8% 28.6% 13257 59329
+------------GAGFIASD--PNVRLSSQPPAFTLQILHASDLEASIAAV-QDAPR---------FSAV
+VNALRPQFPNTVVLSSGDNYIPSPFYNatPGKADIEIINAIGFEAAAFGNHEFDQGTRQIRDLIRpaRFP
+YLSANLSFSGtsIRGKIVKTAVITVGGQRIGLVGATTTRLAAISsrVEGKVDDTDQVNAaqNFVNQLTGQ
+GINKIILLAHL--QQLQNEVT---LASQLRDVDIIIAGGSHRVIAKP-----------------------
+-----------------------------
+>CYB 0274 5'-nucleotidase domain/ Ser/Thr protein phosphatase family protein 1 71.6 7e-13 1 73.8% 27.8% 13257 55325
+------------GAGFIASD--PNVALSTQPPAFTLQILHASDLEASIAAV-QDAPR---------FSAV
+VNALRPQFPNTVVLSSGDNYIPSPFYnlTPGKADIEIINAIGFEAAAFGNHEFDQGTRQIRDLIRpaRFP
+YLSANLSFSGtsIRGKIAKTAVITVGGQRIGLVGATTTRLAAISsrVEGRVDDTDQVSAaqGFVDQLTAQ
+GINKIILLAHL--QQLQNEVA---LASQLRNVDIIIAGGSHRVIAKP-----------------------
+-----------------------------
+>Syn7502 00028 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 71.2 8e-13 1 69.6% 31.2% 38255 33277
+-------------------------------------ILAFNDFHGNLEpvKLPDQTTVPAGGVEYLASH
+IEKLRNTNANTIVVSAGDTIGASPLLslFHDEPAIAALNKVGLDLNAVGNHEFDQgmQNGGcqFQGANFK
+FLAANVIDKNT---GKtpAYQIREFNGIKIAFIGMTLetPKIVSPSGVAGLEFKNEADTVNALVPELKKQ
+GIKAIAVLLHEGGlyNeqNISgdIVKRTDPEVDLFITGHTHQAYN-------------------------
+-----------------------------
+>Cyan8802 0854 5'-Nucleotidase domain protein 1 69.3 4e-12 1 69.6% 31.9% 21258 12259
+--------------------LLpvSSLILSSPAetLSIFHNNDGESQLL-------QNGNEGGAASFITL
+LNSLKAQadATLTLSSGDNFLAGPEFNASLTDgdVRVLNAIGYDAIALGNHDFDFGPDLLANFISSPDfp
+FLGANLDFSGEPssGRIAASTIVNKGGEDIGIIGaaISSPglINPDLTGI------IQtiNALEAL----
+GVNKIILISHL------QSINEEllIPQLSGIDVVIAGGGDDLLANPS----------------------
+-----------------------------
+>PCC8801 0825 5'-Nucleotidase domain protein 1 69.3 4e-12 1 69.6% 31.9% 21258 12259
+--------------------LLpvSSLILSSPAetLSIFHNNDGESQLL-------QNGNEGGAASFITL
+LNSLKAQadATLTLSSGDNFLAGPEFNASLTDgdVRVLNAIGYDAIALGNHDFDFGPDLLANFISSPDfp
+FLGANLDFSGEPssGRIAASTIVNKGGEDIGIIGaaISSPglINPDLTGI------IQtiNALEAL----
+GVNKIILISHL------QSINEEllIPQLSGIDVVIAGGGDDLLANPS----------------------
+-----------------------------
+>cce 4621 putative alkaline phosphatase 1 68.9 5e-12 1 66.3% 33.3% 36257 31266
+-----------------------------------VTILHNNDGESQLL---NAGSGIENFGGVDRFTTL
+VNDLRNntDAVLTLSSGDNFLAGPEFniYY---DALALGNIGYDAIILGNHDFDFGPDLLADFIAfnAAP
+YLSANLDFSgaNLqgQIASSAIVEKGGQKIGIIGAtiSSPGNVSVNQDVKTVVQGEIDR------LTTEE
+GVNKIILVSHL-----QGVNEDEALISQLQGVDIAIAGGGDEILANP-----------------------
+-----------------------------
+>SYNPCC7002 A0064 Ser/Thr protein phosphatase family protein family 1 64.7 1e-10 1 70.2% 28.0% 16258 1232
+---------------MVSLAIAPLS--LWAETVE-LQLLHLNDVYE------ITPLGGGATGGLARLATL
+RKELLAENPHTFTVLAGDLFsgTAVVdrLAGKQIVAVMNQVGLDLATFGNHEFDISESQFKQRLAESDFQ
+W------FSGNVLTAAGEPWdiYGEAGTPVRVGFVGV----VIPSNPVDYVTYLDPLEQMEILVAELEAQ
+-TDIIVAVTHLAMQ------DDHHLAENIPEIDLILGGHDHENIQQWR----------------------
+-----------------------------
+>Cyan10605 0289 5'-nucleotidase 1 57.8 3e-08 1 68.6% 30.6% 24252 15381799
+-----------------------LAFLENTNPTFTLQLLHASDQEAGIP------ALQDAIGFSAVLNAL
+DAQYLN----TLKLSSGDLFIAGPFFNASrgIADILIQNELGWDAAAVGNHEFDAGPEAftTGFTGANFP
+YLSTNLDYsaPESASLTESVVVDVNGE-QIGVIGAVVPYLPQIA-NIGGITMLTDPneNAQAIADSVQpq
+GINKIVLMTHL----QQFEV-EQALASKLRHVDILMGGGSHR----------------------------
+-----------------------------
+>Syn6312 1733 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 57.0 4e-08 1 87.7% 28.6% 1287 1329
+MRLFRRRWVSLLGLAILTAFGL-LLWFQQSSPALSLQILHASDFEAGIAALE---------DAVNFSSVL
+NTLKAEMPNNTLVLSSGDNFIMGPFFS-ASGDPQLRemNALGIQAAAWGNHEFDEGTGRIADLFRaaRFP
+YLATNLNftADAQRADTIPQRIAHsaGQKIGLVGVTTPLLPVIASPGPGVAVlrQpaATVQPVIDQLTRQ
+GINKIILLSHL-----QQLGMDIQLAAQLQDVDVIIAGGSHAVLTnpVWKTSKNKDPIAIVNTGANYRYV
+GRLLVEF----------------------
+>Ple7327 1998 putative extracellular nuclease 1 57.0 5e-08 1 65.0% 29.4% 36256 17892035
+-----------------------------------LQLLHGSDFEAGIE----------ALDDAPRFSAV
+INGLRDDYKNTLVLSSGDNYIPSPFLFAAsgRADIEILNQIGIQASAFGNHEFDLGteNY----RGTQFP
+YLSSNLDFsaNGQEASTIPNTIAESTVikIGIVGATTPLLPSISSSGDVGVIPSDPNNVA-ALAAEIQkt
+GIDKVVLLSH----FQQLRI-EQAVAPLLRDVDIIVGGGSHTLLSD------------------------
+-----------------------------
+>PCC7418 0077 5'-Nucleotidase domain-containing protein 1 55.5 2e-07 1 70.9% 33.2% 68287 16771967
+-------------------------------------------------------------------SAV
+LNALREqeDNTLTLSSGDAFIGGVFFevynGIGDIQIQNELGFSAIALGNHEFDFGTETLasDFTGANFP
+YLATNLDFSTdeVEGGQPPQPNTVTSSTLIDVNGENIGVLGATTPNLAALsiSPSPFNT-NPTDAQLDAL
+ASEIQSEVdlLADNPDLNKVveEALAERLENVDIIVGGGSnrLFDepKFITNAGGTSTAVVNTDGSYKYV
+GRLVLDF----------------------
+>AM1 1876 5'-nucleotidase/2'3'-cyclic phosphodiesterase putative 1 53.5 6e-07 1 76.4% 32.9% 36287 17292068
+-----------------------------------LQILHASDLEGGVD----------AIGRAPNFAAL
+TDLFEDEFENTVILSAGDNYLAGPFFnlYngRVDISIMNLIGFDASAVGNHEFDLGSDTFESIIEpaLFP
+YLSANLDFSGdsLAgkIAPSTIIEEGGEQIGVLGATTQLLETIS-SPTGTTVIGPQTNDMAALAAILQPe
+gINKIILVSHL----QQFALEQE-LAGLLDGVDVIIAGGSDTLLAdpFETTDASGNPVLVVSTDGEYSYL
+GRLALDF----------------------
+>Lepto7376 1855 5'-nucleotidase 1 52.4 1e-06 1 66.7% 29.2% 26258 29252
+-------------------------SSVLAEKVQ-FQILQINDVY---EIAPLAGGAEAGLARVAtrKDL
+LAE----NENTFTVMAGDFFsgTATVdrLAGQQMVGVLNAMELDLATFGNHEFDLTEPQFRDRLEESKFQ
+W------FSGNVRDAEGEQWKNveSGevRIGFVGTTI------PSNPAPYVSYLDPLDKMKEDVEAIVDD
+VD-VIVAVTHL------NLPDDQYLAENIPEIDIVLGGHEHDNIQQWR----------------------
+-----------------------------
+>Anacy 4975 5'-nucleotidase 1 51.2 3e-06 1 66.0% 30.5% 35254 5292
+----------------------------------RLQILHASDLEGGVD----------AISDAPNFAAI
+VDSLEDLVDNSITLSAGDNYLAGPFfdIYngRVDISIMNIIGFDASALGNHEFDLGSEVLRTIIEasQFP
+YLSANLNFAasNLSgkIAPATIIEKGGEQIGVVGATTQLLESIS-SPTGTTVQGTKANDMDALAAilQTQ
+GINKIIVVSHL----QQIALEQELITKLS-GVDVVIAGGSDTIL--------------------------
+-----------------------------
+>Glo7428 3943 5'-nucleotidase 1 46.2 1e-04 1 34.0% 32.2% 35149 5129
+----------------------------------KLQLLHATDLEAGISAVE-DAPR---------FSAV
+VNGLRSepEQTLLISSGDNYIPGPFlsAGAGRGDIAIMNAIAFDASALGNHEFDLGTGQVASVIagTSFP
+YLSANLDFS-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Dacsa 2870 putative extracellular nuclease 1 45.4 3e-04 1 66.0% 31.6% 79287 24602724
+----------------------------------------------------------------------
+--------DNTLTLSSGDAfqGSEGAFGSPGIGDIQIQNELGFQAIAFGNHEFDFGTEVLasDFTGANFP
+YLSTNLNFSGdeVEGGQAPQPNSVTSSTVIDVNGEEIGVVGATTPTLagVTASPSPFDSsdALAAEIqnQ
+DMNKVVLLAHM----QQISIEQE-LAQRLENVDIIVGGGSnrLFDepQFFTNAGGTQTALVNTDGSYKYV
+GRLVLDF----------------------
+>Riv7116 6586 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 43.1 0.001 1 61.5% 24.9% 36256 18226
+-----------------------------------LRIVSINDVY-KIENYPF-------------VQTI
+IQSLKQTSEDSIVVScgDFLSPCLLTSLDGGKAMLDVLKVMDIDYVCFGNHEFDVNIDLLQKRLKNCSTK
+FLNGnvDAFGNPLAK----YDIIEVGENKVA-------FAGFCTDNipGTNLQIQPVFDALKEIWHECKN
+QADILIPLTH------QNIVADRTLIeeQYdiPVILGGHEHEVYIE------------------------
+-----------------------------
+>Nos7524 1773 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 42.4 0.002 1 53.1% 30.0% 101270 96312
+----------------------------------------------------------------------
+------------------------------GRGDIGILNALGIQASVLGNHEFDLGVRQVRDILRTGgfP
+YLSSNLDFS-NEIASNTNPDGALGASDLaiGIVGATTPLLPTISSSGRVGVFPENPIDY-DALAavLTAA
+GINKIILLAHM----QQLDIEANQLAPRLRDVDVIVAGGSHSILsdPLRTGDTSGGTYPI----------
+-----------------------------
+>D082 11730 Alkaline phosphatase 1 42.4 0.002 1 54.4% 30.9% 82256 587800
+----------------------------------------------------------------------
+-----------LILSSGDAYIPGLFFGASagRADILIQNQLGFQAIAFGNHEFDLGtgDPADNFPGANFP
+YLSSNLDFtaSTIPGKIAASTIITVNGEKIGIVGATttLRTISSPGNVG--VFPSpiIQADVDALLLANP
+GLNKVILLSHM----QQISIEQELASRLSH-VDIIvgGSNTRLVDE------------------------
+-----------------------------
+>SYNPCC7002 G0067 Endonuclease/Exonuclease/phosphatase family 1 41.2 0.006 1 23.0% 36.6% 79149 879968
+----------------------------------------------------------------------
+--------DNTLTLSSGDAFIPGLFFDASagIADIQIQNELGFQAIALGNHEFDFGTETLAsdFTGANFP
+YLSANLDFS-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>KR49 01730 hypothetical protein 1 41.2 0.006 1 17.5% 42.6% 96149 1889
+----------------------------------------------------------------------
+-------------------------YDALRGApdIALMNIIGFDASAVGNHEFDAGTSSFETLLEADqfP
+YLTTNLDFS-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>PCC7424 3593 5'-Nucleotidase domain protein 1 40.4 0.009 1 46.6% 31.6% 100251 90273
+----------------------------------------------------------------------
+-----------------------------QGRADIAILNELGLQASAFGNHEFDLGTGVVANILApaQFP
+YLSANLDFsaSTITGKIAKSTVITVNGEQIGIVGATTPigALVTPQGFPQNPTDADIQ---ALAAIIQTS
+VDQlvILLSHM----QQLSI-EEALAGKLRNVDIIVAGGSH-----------------------------
+-----------------------------
+>VL20 2351 Alkaline phosphatase 1 39.7 0.014 1 59.5% 28.1% 68252 490742
+-------------------------------------------------------------------SAV
+MNALDNKYTNTLKLTTGDVYISSPFFniYdgNpdILINNELGWDVASVGNHEFSGGAGSFLNLVagAAFP
+YLANNLDYSRATLPNGlaPLPNTLTGSvkVGIIGIVTPYLKSIADTGAIEVTTRdiIRNITPEVQALSNT
+GINKIILMTHLQESRIEIALAEE-MAALGLGVDLLFGGGSHQ----------------------------
+-----------------------------
+>Riv7116 5346 putative extracellular nuclease 1 39.3 0.025 1 16.2% 44.0% 100149 25962651
+----------------------------------------------------------------------
+-----------------------------KGRSDIIIQNELGFQAIALGNHEFDLGTEFIASVIApaNFP
+YLSSNLDAS-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>SynWH8103 02749 hemolysin-type calcium-binding repeat family protein 1 37.7 0.058 1 49.8% 30.9% 82246 61252
+----------------------------------------------------------------------
+-----------LFYSAGETTEGKP------GLADIKIFNAMGVKANGIGNHEMDGNIGEFIDMVNASDYV
+HLSANLDFSSveLAGKIAPSAYVEIDGEQIGLIGRssEMFSLVAdnLPgrEPVLEPLPLIQAEIDRLTNQ
+GINKIIFIDHAQDYTDQS-----VLPAELDGVDVII----------------------------------
+-----------------------------
+>SynWH7803 0111 Atypical alkaline phosphatase with phytase-like insertion 1 37.7 0.063 1 23.0% 32.4% 104174 9651053
+----------------------------------------------------------------------
+---------------------------------DIAIYNALGIQANGIGNHEFDAGIDDFVAMVQASDYV
+HLSANLDFSnnDLAGQIAPSAFVELNGQQIGLIG------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>M744 09635 alkaline phosphatase 1 37.0 0.10 1 55.3% 29.0% 80255 50264
+----------------------------------------------------------------------
+---------NTLILSSGDAYIPGTFLDAsqGRADILIQNELGVQAISFGNHEFDLGTGLIANLLKpaAFP
+YLSGNLNFaaSTIAGKIAASSIITVNGEKIGVVGasISSPGAvePSPFGSVPSAQELDaaDVDALLANNP
+DLNKVILLSHM----QQISIEQEI-AKRLRNVDIIvgGSNTRLLD-------------------------
+-----------------------------
+>Synpcc7942 1392 alkaline phosphatase 1 37.0 0.10 1 55.3% 29.0% 80255 50264
+----------------------------------------------------------------------
+---------NTLILSSGDAYIPGTFLDAsqGRADILIQNELGVQAISFGNHEFDLGTGLIANLLKpaAFP
+YLSGNLNFaaSTIAGKIAASSIITVNGEKIGVVGasISSPGAvePSPFGSVPSAQELDaaDVDALLANNP
+DLNKVILLSHM----QQISIEQEI-AKRLRNVDIIvgGSNTRLLD-------------------------
+-----------------------------
+>syc0163 d alkaline phosphatase 1 37.0 0.10 1 55.3% 29.0% 80255 50264
+----------------------------------------------------------------------
+---------NTLILSSGDAYIPGTFLDAsqGRADILIQNELGVQAISFGNHEFDLGTGLIANLLKpaAFP
+YLSGNLNFaaSTIAGKIAASSIITVNGEKIGVVGasISSPGAvePSPFGSVPSAQELDaaDVDALLANNP
+DLNKVILLSHM----QQISIEQEI-AKRLRNVDIIvgGSNTRLLD-------------------------
+-----------------------------
+>Syn6312 1530 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 36.2 0.21 1 60.2% 29.8% 100290 613853
+----------------------------------------------------------------------
+-----------------------------RGIADIQIQNELGFQAIAFGNHEFDFGTEafGADFTGTNFP
+YLSTNLDFSTDpvPGGEAPQAKTVTSSVIIDVNGENIGVIGATTPTLagVSISPSPfqQIAALAAEIqnP
+RLNKIVLLSHMQQIEIEYR-----LAQLLENVDIIvgGSNTRLFDepRFIANAGGTQTAVVNTDGSYKYV
+GRLVIDFDAA-------------------
+>AOY38 01955 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>MYO 13840 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>SYNPCCP 0380 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>SYNPCCN 0380 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>SYNGTI 0380 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>SYNGTS 0380 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>sll0654 alkaline phosphatase 1 35.4 0.37 1 17.8% 35.5% 88149 606668
+----------------------------------------------------------------------
+-----------------DVFGGV-------GRADILIQNELGFQAIAFGNHEFDLGTanGEDNFPGTNFP
+YLSSNLDFT-------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>AA650 25035 metallophosphoesterase 1 34.3 0.54 1 43.4% 30.5% 1154 1154
+MNINRRQFLFLSGISTIASGFLsiQSATAAKPVKKDLLLR----------FVSVADTGTGTKGQYAVANA
+MNFYHQQNPYNLVVLAGD--------NIynGEIeiNEVFERPYQpaCLGNH--DIRTDNGVPQVKYPGFN
+MQGRYYTFSQNKVQ--------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Cyast 0333 5'-Nucleotidase domain-containing protein 1 33.5 1.3 1 55.0% 29.1% 82256 73282
+----------------------------------------------------------------------
+-----------LTLSSGDAYIPGLFFGASegRGDILIQNELGVQAIALGNHEFDLGTALVRdtFGGTNFP
+YLSSNLDFSTDaaDGQaqPNSifDVNGEQIGVVGATTPILRSISsgVFPSVFSANPTeqADVDALIASNT
+SLNKIILLAHM----QQLSIELE-LAQRLRDVDIIvgGSNTRLFDE------------------------
+-----------------------------
+>GEI7407 1712 metallophosphoesterase 1 32.7 2.3 1 63.4% 28.8% 38256 4220
+-------------------------------------FLHLSDVHLGFNRY---GSAEraLDDVIERYAI
+AAQVD------FVLIAGDLFEDRQILPATLNQAKlkLQDAAIPVFAIEGNHdcPYGTqsWLRYLSSWDYL
+VLLEPYdeSGPEYE----PWDPESHsdLPCGVRIIGSRWYGASAPQMIRKI--------AEAIAAL--PP
+GPDKTIMMFHHgaRYNGALRYQELLPLREAGVDYLALGHIHRHYEK------------------------
+-----------------------------
+>Anacy 3057 hypothetical protein 1 31.2 5.9 1 45.0% 25.9% 33179 194348
+--------------------------------VEKLQNQDSNSIYRTLqmLPADKVQENGLGSLWLLYRY
+VANVELKQAEAYLFDSPESFEYEPL--------AMEMNQAHLTDEARHYTTSFDLGMELYRKAPPEAQFF
+ivVEDYIQaaTYLEKLDKSQQGFVFTDVRIGLNALRMTL-------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>AM1 A0184 TonB-dependent siderophore receptor 1 31.6 6.1 1 23.3% 30.6% 576 669740
+----KAELIKDRLSATLAFFDITKSNVATADPVVPFAVITTGEQNSRGIDFDISGEILPGWNVIASYAYI
+DAKITQ----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Mic7113 0109 hypothetical protein 1 31.2 6.1 1 35.9% 29.8% 148261 106228
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------FNNTRIERTTELWQ--AKQAPIIFVSGRglEAEGIPQTALDGENCSLTTQENAAFTAAILQPR
+GIRRIILVTDWPHMWRSLLVFrkVISQTS-EIPSYVGGLRARFFLRLREYT-------------------
+-----------------------------
+>AM1 3403 TonB-dependent siderophore receptor protein 1 31.6 6.3 1 23.3% 30.6% 576 678749
+----KAELIKDRLSATLAFFDITKSNVATADPVVPFAVITTGEQNSRGIDFDISGEILPGWNVIASYAYI
+DAKITQ----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Mic7113 6464 helicase family protein with metal-binding cysteine cluster 1 31.2 7.0 1 14.9% 34.7% 65113 789834
+----------------------------------------------------------------AAVVAM
+IERVRQLKEQ--VRSAADVIPPL-YASLWESSPEFIALHSMGH---------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------
+>Npun F4534 Methyltransferase type 11 1 30.8 8.9 1 24.9% 29.9% 233309 92174
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------EILPSQEFDVAVFGDVLEhrILEETKQILKKDGYVVaiPNIAHGAIRL
+SLLQGKFEYTELGILDNTHLRFFTRKTVE
+>AM1 3877 conserved hypothetical protein 1 30.0 9.0 1 16.2% 35.8% 220272 257
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------HVGEAynKNATFDEV--REAYQ-DLVMVWHPDRFVHNPRLYKKAEAKLKEFNQ--------
+-----------------------------

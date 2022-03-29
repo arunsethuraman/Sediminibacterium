@@ -1,0 +1,93 @@
+>Lyngbya extdbtmp 000015 nucleotidyltransferase substrate binding 1 100.0% 100.0% 1130
+MTQDIRWIQRFDNFEKAFLRLKEAMDTSELTELERNGLVQRFEFTLDLSWKVMKDFLEEKGFAFKPSPKD
+TIRLAQQNGFINYAQALIDGFDIRNELSHDYSGEKFEKAEEILRESIYPALQKLYSFFLE
+>Syn6312 1062 nucleotidyltransferase substrate binding protein HI0074 family 1 92.4 4e-24 1 94.6% 36.6% 6128 7131
+-----RWAYRFDNYHRALILLEEAINLDrlSQLEKEGLIQRFEYTMELAWKTLKDYLESEGLVLEptPRT
+IIRSAFEARIIHQGDTWQQALDARNRMAHTYNLATFERVLTEIRDHYFTAFKELDEFL--
+>SynWH8103 00659 nucleotidyltransferase substrate binding HI0074 family protein 1 70.9 9e-16 1 96.9% 35.7% 2130 3136
+-TPDIRWTQRLVNFRRALATLQRAIGLAqlSELEELGLIQAFEFTHELSWLLIRDFLVDQGVAGISGSRD
+AVREAVVRQLLPQgmAMIRS---RNLTSHPYNPAVAREIADLIVHRYGLAFQQLSGVMLE
+>SynWH8103 00546 nucleotidyltransferase substrate binding HI0074 family protein 1 62.8 1e-12 1 78.5% 32.4% 1102 1102
+MTADVRWQQRLSNYCSALEQLETFFEPPALNQREQQGLIKAFEYAFELSWNTLRDLLRSQGNATLLGSRN
+TLREAFQLGLISDGEIWMLMIQDCNLTSHTYN----------------------------
+>sync 0164 conserved hypothetical protein 1 37.0 0.002 1 33.1% 39.5% 143 648
+LAADIRWQQRFVNYKRALEQLERFFEPPALNEREQQGLIKAFE---------------------------
+------------------------------------------------------------
+>Mic7113 0558 putative transcriptional regulator 1 32.7 0.16 1 43.8% 32.2% 866 3894
+-------VQRFGQLHRALNGITQKMLTQQLREMEQDGIIHR-EVYLQVPPKV-EYSLTSLGLSLKP----
+------------------------------------------------------------
+>IJ00 21185 serine/threonine protein kinase 1 32.3 0.43 1 46.9% 33.8% 62126 119181
+-------------------------------------------------------------FAFFPMIVP
+SLQGGKQDQFFYIVQEFIDGQNLEEELNQK---KKFSEAeeVL-QAILPVLQFVHT----
+>Oscil6304 3020 putative transcriptional regulator 1 31.6 0.43 1 28.5% 32.4% 844 5591
+-------VKRFGELHRALAGITQKMLTQQLRELERDGIINRMVY--------------------------
+------------------------------------------------------------
+>Nos7524 3772 putative transcriptional regulator 1 30.8 0.82 1 26.2% 35.3% 841 3871
+-------VQRFGELQRALPGITQKMLTQQLRELEEDGIIHR-----------------------------
+------------------------------------------------------------
+>Pse7367 1872 transcriptional regulator HxlR family 1 30.8 1.2 1 38.5% 38.0% 958 95153
+--------KRFGELHKALHGITQKMLTQQLREMERDGLVNrvEYSLTEMGKTLEPVLE------------
+------------------------------------------------------------
+>SynWH8103 02726 hxlR-like helix-turn-helix family protein 1 29.3 1.7 1 26.2% 35.3% 841 538
+-------IQRFSDLQRALEGVSQKVLTAQLRDLEADGVVHR-----------------------------
+------------------------------------------------------------
+>Osc7112 3820 transcriptional regulator HxlR family 1 30.0 1.7 1 43.8% 32.2% 866 3894
+-------VKRFNELQRAVNGITQKMLTQQLREMESDGIVHR-EIYLQVPPKV-EYSLTPLGESLKP----
+------------------------------------------------------------
+>Syn6312 0643 putative transcriptional regulator 1 30.0 1.9 1 25.4% 39.4% 941 4375
+--------QRFSALNRALPGITQKMLTQQLRELEQDGIVHR-----------------------------
+------------------------------------------------------------
+>IJ00 22630 HxlR family transcriptional regulator 1 29.6 2.1 1 26.2% 38.2% 841 3871
+-------IKRFGELQRALEGITQKMLTQQLRELEEDGIVHR-----------------------------
+------------------------------------------------------------
+>Cyast 2214 enolase 1 30.0 2.8 1 53.1% 28.4% 54127 1590
+-----------------------------------------------------REILDSRG---RPTVEA
+EVRL--ESGVVGMAqgSFEAHELRDEDPHRYGGKGVLKAVRNIREKIAPELLDIDAF---
+>Riv7116 0336 putative transcriptional regulator 1 29.3 3.3 1 26.2% 32.4% 841 3972
+-------IRRFGELQRALPGVTQKMLTQQLREMEQDGIIHR-----------------------------
+------------------------------------------------------------
+>glr4204 transcriptional regulatory protein MarR family 1 28.9 4.4 1 37.7% 25.9% 966 3684
+--------KRYSVLRRSIPEISEKMLISQLKELEKDGIVRR---------TVLRSVPPQVEYAFTP----
+------------------------------------------------------------
+>M744 08000 transcriptional regulator 1 28.9 4.6 1 43.8% 27.1% 866 4197
+-------VRRFSDLQRSLVGVSQKVLTSQLRELEADGVLDRTVYP-EVPPRV-EYALTERGQALLP----
+------------------------------------------------------------
+>Synpcc7942 1698 putative transcriptional regulator 1 28.9 4.6 1 43.8% 27.1% 866 4197
+-------VRRFSDLQRSLVGVSQKVLTSQLRELEADGVLDRTVYP-EVPPRV-EYALTERGQALLP----
+------------------------------------------------------------
+>syc2392 c hypothetical protein 1 28.9 4.6 1 43.8% 27.1% 866 4197
+-------VRRFSDLQRSLVGVSQKVLTSQLRELEADGVLDRTVYP-EVPPRV-EYALTERGQALLP----
+------------------------------------------------------------
+>Nos7107 2434 transcriptional regulator HxlR family 1 28.5 5.0 1 26.2% 32.4% 841 3871
+-------VKRFGELQRALPGITQKMLTQQLREMEEDGIVHR-----------------------------
+------------------------------------------------------------
+>Npun R3268 transcriptional regulator HxlR family 1 28.5 5.0 1 26.2% 29.4% 841 3871
+-------VKRFGELQRALPGVTQKMLTQQLREMEQDGIIHR-----------------------------
+------------------------------------------------------------
+>Cyan7425 0015 transcriptional regulator HxlR family 1 28.5 5.1 1 43.1% 31.0% 966 3691
+--------KRFSELKRLMPEITEKMLIQQLRELEKDGIVNRTVYS-EVPPKVEYSF-TEYGLTLKP----
+------------------------------------------------------------
+>Cyan7822 4684 DnaB domain protein helicase domain protein 1 29.3 5.4 1 33.1% 32.6% 1658 167210
+---------------RAIARIKQILKIPDLTELEQNGKLEQLREELKInyQWQKNFVE------------
+------------------------------------------------------------
+>Ava 1063 Predicted transcriptional regulator 1 28.5 5.7 1 26.2% 32.4% 841 3871
+-------IKRFGELQRALPGITQKMLTQQLREMEDDGIIHR-----------------------------
+------------------------------------------------------------
+>Aazo 1744 transposase IS4 family protein 1 29.3 6.3 1 45.4% 35.6% 664 1575
+-----RWCQRFDNvhKAQKREFRNYLGGLLRESERKNLLQMAENALGVTYHRLHHFLTEAPWSI------
+------------------------------------------------------------
+>Riv7116 1192 serine/threonine protein kinase 1 29.3 6.4 1 44.6% 37.7% 62122 119177
+-------------------------------------------------------------FAFFPVIVP
+GLQTNEQNQFFYLVQEHIDGDNLEEEL---VSKGKFSVEEVllLHSILPVLQ--------
+>Cri9333 3701 transcriptional regulator HxlR family 1 28.1 7.1 1 43.8% 30.5% 866 3894
+-------VKRFNQLHRSINGVTQKMLTQQLREMEQEGLIHR-EVYLQVPPKV-EYSLTPLGESLKP----
+------------------------------------------------------------
+>alr2106 hypothetical protein 1 27.7 8.8 1 26.2% 29.4% 841 3871
+-------VKRFGELQRALPGITQKMLTQQLREMEDDGIIHR-----------------------------
+------------------------------------------------------------
+>Cyan7822 4607 transcriptional regulator HxlR family 1 27.7 9.2 1 26.2% 32.4% 841 3871
+-------VKRFGELQKALSGITQKILTQQLRELEADGIIDR-----------------------------
+------------------------------------------------------------
+>SYNPCC7002 A0839 hypothetical protein 1 28.5 9.7 1 21.5% 35.3% 85118 180207
+----------------------------------------------------------------------
+--------------QLLIDGLSLRNAIAHGF------KANQVTKGSVY------------

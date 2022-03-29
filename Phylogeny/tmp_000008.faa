@@ -1,0 +1,2151 @@
+>Lyngbya extdbtmp 000008 FAD-dependent oxidoreductase 1 100.0% 100.0% 4540
+QYTLKLKPSEAANEPTVRQYIAQSSGKTLEQISGYHLLKRSIDARSRQQVWINLTVQAFIDEPFHVRNII
+PVSFKDVANSTKKVIIIGAGPAGLFAALKLIEAGICPIILERGKDVRSRRRDLAKLNKEGIVDPESNYCF
+GEGGAGTYSDGKLYTRSTKRGDINRILNLLYQFGASESVLYDAHPHIGTNKLPHIITAMREQIRDSGGQF
+LFEKKVVDFILEKETIKAVQTADGDTIAADACILATGHSARDIFKLLHDKKIGIEAKPFALGVRIEHPQA
+LIDSIQYHCPIRDEFLPPASYGLVEQVNKRGVFSFCMCPGGIIAPAATSPGELVVNGWSPSKRNNPYANS
+GMVVQVEQNDAIQFFEKRKWTLPDGTIIPKNTTAENDPLLLMYFQQAVEQSSFNAGGGHFVAPAQRMVDF
+CSGKLSNDLPDCSYVPGLQSTPLEQVLPDFIYKSLQGGFQAFGKKMRGYYTNDAVVVATESRTSSPVRIP
+RDADTLTHPQIINLYPCGEGAGYAGGIVSAAMDGERVADRIISKKLV
+>Lepto7376 1294 FAD dependent oxidoreductase 1 331 1e-106 1 90.5% 42.1% 22534 16528
+------------------EAIAEAICKKLeeLLEYTIFKRSFDARKKRNIFLVYVvkRFRRDP-HVIETP
+DMAYKMVGHaeERPIVIGMGPCGMFAGLMLARMGFRPIILERGKQVDERTKdfAFWKKRGKFNPESNAQF
+GEGGAGTFSDGKLYSQVRDRQHYKrvLEEFVEAGSNPEILYIAKPHIGTFKLVGVVKKIRATIESLGGEI
+RFQSKVKTVEIEDRKVKGVTLENGDFIPSTHVVMAMGHSARDTFEMLFDQGVYIEPKPFSIGFRIEHPQP
+LIDECRYGEFAGNKTLGAADYKLVHHcnGRSVYSFCMCPGGLVIGAASEPGMVVTNGMSQYSRNERNANA
+GIVV---------------------GITPEEDYPEH-PLAGIELQRKIESKAFELGGGDYSAPGQLVGDF
+LSGRSSEELGKvsYAPGVKLTDLSEVLPDFAIEAIREALPAFDKKIKGFAMDEAMLTGVETRTSSPIRIK
+RGKDY----QSInlYPAGEGAGYAGGILSAGIDGVKVAEAI------
+>Npun R1149 FAD dependent oxidoreductase 1 330 3e-106 1 92.0% 40.7% 17534 15527
+-------------EDEIKTAILKKLQITDEELIGYSIFKRSYDARKKGEIALVYILDVETTQETHLLkvT
+pmSYRPVanLAIRPIVIGTGPCGLFAGLMLAQMGFRPIILERGKKVRDRTAdfGFWKKKSDFNPESNAQF
+GEGGAGTFSDGKLYSQVKDPQHYGrvLTELVNAGASPEILYINKPHIGTFKLVGIVQSMRAKIESLGGEI
+RFESRVEDINIENGQVRGVTLASGEYIASEYVVLAVGHSARDTFQMLYERGVYIEPKPFSIGFRVEHPQT
+LIDQCRFGPQAGHKLLGAADYKLVHHcnGRSVYSFCMCPGGLVVAAASEPGRLVTNGMSQYSRNERNANS
+AIVVGITPED-----------------YPGNALAGID------FQRRLEEQAFKLGGGTYEAPGQLVGDF
+LKDRSSTAFGTvsYTPGVHLCDLSQSLPDYAIAAIREALPAFDKQIKGFAMDDAVLTGVETRTSSPIRIK
+RKEDYQSL-NTVGLYPAGEGAGYAGGILSAGIDGIKVAEAV------
+>Osc7112 4522 FAD dependent oxidoreductase 1 330 4e-106 1 88.3% 42.0% 33534 31527
+-----------------------------EELLGYSIFKRSYDARKKAEILLVYIvqRFKKDP-HVMVTP
+DTSYRYVanLTVRPIVIGTGPCGMFAGLMLAQMGFRPILLERGKAVRDRTVdfGFWKKKAEFNPESNAQF
+GEGGAGTFSDGKLYSQVKDPQHYGrvLTELVNAGASPEILYINKPHIGTFKLVGIVQSLRAQIESLGGEI
+RFQTRVEDIHIENGKVQGLTLASGEYIASNYIVLAVGHSARDTFEMLFARGVYIEAKPFSIGFRVEHPQT
+IIDRCRFGDRAGHKLLGAADYKLVHHcnGRSVYSFCMCPGGLVVAAASEPGRLVTNGMSQYSRNERNANS
+GIVVGITPED-----------------------YPGHPLAGIEFQRRLEERAFELGGGTYNAPGQLVGDF
+LANRPSTALGSvsYTPGVVMTDLSESLPDYAIAAIREALPAFDKQIKGFAMDDAVLTGVETRTSSPIRIK
+RKEDY----QSLnlYPAGEGAGYAGGILSAGIDGIKVAEAV------
+>AOY38 10880 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>MYO 121110 putative ORF1 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>SYNPCCP 2089 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>SYNPCCN 2089 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>SYNGTI 2090 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>SYNGTS 2091 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>sll0175 hypothetical protein 1 322 5e-103 1 92.0% 40.5% 16534 14530
+------------DDIALEEAILKKLGVSSKELTSYTIFKRSYDARKRGQILLVYIvqKLLNKLAGDRQII
+ptTYKLVAqeGKRPIVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLHAESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVTDINIKDNQVQGVTLENGDYIATNHVVLAVGHSARDTFKMLFERGVYIEAKPFSIGFRIEHPQS
+LIDQCRFGTQAGHPRLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGITP----------EVDYPD------------HPLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANRPSTklP--SYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMDDAVLTGVETRTSSPIRIK
+R-GDDFQSINTVGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>M744 10325 hypothetical protein 1 322 6e-103 1 88.8% 40.8% 33534 31527
+-----------------------------DELLGYEIFKRSYDARKKDavWVYIllKRFQKDP-HVNPTP
+DMSYRVVAQatERPVVIGAGPCGMFAALTLAQMGFRPILFERGKTVRDRTAdfAFWKKRGEFNPESNAQF
+GEGGAGTFSDGKLYSQVRDPQYYGrvLTELVNSGANPEILYVNKPHIGTFKLVGVVQQMRARIEALGGEI
+HFQSRVESLHIEDRQVRGLRLTNGDYIPARHVVLAIGHSARDTFQMLFDQGVYIEAKPFSIGFRIEHPQP
+LIDRARFGPFAGHKSLGAADYKLVHHcnGRTVYSFCMCPGGLVVAATSEPGRVVTNGMSQYSRNERNANS
+GIVVGITPED-----------------------YPGHPLAGIDLQRRLEAKAFELGGGTYEAPGQLVGDF
+LAGRPSQHLGTvsYAPGVHLTDLSESLPDYAIAAIREALPAFNRQIQGFALPDAMLTGVETRTSSPVRIK
+RGED-FQSLNTTGLFPAGEGAGYAGGILSAGIDGIKVAEAV------
+>Synpcc7942 1262 uncharacterized FAD-dependent dehydrogenase 1 322 6e-103 1 88.8% 40.8% 33534 31527
+-----------------------------DELLGYEIFKRSYDARKKDavWVYIllKRFQKDP-HVNPTP
+DMSYRVVAQatERPVVIGAGPCGMFAALTLAQMGFRPILFERGKTVRDRTAdfAFWKKRGEFNPESNAQF
+GEGGAGTFSDGKLYSQVRDPQYYGrvLTELVNSGANPEILYVNKPHIGTFKLVGVVQQMRARIEALGGEI
+HFQSRVESLHIEDRQVRGLRLTNGDYIPARHVVLAIGHSARDTFQMLFDQGVYIEAKPFSIGFRIEHPQP
+LIDRARFGPFAGHKSLGAADYKLVHHcnGRTVYSFCMCPGGLVVAATSEPGRVVTNGMSQYSRNERNANS
+GIVVGITPED-----------------------YPGHPLAGIDLQRRLEAKAFELGGGTYEAPGQLVGDF
+LAGRPSQHLGTvsYAPGVHLTDLSESLPDYAIAAIREALPAFNRQIQGFALPDAMLTGVETRTSSPVRIK
+RGED-FQSLNTTGLFPAGEGAGYAGGILSAGIDGIKVAEAV------
+>syc0289 d uncharacterized FAD-dependent dehydrogenase 1 322 6e-103 1 88.8% 40.8% 33534 31527
+-----------------------------DELLGYEIFKRSYDARKKDavWVYIllKRFQKDP-HVNPTP
+DMSYRVVAQatERPVVIGAGPCGMFAALTLAQMGFRPILFERGKTVRDRTAdfAFWKKRGEFNPESNAQF
+GEGGAGTFSDGKLYSQVRDPQYYGrvLTELVNSGANPEILYVNKPHIGTFKLVGVVQQMRARIEALGGEI
+HFQSRVESLHIEDRQVRGLRLTNGDYIPARHVVLAIGHSARDTFQMLFDQGVYIEAKPFSIGFRIEHPQP
+LIDRARFGPFAGHKSLGAADYKLVHHcnGRTVYSFCMCPGGLVVAATSEPGRVVTNGMSQYSRNERNANS
+GIVVGITPED-----------------------YPGHPLAGIDLQRRLEAKAFELGGGTYEAPGQLVGDF
+LAGRPSQHLGTvsYAPGVHLTDLSESLPDYAIAAIREALPAFNRQIQGFALPDAMLTGVETRTSSPVRIK
+RGED-FQSLNTTGLFPAGEGAGYAGGILSAGIDGIKVAEAV------
+>SYNPCC7002 A0857 putative FAD-dependent dehydrogenase 1 322 7e-103 1 90.1% 41.2% 20534 23533
+----------------IAQAICQKLKIQPDDLLEYQIFKRSYDARKKSNIYlqALLKRFKKDP-HVLPTP
+DMSYKMVAQaaTRPIVIGMGPCGMFAGLMLAKMGFRPIVLERGKTVNERTKDTFNfkKKGEFNPESNAQF
+GEGGAGTFSDGKLYSQVRDRHHYKrvLEEFVAAGANPEILYIAKPHIGTFKLVGIVQSIRKTIESLGGEI
+RFQSKVKTLELENHQVKGVTLENGEFIPSSHVVLAMGHSARDTFQMLHDQGVYIEPKPFSIGFRIEHPQP
+LIDECRYGEFAGNKILGAADYKLVHHcnGRSVYSFCMCPGGLVIGATSEAGKVVTNGMSQYSRNERNANA
+GIVVGI--------------------------TPEEdpLAGIDLQRKLEARAFELGGGDYSAPGQLVGDF
+LAGCSSESLGKvsYAPGVKLTDLSTALPDYAIEAIREALPAFDKQIKGFAMAEAMLTGVETRTSSPIRIK
+RGKDY----QSInlYPAGEGAGYAGGILSAAIDGVKVAEAI------
+>Cri9333 3761 FAD dependent oxidoreductase 1 322 7e-103 1 91.4% 40.3% 16534 14526
+------------DESEIQAAILKKLQITAADLISYSIFKRSYDARKRGEIFlkRLLQRFKKDP-HVIPTP
+DTTYRFVAQAPRDliVIGTGPCGLFAGLLLAQMGFRPIILERGKSVRDRSVDTFGFWIKKRLNPESNAQF
+GEGGAGTFSDGKLYSQVSDPHHYGrvLTELVNAGADPEILYINKPHIGTYRLVKIVQTMRAKIESLGGEI
+RFQSRVEDLHIEQGQVRGVTLASGEYIASNHVVLAVGHSARDTFGMLLERGVYMEAKPFSIGFRIEHPQS
+VIDRCRFGSLAGHPVLGAADYKLVHHcnGRSVYSFCMCPGGTVVAAASEPGRLVTNGMSQYARDESNANS
+AIVVGITPDD-----------------------YPGSPLAGMDLQRRLEEQAFKLGGGTYYAPGQLVGDF
+LNHRPSTTLGTvsYKPGVQLGDLSTSLPDYAIAAIREAIPAFDQKIPGFAMNDAILTGVETRTSSPIRIK
+RQEDC----QSInlYPAGEGAGYAGGILSAGIDGIRVAEAV------
+>D082 24660 NAD(FAD)-utilizing dehydrogenase 1 321 1e-102 1 91.6% 40.3% 16534 14530
+------------NDTALEHAILKKLGISGEELTSYTIFKRSYDARKRGHILLVYIvqKLLNKFAGDRQII
+ptTYKLVTqeGKRPVVIGTGPCGMFAGLLLAQMGLKPIILERGKSVRDRSVDTFRFWVKGKLNVESNVQF
+GEGGAGTFSDGKLYSQVRDPNHYGrvLEEFVKAGADPEILYINRPHIGTYRLVKIVQNLRSTIEELGGEI
+HFQSHVSDINIQDNQVQGVTLENGDYIATNHVVLAVGHSARDTFQMLFERGVYIEAKPFSLGFRIEHPQS
+LIDQCRYGAQAGHARLGSADYKLVHHcnGRSVYSFCMCPGGKVVAAASEPGRLVTNGMSEYARDEANANS
+AIVVGI--------------------------TPEVdpLAGIALQRFWEERAFQLGGENYQAPGQLVGDF
+LANQSSTRFGSvsYKPGVKLVNLGESLPDYAIAALREAIPAFDKKIRGFAMEDAVLTGVETRTSSPIRIK
+R-GDDFQSINTLGLYPAGEGAGYAGGILSAGIDGIKVAEAI------
+>SynWH8103 01993 pyridine nucleotide-disulfide oxidoreductase family protein 1 314 1e-99 1 91.1% 40.8% 33539 31544
+-----------------------------DQLLEQRLVKRSIDARRRDRIQLIYSVDVLveQALMKRRRP
+GLPLKQAPDTRYRMvvVGAGPCGYFAALLLAQMGFKPLLLERGQPVKQrqQTFAFWRGQQALDPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVACGANAEILTVHRPHIGTFKLATVVRGLRSRIEALGGEV
+RFGCRVDRLLLEPssLKALLLADGQQLPCRHLVLAPGHSARDCFAMLDQVGVQLERKPFSVGVRIEHPQP
+LIDQARWGAMAGHPRLGAAEYKLVHHanGRCVYSFCMCPGGFVVGATSEEGRVVTNGMSQHSRNERNANS
+GLVVTLEPED-LQPYERHP----------------GDPLAGIALQRDLEQRAFRSGGGTYAAPAQRLEDF
+LAGCPSTTLGtaSYQPGITPTDLAPVLPEPILNALREALPQFARRLRGYDHPDAVLTAVETRTSSPVRIP
+RDGQ-LESLNTRGLIPAGEGAGYAGGILSAGIDGIRAAEAMAAQLL-
+>Cyagr 0044 FAD-dependent dehydrogenase 1 307 5e-97 1 89.9% 39.7% 34534 32545
+------------------------------ELRGHHLVKRSVDARRRGAicLDLELEgfAGDP-HLrrYR
+PVARAEGTSSELRPVVVGAGPCGYFAALLLAQMGWRPLLLERGKAVKERTAdfGFWQGRRRFDPGSNVQF
+GEGGAGTFSDGKLYSQVSENPtiRKVLEELVAAGADPEILTLHHPHIGTFKLATVVRGLRARIEALGGEV
+RFGQHVVELLlpERRLAGVRLADGTCIATRHLVLAPGHSARDTFAMLHRLGVAMEPKPFAVGVRIEHPQA
+LVDRARWGEAAGHPRLGPAEYKLVHHGGerSVYSFCMCPGGLVVGATSEEGCVVTNGMSQHSRRERNANS
+GLVVPISQEDLAPYAQE-----------------GAEALAGIAFQRHWERQAFDAGGGDYRAPAQWLEDF
+LEHRPSQESPpgSYQPGLRFGSLDGCLPAYVLDAIREALPAFARRIPGYAMAGALLTGVETRTSSPLRLL
+RHPTELESLNTPGLFPAGEGAGHAGGILSAAIDGIKVAEAV------
+>KR49 12720 hypothetical protein 1 306 9e-97 1 91.1% 40.6% 33540 31548
+-----------------------------DQLLEQRLVKRSIDARRRDRIQVIYSVDVAVRSEarIRTAP
+DTRYRMVAKaeQRPVVVGAGPCGYFAALLLAQMGFRPLLLERGQPVKQRTLQTFGFWRGRLadPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVASGASDEILTLHRPHIGTFKLATVVRGLRARIEALGGEV
+RFASRVDQLLLEsqQLAGIRLADGRRIACRHLVLAPGHSARDCFAMLDGVGVQLERKPFSVGLRIEHPQP
+LIDQARWGEMAGHPKLGAAEYKLVHHanGRCVYSFCMCPGGFVVGATSEAGRVVTNGMSQHSRNERNANS
+GLVVNLEPEDLEPYSRK-----PD------------DPLAGVALQRDLEERAFRLGGGSYAAPAQRLEDF
+LARRASGSLGsaSYQPGVTPSDLSTVLPEPIIEALREALPAFAKRLPGYDHPDAVLTGVETRTSSPVRIP
+RD-ERLESLNTRGLVPAGEGAGYAGGILSAGIDGIRAAE-AVARQLV
+>Syncc9902 1640 conserved hypothetical protein 1 305 2e-96 1 88.8% 41.2% 40534 38543
+------------------------------------LVKRSIDARRRDQIQLIYSVDVRvgKTSRVRQAP
+DTTYKPVAQLPrrPVVVGAGPCGYFAALLLAQMGFRPLLLERGEPVKQRtqTFAFWRGETGIDPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVASGANEDILTLQRPHIGTFKLATVVRGLRARIEALGGEV
+RFSSRVERLRLdsHQLVGLDLANGDAIPCRHLVLAPGHSARDCFAMLEQIGVQIEAKTFSVGVRIEHPQP
+LIDAARWGPSAGHPRLGPAEYKLVHhtNGRCVYSFCMCPGGFVVGATSEVGRVVTNGMSQHSRNERNANS
+GLVVQLQPED-LAPYERHP----------------GDPLAGVALQRDLEHRAYLLGGSTYAAPAQRLEDF
+LANQPSESLGsaSYQPGVQPSDLNALLPPPMIAALREALPAFARRVRGYDHPDAVLTGVETRTSSPVRIP
+RDL-ALESVNVRGLFPAGEGAGYAGGILSAGIDGIRAAEAL------
+>PMT 1236 conserved hypothetical protein 1 304 6e-96 1 90.5% 39.3% 34540 32552
+------------------------------QLINHRLVKRSIDARRHERIQfnQKIRKAPDTRYYPVAQA
+PTDFPQV--ETQRPVVVGAGPCGYFAALLLAQMGFKPLLLERGQSIKKRTLefAFWRGQRPFNPDSNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVASGANPEILTVHRPHIGTYKLATVVRGMRARIEELGGEI
+RFETRVDELLLRRdqVVGLKLADGSTISSRHVLFALGHSARDSFAMLERVGVKLEAKPFSVGLRIEHPQP
+LIDRARWGPMVGHPQLGHAEYKLVHHanGRSVYSFCMCPGGVVVGATSQADCVVTNGMSQHTRNERNANS
+ALVVNLEHQDLCSY---ERWP--------------GDPLAGVALQRDLERRAFQLGGGGYCAPAQRQEDF
+QAGRPTTCLGEvsYLPGITLVDLNQMLPAPLIEALREALPAFARRLPGYEHPDAVLTGVETRTSSPVRIP
+RD-NSFESLNTTGLIPAGEGAGYAGGILSAGIDGIRAAE-ALAKQLV
+>sync 1996 uncharacterized FAD-dependent dehydrogenase 1 303 2e-95 1 88.6% 38.9% 39534 37547
+-----------------------------------QLVKRSVDARRRDRIQLIYSVDVAvdTHYKFVAQA
+PEGFG--GHSEQRPVVVGAGPCGYFAALLLAQMGFRPLLLERGQPVKQRTAdfGFWRRTAEFNPESNAQF
+GEGGAGTFSDGKLYSQVSDPDHYgkVLEELVACGANREILTEHRPHIGTFKLATVVRGLRAKIEALGGEV
+RFGSRVDQLLLesQQVVGLSLSDGTVLPCRQVVLAPGHSARDSFKMLQEVGVALEAKPFSVGFRIEHPQA
+LVDEARWGLNAGHPLLGAAEYKLVHHanGRCVYSFCMCPGGLVVGATSEKGRVVTNGMSQHSRNERNANA
+ALVVPVNEDDLAAY---AAWP--------------GDPLAGLAFQRALEHKAFVLGGADYSAPVQRLQDF
+LAGRPTTELggASYQPGVSPRDLRSLLPTSMVEALQEALPRFARRIKGYDHPDALLTAVETRTSSPLRIP
+RD-EHFESINTVGLTPAGEGAGYAGGILSAAIDGIRVAEAV------
+>SynRCC307 1112 Uncharacterized FAD-dependent dehydrogenase 1 302 4e-95 1 88.8% 40.8% 32534 40543
+----------------------------LEALGELQLFRRSVDARHKGAIELVYSVDVPvdepL-VRPSI
+PAPAAYANGRRPRPVVVGAGPCGYFAALFLAQQGYRPLLLERGKPVKQRTADTFGFWKGRlfNPASNAQF
+GEGGAGTFSDGKLYskESKRHG-RWVLEELVESGANPEILVLNKPHIGTFKLVGVVRQLRQRITDLGGEV
+RFEHHVTGVELSPGtlKALTLATGERIETDAAVFAVGHSSRDTFALLHGQGVAMEPKPFSIGFRIEHPQP
+LIDQARWGEHAGHPILGAADYKLVHHanGRSVYSFCMCPGGLVVGATSEEGRVVTNGMSQYSRNERNANS
+GIVVAITPDD-----------YPGG------------PLAGVDFQRELESRAFVLGGSNYKAPAQRLADF
+LAAKPSSDLGSgsYAPGVTPTDLSTALPEFAIEAIREALPAFAKQIPGFDHPDAVLTGVETRTSSPLRIT
+RGID-LQSTNTPGLFPAGEGAGFAGGILSAGIDGLRVGEAV------
+>SynWH7803 0649 Uncharacterized FAD-dependent dehydrogenase 1 301 6e-95 1 84.0% 41.2% 64534 82545
+------------------------------------------------------------DERYHYVAKA
+PPSLE--AAGLLRPVVIGAGPCGYFAALLLAQMGYRPVLLERGQPVKQRSAdfGFWRRTSAFQPESNAQF
+GEGGAGTFSDGKLYSQVSDPAHYGrvLEELVACGANREILTLHRPHIGTFKLATVVRGLRARIEALGGEV
+RFGTRVDALEIKAGSSSavRLSDGTHLACDQLVLAPGHSARDTFAMLERVGVALERKPFAIGVRIEHPQA
+LIDRARWGDCAGHPLLGAAEYKLVHHanSRCVYSFCMCPGGFVVGATSEPGRVVTNGMSQHSRNERNANS
+GLVIPVLDED-----------------LEPHERFQGDPLAGMAFQRTLEGRAFELGGGDYCAPVQRLEDL
+LEGRASTDLGSvsYQPGVRPCDLAELLPASMTAALREALPAFAKQLPGYDHPDAVLTAIETRTSSPLRIA
+RD-EAYESINVQGLTPAGEGAGFAGGILSAAIDGIRVAEAV------
+>Syncc8109 1981 hypothetical protein 1 298 1e-93 1 94.8% 39.0% 4534 6543
+ELKLPLDHGEEALQEAVLKRLRIPADRLLAQT----LVKRSVDARRHDQIQLIYSVDvrIGNKGRVRLAP
+DTRYRSVsdAGDRPVVVGAGPCGYFAALLLAQMGFRPLLLERGQAVKQRTAdfGFWRGTSPFNPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVACGASEEILTLHRPHIGTFKLATVVRGLRARIESLGGEV
+RFNSRVTRLQLSDSslDGVVLADGTEIPCRHLVLAPGHSARDCFEMLEQIGVHLQRKPFSVGVRIEHPQH
+LIDAARWGEAAGHPRLGAAEYKLVHHanGRCVYSFCMCPGGFVVGATSEEGRVVTNGMSQHSRNERNANS
+GLVVALDADD-LAPFER----FP------------GDPLAGIALQRELEERAFRLGGNSYAAPAQRLEDF
+LAARPSTRLGgaSYQPGVHPADLDDLLPAAIVEALREALPAFARKLKGYDHPDAVLTGVETRTSSPVRIP
+RD-EALESLNVKGLVPAGEGAGYAGGILSAGIDGIRAAEAL------
+>P9303 07721 Uncharacterized FAD-dependent dehydrogenase 1 298 2e-93 1 90.5% 39.1% 34540 32552
+------------------------------QLINHRLVKRSIDARRHERIQfnQKIRKAPDTRYYPVAQA
+PTDFPQV--ETQRPVVVGAGPCGYFAALLLAQMGFKPLLLERGQSIKKRTLefAFWRGQRPFNPDSNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvFEELVASGANPEILTVHRPHIGTYKLATVVRGMRARIEELGGEI
+RFETRVDELLLLRDlvVGLKLADGSTISSRYVLFALGHSARDSFAMLERVGVKLEAKPFSVGLRIEHPQP
+LIDRARWGPMVGHPQLGHAEYKLVHHanGRSVYSFCMCPGGVVVGATSQADCVVTNGMSQHTRNERNANS
+ALVVNLEHQDLCSY---ERWP--------------GDPLAGVALQHELERRAFQLGGGGYCAPAQRQEDF
+LAGRPTTCLGEvsYLPGIKLVDLNQMLPAPLIEALREALPAFARRLPGYEHPDAVLTGVETRTSSPVRIP
+RD-NSFESLNTTGLIPAGEGAGYAGGILSAGIDGIRAAE-ALAKQLV
+>KR52 13325 hypothetical protein 1 297 5e-93 1 89.8% 39.4% 33532 31541
+-----------------------------DRLLGQTLVKRSVDARRRDRIQLIYSVDvrIGNKGRVRSAP
+DTRYRSVGQavERPVVVGAGPCGYFAALLLAQMGFRPLLLERGESVKQRtqTFGFWRGTSPFNPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVACGASEEILTLHRPHIGTFKLATVVRGLRARIEALGGEV
+RFNSRVTRLQlkPHQLDGLVLADGTEMSCRHLVLAPGHSARDCFEMLEEIGVQLQRKPFSVGVRIEHPQH
+LIDHARWGEAAGHPRLGPAEYKLVHHanGRCVYSFCMCPGGFVVGATSEEGRVVTNGMSQHSRNERNANS
+GLVVAVDADDLVPF-----------------ERFPGDSLAGIGLQRDLEERAFLMGGSSYAAPAQRLEDF
+LACRPSTRLGtaSYQPGVHPADLAALLPTSIVEALREALPAFARKLKGYDHADAVLTGVETRTSSPVRIP
+RD-EALESLNVKGLVPAGEGAGYAGGILSAGIDGIRAAE--------
+>Syncc9605 0722 conserved hypothetical protein 1 296 1e-92 1 91.1% 39.8% 33539 31552
+-----------------------------DRLLGQTLVKRSVDARRRDRIQLIYSVDvrIGNKDRVRLAP
+DTRYRSVgdAGDRPVVVGAGPCGYFAALLLAQMGFRPLLLERGQAVKQRTAdfGFWRGTSPFNPESNAQF
+GEGGAGTFSDGKLYSRVSDPEHYGrvLEELVACGASEEILTLQRPHIGTFKLATVVRGLRARIEALGGEV
+RFNSRVTRLQLSNSslDALVLADGTEMPCRHLVLAPGHSARDCFEMLEQIGVQLQRKPFSVGVRIEHPQH
+LIDAARWGEAAGHPRLGAAEYKLVHHanGRCVYSFCMCPGGFVVGATSEEGRVVTNGMSQHSRNERNANS
+GLVVALDADD-LAPFER----FP------------GDPLAGIALQRELEERAFRLGGNSYAAPAQRLEDF
+LAARPSTRLgaASYQPGVHPADLDALLPSPIVEALREALPVFASKLKGYNHPDAVLTGVETRTSSPVRIP
+RD-EALESLNVKGLVPAGEGAGYAGGILSAGIDgeAVARQLLMDKV-
+>KR100 05340 hypothetical protein 1 295 1e-92 1 90.7% 39.2% 33540 31548
+-----------------------------ERLIGHRLVKRSVDARRRDRIELIYSVDVRvdKRYRLLGSA
+SEGFPAVPDD--RPVVVGAGPCGYFAALLLAQMGLRPLLLERGQPVKQRTQQTFGFWQGRlfDPESNAQF
+GEGGAGTFSDGKLYSQVSDPEHYGrvLEELVASGANPDILTVHRPHIGTFKLATVVRGLRARIEALGGEV
+RFGCRVDRFLlkPKQIAGVRLANGEELGCRHVVLAPGHSARDCFAMLEEVGVQLEPKPFSVGVRIEHPQP
+LIDQARWGDMAGHPRLGAAEYKLVHHanGRCVYSFCMCPGGFVVGATSEEGRVVTNGMSQHSRNERNANS
+GLVVNLEPEDLAPY-----------------ERFSGDPLAGVALQRDLERRAFQLGGATYAAPAQRLEDF
+LAQRPSIHLgeASYQPGVAPADLAQALPEALIAALREALPVFAKRLPGYDHPDAVLTGVETRTSSPVRIP
+RDQD-MESLNTRGLIPAGEGAGYAGGILSAGIDGIRAAE-AVARQLV
+>Cyan7425 4465 amine oxidase 1 45.8 3e-04 1 5.4% 62.1% 87115 634
+----------------------------------------------------------------------
+-------------VVIVGAGPAGLTAAYELVKQGICPLVLEQ----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PMN2A 1468 L-aspartate oxidase 1 45.4 6e-04 1 30.9% 30.2% 79250 11199
+----------------------------------------------------------------------
+-----DIYSTNWDVIVIGAGAAGLMSSLEL-PSNLKILLLNRNTSKRSSSrgMAAVTreDSEDIHANDTI
+KAGAGLCDSEaqMFVQSAPR-LVDRLMKLGMEfgKLSTTLEAAHTH---RRVLHvvDVLNEQV-DQRGNV
+LHQrrVTQIWVERGKCSGVQVLDGPaiQAKAVVLATG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>KR49 07245 L-aspartate oxidase 1 44.3 0.001 1 32.4% 30.4% 67250 2197
+---------------------------------------------------------------VHPRRVD
+PIS-----PGPWDVVVIGAGAAGLMSCLELPQ-GLSVLLLNRNTGRRSSSR-WAQGGIAAVTRPesALCH
+GeaGAGLcgDAVRLLVDQAPGCVERLQQLGMAfgALATTLEAAHSH---RRVLHvvDVLREQVEQRQgeH
+RRGVRVTQLLVENGRCCGIQVLDGHqiRCRAVVLASG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>NATL1 01711 L-aspartate oxidase 1 44.3 0.001 1 30.9% 30.8% 79250 11199
+----------------------------------------------------------------------
+-----DIYSTNWDVIVIGAGAAGLMSSLEL-PSNLKILLLNRNTSKRSSSrgMAAVTreDSEDIHANDTI
+KAggLCDLEAVQMFVHSAPR-LVDRLLKLGMEfgKLSTTLEAAHTH---RRVLHvvDVLNEQV-DQRGNV
+LHQrrVTQIWVERGKCSGVQVLDGPaiKAKAVVLATG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Osc7112 4319 amine oxidase 1 44.3 0.001 1 6.1% 57.6% 87119 638
+----------------------------------------------------------------------
+-------------VAIVGAGPAGLTAAYELVKQGIIPVVLEKGDKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 4610 UDP-galactopyranose mutase 1 43.9 0.002 1 6.1% 63.6% 87119 840
+----------------------------------------------------------------------
+-------------VVIIGAGPAGLTAGYELIKQGIKPIVLEAGDKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 6903 protoporphyrinogen oxidase 1 43.5 0.002 1 6.9% 51.4% 83119 238
+----------------------------------------------------------------------
+---------NNNQVVVIGAGPAGLTAAYHLVKNGIKPIVLEQSDKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>EW15 0188 L-aspartate oxidase 1 43.5 0.002 1 30.9% 30.8% 79250 11199
+----------------------------------------------------------------------
+-----DIYSTNWDVIVIGAGAAGLMSSLEL-PSNLKILLLNRNTSKRSSSrgMAAVTreDSEDIHANDTI
+KAGAGLCDSEaqMFVHSAPR-LVDRLLKLGMEfgKLSTTLEAAHTH---RRVLHvvDVLNEQV-DQRSNV
+LHQrrVTQIWVEKGKCGGVQVLDGPaiQAKAVVLATG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 1119 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 43.1 0.002 1 29.6% 26.6% 85253 2160
+----------------------------------------------------------------------
+-----------KKVAIAGGGPTGVTLALMLVQRGIAVTLVEAASDFRRVFRGEALM-------PSGLNAL
+DEMGLSKILE-EIPHRELNAWEF--ILNKKPLFKVDEPIETDTQPCTLFSQPPLLETLILEARKYSHFEF
+IQGVAVKDLLRIDNRVAGIRLADGREITADIVIGADGRNS------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 6681 protoporphyrinogen oxidase 1 42.4 0.005 1 6.1% 54.5% 87119 638
+----------------------------------------------------------------------
+-------------VLVVGAGPAGLTAAYELVKKGIQPIVLEQADKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>gll1135 hypothetical protein 1 40.8 0.015 1 6.9% 54.1% 83119 238
+----------------------------------------------------------------------
+---------AEKQVIVIGAGPAGLTAAYELSRLGVAATILERSAHV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7424 4196 amine oxidase 1 39.7 0.030 1 7.8% 47.6% 78119 1152
+----------------------------------------------------------------------
+----KPVTNPSNPTVVIGAGPAGLTAAYHLAKHGIKSITLEKADKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 1771 protoporphyrinogen oxidase 1 38.5 0.070 1 6.1% 51.5% 87119 941
+----------------------------------------------------------------------
+-------------VVIIGAGPAGLTAAYELVKNSVRPLVLEADNKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GKIL 3738 protoporphyrinogen oxidase 1 38.5 0.073 1 6.1% 54.5% 83115 234
+----------------------------------------------------------------------
+---------ADRHVVVIGAGPAGLSAAFELDRLGIASTILER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 3306 monooxygenase FAD-binding protein putative 1 38.5 0.077 1 29.2% 27.4% 86253 3160
+----------------------------------------------------------------------
+------------KVVIVGAGPTGAALALILVQRGIDVTLVEAARNFRRTFRG------EGLM-PSGLDAL
+EQMGLLGLIETVPHQALTA---WEYILEGRRMFQASEPFQANTLPCTLVSQ-PDLLEALVKQAQQHPQFE
+WISGTAVKALLHKerINGVQLGDGRTLEADLVIGADGRNS------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Syn6312 1043 MutS2 family protein 1 38.5 0.094 1 12.5% 37.1% 47116 301386
+-------------------------------------------ARARYGLWLNANIPRFvdEPIHLRnvV
+PITV-DIAPPTKVVTITGPNTGGKTATLKTL--GLVALMAKAG---------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Anacy 1257 FAD dependent oxidoreductase 1 37.7 0.13 1 29.8% 25.1% 87253 21195
+----------------------------------------------------------------------
+-------------VLVIGGGPAGTWSAWSAANAGAKVVLVDKGYCGTS---GCAAASGNGvvPPEPDSRE
+AAMASREALGGFLSSRNWMqaNVNQLADWGYPFPTDE----EGKPYRRSLQGPEYMRLMRSQVKRAGVKI
+LDHSPALQLLVDAEGAVarQTGEKWIVRAGAVIIATGGCA------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 5780 amine oxidase 1 37.4 0.16 1 7.1% 42.1% 82119 1552
+----------------------------------------------------------------------
+--------NSVHSTVVIGGGPAGLTAAYQLAKHGLKSVVLEKADKV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 4501 choline dehydrogenase-like flavoprotein 1 37.4 0.20 1 7.8% 38.1% 76117 2869
+----------------------------------------------------------------------
+--TFAEGSEERVEAVVIGSGFGGAVASLRLAEAGIETVVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7424 4268 FAD-dependent pyridine nucleotide-disulphide oxidoreductase 1 37.0 0.21 1 11.7% 42.9% 78140 272
+----------------------------------------------------------------------
+----KNFSKDSFEYLIIGAGPAGLQLGYFLEKAGRDYLILEAGETPAtrHRQLISINktGYDDPEIN---
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>M744 12530 FAD-dependent oxidoreductase 1 37.0 0.22 1 9.1% 34.7% 69117 1058
+-----------------------------------------------------------------MQNSE
+PARLRDSVRDRHSTIVIGAGQAGLSMAYCLQKRGLQPLVLEKHR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Synpcc7942 0841 putative flavoprotein involved in K+ transport 1 37.0 0.22 1 9.1% 34.7% 69117 1058
+-----------------------------------------------------------------MQNSE
+PARLRDSVRDRHSTIVIGAGQAGLSMAYCLQKRGLQPLVLEKHR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>syc0699 c hypothetical protein 1 37.0 0.22 1 9.1% 34.7% 69117 1058
+-----------------------------------------------------------------MQNSE
+PARLRDSVRDRHSTIVIGAGQAGLSMAYCLQKRGLQPLVLEKHR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Syncc9605 0826 Cholesterol oxidase 1 37.0 0.23 1 5.6% 56.7% 88117 736
+----------------------------------------------------------------------
+--------------IVIGSGFGGSVAALRLAEAGIKTLVIERGK--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AA650 18990 pyridine nucleotide-disulfide oxidoreductase 1 37.0 0.25 1 29.8% 24.6% 87253 21195
+----------------------------------------------------------------------
+-------------VLVIGGGPAGTWSAWSAANAGAKVVLVDKGYCGTS---GCAAASGNGvvAPEPDSRE
+AAMASREALGGFLSSRDWMqaNVNQLADWGYPFPTDE----EGKPYRRSLQGPEYMRLMRQQIKRAGVKI
+LDHSPALQLLVDAEGAVarQTGEKWVVRSHSVIIATGGCA------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 1223 phytoene desaturase 1 36.6 0.25 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLSCAKYLVDAGFTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>KR100 10495 FAD-dependent oxidoreductase 1 36.6 0.26 1 8.0% 39.5% 75117 547
+----------------------------------------------------------------------
+-ASHSTTARSSHSVVVIGAGQAGLSVTYALQQRGIRPLVLEKHR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7418 3680 zeta-carotene desaturase 1 36.6 0.27 1 6.1% 58.8% 86119 234
+----------------------------------------------------------------------
+------------RVIIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Glo7428 1761 amine oxidase 1 36.6 0.27 1 8.4% 48.9% 81127 70114
+----------------------------------------------------------------------
+-------ANS--KVLIVGAGIAGLTAAYRLYQAGVGVEIVEARNHLGGRIRSLA----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Npun R6526 cholesterol oxidase 1 36.6 0.32 1 6.0% 53.1% 86117 3869
+----------------------------------------------------------------------
+------------EALVIGSGFGGAVAALRLGEAGIKTIVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Dacsa 1459 phytoene desaturase 1 36.6 0.32 1 6.1% 58.8% 86119 234
+----------------------------------------------------------------------
+------------RVIIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Dacsa 2218 putative NAD/FAD-dependent oxidoreductase 1 36.2 0.35 1 12.3% 34.8% 81146 472
+----------------------------------------------------------------------
+-------SNLRKDCLIIGGGLSGLVAAVQLQSQGATVKVLDKGRGIGGrrRINIPNSGEGIFDYGAQYIT
+AQG-------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 4160 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 36.2 0.37 1 27.6% 26.2% 86253 3159
+----------------------------------------------------------------------
+------------QVVIVGAGPTGAALAFLLVKRGIAVTLIEAAKDFHRVFRG------EGLM-PSGLDAL
+AQMGLSALLD-----------DihRALN-AWEFIIEKKQLFRVEEPMGATrqPSLLQAlqAQIHD-WFKF
+IQGVSVKDLCWSNQRVVGVLLSDGRQLTADLVIGADGRNS------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PMM0100 L-aspartate oxidase 1 36.2 0.38 1 32.6% 26.6% 74250 5198
+----------------------------------------------------------------------
+PFSQESISIDKWDVIVIGAGAAGLMTCLELPENLNVLLLNRNTSKRSSSR--WAQGGIASVVRPEDSFAL
+HVEDTLKAGDDLCDLSAVEmgCVDRLQNLGMIFDQssTTLEAAHshVKDRTGRALVEVLEDHIENKENIL
+HCRgrVTELLIEKEVCKGVQVLDGSniTSKAVVLATG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 5574 amine oxidase 1 35.8 0.47 1 15.3% 30.1% 170252 195276
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------LGMLYYFILAHQPDFDVVWCRGTVG-EKIFRPWVEQIEQAGGKI
+LSNRRVSDILLDSEGLAKAVVCGDEVFEADAVIFAVGVS-------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Anacy 3673 amine oxidase 1 35.8 0.48 1 6.0% 50.0% 88119 2051
+----------------------------------------------------------------------
+--------------VIIGGGPAGLTAAYKLAKHGLHSVVLEKSDRV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ava 5000 Glucose-inhibited division protein A 1 35.8 0.51 1 29.8% 27.5% 87253 16190
+----------------------------------------------------------------------
+-------------VLIIGGGPAGTWAAWSAATSGAKVVLVDKGYCGTS---GAAAASGNGVwdpeAAMAS
+REAMGGFLADRHWMTRVLDrdNINSLADEGYPF----SVDADGKVIRRSLQGPDYMRFMRRKIKQAGVKI
+LDHSPALELLVDIegAKGINRQSGetVRSKAVVIATGGCA------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7418 1484 FAD dependent oxidoreductase 1 35.8 0.56 1 12.5% 27.9% 198265 237303
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------LVDALVRGLEKYGGQL
+RLGATVAEILLERKRAVGVRLNNGETLHATEAVVSNA-SIWDTLKLLPDEKI------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Syncc9605 1106 flavoprotein involved in K+ transport 1 35.4 0.62 1 6.1% 45.5% 85117 1244
+----------------------------------------------------------------------
+-----------RSAVVIGAGQAGLSAAYALQQQGIRPLVLEKNR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PMT 0903 Glucose-methanol-choline (GMC) oxidoreductaseNAD binding site 1 35.4 0.63 1 7.1% 42.1% 86123 744
+----------------------------------------------------------------------
+------------EVIVIGSGATGGVAALTLAEAGVRVLVVEAGPDLSAQK--------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>P9303 12251 Glucose-methanol-choline (GMC) oxidoreductaseNAD binding site 1 35.4 0.67 1 7.1% 42.1% 86123 744
+----------------------------------------------------------------------
+------------EVIVIGSGATGGVAALTLAEAGVRVLVVEAGPDLSAQK--------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 6355 glutamate synthase [NADPH] small chain 1 35.4 0.68 1 5.8% 54.8% 85115 153183
+----------------------------------------------------------------------
+-----------KKVAVVGSGPAGLCAAAQLNKAGHWVTVLER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cal7507 5045 FAD dependent oxidoreductase 1 35.4 0.70 1 12.1% 40.0% 87151 988
+----------------------------------------------------------------------
+-------------VVIIGGGPAGSTAATILARKGYKVVLLEREKFPRERVGelAQMEKRFVRKPGVRFIN
+SDGSASTY--------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cri9333 0831 amine oxidase 1 35.0 0.77 1 7.8% 38.1% 81122 445
+----------------------------------------------------------------------
+-------SNKICDVVVIGAGIAGLICAQQLQQAGLIVVVVEKSRGVGGR---------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyagr 0824 choline dehydrogenase-like flavoprotein 1 35.0 0.84 1 6.9% 43.2% 87123 1753
+----------------------------------------------------------------------
+-------------AVVVGAGANGSVAAMVLAEAGLRVLVLEAGPDLSARR--------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 5597 choline dehydrogenase-like flavoprotein 1 35.0 0.87 1 6.0% 50.0% 86117 3869
+----------------------------------------------------------------------
+------------EAIVIGSGFGGAVASLRLGQAGIETIVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Oscil6304 4104 acetyltransferase 1 34.7 0.92 1 11.7% 33.3% 36101 171236
+--------------------------------SGFNV--RSVEAPRDNQAWVDLYNESFIDHWDH-HDLT
+LSSFQDWqnYQPEFDLVAVAPDGTFAAL------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 3290 Cholesterol oxidase 1 35.0 0.93 1 6.0% 46.9% 86117 1344
+----------------------------------------------------------------------
+------------EALVIGSGFGGAVAALRLGQAGINTVVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7424 1157 phytoene desaturase 1 35.0 0.94 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGFTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>IJ00 24495 amine oxidase 1 34.7 1.1 1 14.9% 29.6% 170250 197276
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------IGMLYYFILAHQADFDVVWCRGTVG-EKIFRPWVERITNLGGKI
+LSDRKVTDLILNEHDQATAVVCQDEVFAADAVIFAVG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>IJ00 26400 cholesterol oxidase 1 34.7 1.1 1 6.0% 46.9% 86117 3869
+----------------------------------------------------------------------
+------------EAIVIGSGFGGAVASLRLGQAGIETVVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>gll2824 cholesterol oxidase 1 34.7 1.1 1 6.9% 40.5% 81117 3066
+----------------------------------------------------------------------
+-------ADAALDAVVIGSGFGGAVAALRLGQAGFSTLVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>NATL1 07121 Glucose-methanol-choline (GMC) oxidoreductaseNAD binding site 1 34.7 1.1 1 7.4% 37.5% 86125 746
+----------------------------------------------------------------------
+------------EVIIIGSGATGGMAALTMAKAGVRVLVIERGPELEIKQAN------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PMN2A 0088 glucose-methanol-choline (GMC) oxidoreductaseNAD binding site 1 34.7 1.2 1 7.1% 39.5% 86123 744
+----------------------------------------------------------------------
+------------EVIIIGSGATGGMAALTMAKAGVRVLVIERGPELEIKQ--------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 0167 phytoene desaturase 1 34.7 1.2 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGYTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Tery 3826 Dimethylaniline monooxygenase (N-oxide forming) 1 34.7 1.2 1 6.0% 46.9% 84115 435
+----------------------------------------------------------------------
+----------TKRAIVVGAGSSGLIAAKELLDTGLDLTILEK----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Tery 1930 hypothetical protein 1 32.0 1.2 1 7.6% 41.5% 77117 2060
+----------------------------------------------------------------------
+---FANVTDTSIKVAIIGAGFPGAKATYELHQAGITDIIIYEAR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SynWH8103 01605 FAD binding domain protein 1 34.7 1.3 1 5.8% 48.4% 87117 1848
+----------------------------------------------------------------------
+-------------VVVIGAGQAGLSVAYQLQQRGIRPVVLEKHR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 4542 Cholesterol oxidase 1 34.7 1.3 1 6.0% 50.0% 86117 536
+----------------------------------------------------------------------
+------------KAIVIGSGFGGAVAALRLGRAGVETLVLERGR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCC7002 A0281 exsB protein 1 33.9 1.3 1 9.5% 45.5% 250304 155215
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------GHAPQLVAPLVLDTKVEIIQKAVKLGVPieHPCG
+LCDS----CRIRDEALIKAGY-------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan10605 2778 glutamate synthase (NADH) small subunit 1 34.7 1.3 1 9.9% 38.2% 61115 131183
+---------------------------------------------------------SIIDHGWDMGWVV
+PEPPK--TRTGKKVAVIGSGPAGLSAAAQLNKAGHSVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCC7002 A1935 phytoene dehydrogenase 1 34.7 1.3 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AOY38 06565 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYO 112820 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCP 1270 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCN 1270 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTI 1271 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTS 1271 phytoene desaturase 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>slr1254 phytoene dehydrogenase (phytoene desaturase) 1 34.7 1.3 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLACAKYLADAGFTPVVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>EW15 0756 Glucose-methanol-choline (GMC) oxidoreductaseNAD binding site 1 34.7 1.3 1 7.4% 35.0% 86125 746
+----------------------------------------------------------------------
+------------EVIIVGSGATGGMAALTMAKAGVRVLVIERGPELEIKQSN------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 2643 amine oxidase 1 34.7 1.3 1 7.6% 48.8% 82122 4383
+----------------------------------------------------------------------
+--------NQPKTVIVLGAGVAGLCAAYELEKLGYNCIILEANNRVGGR---------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7107 4144 zeta-carotene desaturase 1 34.7 1.3 1 6.1% 58.8% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLIDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GKIL 3079 protoporphyrinogen oxidase 1 34.3 1.4 1 11.9% 33.3% 71136 366
+-------------------------------------------------------------------SIT
+SVSGAEIAIDRAPVFVLGAGPAGLACAYTLSKLGLPVVVVERDDQVGGLARSI--VHKGFILD-------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>P9301 13111 Hypothetical protein 1 34.3 1.4 1 5.4% 62.1% 87115 1543
+----------------------------------------------------------------------
+-------------VIIIGAGQAGLSIAHSLQKKGIKPLILEK----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 0577 Kynurenine 3-monooxygenase 1 34.3 1.5 1 7.3% 53.8% 80118 443
+----------------------------------------------------------------------
+------LAIMTTKVIIVGAGPAGLLLAHYLLRRGNYQiiYERRSD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 2990 glutamate synthase NADH/NADPH small subunit 1 34.3 1.5 1 5.8% 58.1% 85115 153183
+----------------------------------------------------------------------
+-----------KKVAIIGSGPAGLSAAAQLNKAGHTVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Anacy 3875 phytoene desaturase 1 34.3 1.5 1 7.3% 52.5% 80119 341
+----------------------------------------------------------------------
+------VANTKCSVAIAGAGLAGLSCAKYLTDLGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 1657 conserved hypothetical protein 1 34.7 1.5 1 14.3% 39.7% 86163 246331
+----------------------------------------------------------------------
+------------EYIIIGAGPAGLQLGYFLENSNRDYTILESgkDY-PRHRKLISINKrgYSDPEINLRW
+DWNSLLTQDYSKNFTDYSKK--------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 1491 carotene isomerase putative 1 34.3 1.5 1 24.6% 25.9% 198344 245388
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------IALKLVEGLEASGSQI
+RYRSRVNKIVLEQGTAVGVQLATGETYRGQQII--SNATRWDTFGHLVDEVPPAEAksLHLGVKAE---A
+LPTNLDCHHILLNNW---------DEIAEPGATVFVSIP-TLLDPSLAPPGHHIVHAFTPS---------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Oscil6304 5527 choline dehydrogenase-like flavoprotein 1 34.3 1.5 1 9.5% 36.5% 66117 353
+--------------------------------------------------------------PLH-EFVI
+SVDVETVSKTSYDVVIVGSGIAGAIVAKELSEQGKSVLILEAGQ--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Lepto7376 2525 zeta-carotene desaturase 1 34.3 1.6 1 5.6% 56.7% 86115 231
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGHTPIVLER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GKIL 2388 glucose-methanol-choline oxidoreductase 1 34.3 1.6 1 9.3% 42.0% 87136 964
+----------------------------------------------------------------------
+-------------AIVVGSGASGGWAAKELTEGGMRVLLLEAGESLRqrWQDLtkLKYRGRVD-------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC8801 3137 dehydrogenase subunit 1 34.3 1.6 1 8.4% 40.0% 70114 347
+------------------------------------------------------------------QKIV
+TVDSETVSNTVYDVVIVGAGIAGAIVAKQLSEQGKRVLILE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>CYB 0674 oxidoreductase FAD-binding 1 33.9 1.6 1 7.6% 39.0% 82122 1858
+----------------------------------------------------------------------
+--------STSADVIVIGAGVAGLVCARQLLRAGLQVLVLEKSAGLGGR---------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 2982 putative dehydrogenase protein 1 34.3 1.6 1 8.4% 40.0% 70114 347
+------------------------------------------------------------------QKIV
+TVDSETVSNTVYDVVIVGAGIAGAIVAKQLSEQGKRVLILE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Glo7428 4708 FAD dependent oxidoreductase 1 33.9 1.8 1 7.8% 40.5% 81122 445
+----------------------------------------------------------------------
+-------SEETIDVLILGAGPAGTATAIQCAQAGLDVTIVEREQFPRDR---------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Lepto7376 4493 chromate transporter chromate ion transporter (CHR) family 1 33.9 1.9 1 14.2% 29.9% 90166 151226
+----------------------------------------------------------------------
+----------------IGLSIVGLHELALLLASGIFSFIVKQGKQLLKPDKALA-IAPLPFLAPLSGFSF
+GLGSIGSFSLSWLFLMFFKVGTI-----------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYAER 0365 Phytoene desaturase pro-zeta-carotene producing 1 33.9 1.9 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MAE 12930 phytoene dehydrogenase 1 33.9 1.9 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 2165 salicylate 1-monooxygenase putative 1 33.9 1.9 1 6.5% 54.3% 86120 1145
+----------------------------------------------------------------------
+------------KVGIIGAGPAGLATAIALRKQGIEVHIYERATALR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Anacy 0004 UDP-galactopyranose mutase 1 33.9 1.9 1 6.3% 44.1% 82115 5689
+----------------------------------------------------------------------
+--------NSNKSVVVIGGGLAGLACAYELVRRGFAVTLLEK----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Sta7437 3291 phytoene desaturase 1 33.9 1.9 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Sta7437 2251 glutamate synthase NADH/NADPH small subunit 1 33.9 2.0 1 5.8% 51.6% 85115 153183
+----------------------------------------------------------------------
+-----------KKVTVVGSGPAGLCAAAQLNKAGHWVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7424 3656 glutamate synthase NADH/NADPH small subunit 1 33.9 2.0 1 6.1% 51.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVIGSGPAGLSAATQLNKAGHWVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Mic7113 1423 NADH/NADPH-dependent glutamate synthase small subunit 1 33.9 2.2 1 6.1% 51.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVIGSGPAGLSAAAQLNKAGHWVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 2027 exsB protein 1 33.1 2.2 1 9.5% 43.6% 250304 158218
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------GHAPQLIAPLINDSKVDIVRRAFSLGVPieKPCG
+LCDS----CRIRDRALIDAGY-------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyast 2037 amine oxidase 1 33.5 2.4 1 8.8% 42.6% 84130 252
+----------------------------------------------------------------------
+----------TNKIAIIGAGISGLTLATTLQEKGIDAQVFDKGRGvsSRRTDWGYID-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Mic7113 2938 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 33.5 2.4 1 6.5% 42.9% 86120 337
+----------------------------------------------------------------------
+------------QVVIVGAGPAGATLALLLVKRGIAVKLIESSRNFR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC8801 3473 amine oxidase 1 33.5 2.5 1 10.8% 34.5% 82139 43100
+----------------------------------------------------------------------
+--------NQPKTVIVLGAGVAGLCAAYELEKLGYHCVILEANNRIGGRCFTVRNTTKSTEIDGQT----
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>P9215 01161 L-aspartate oxidase 1 33.5 2.5 1 32.6% 26.0% 74250 5198
+----------------------------------------------------------------------
+PFSQKPIAINNWDVIVVGAGAAGLMTCLEL-PANLKVLLLNRNTSKVSSSR-WAQGGIASVVRQDDSFDL
+HAEDTLKAGDGLCDFQAVEmgCVDRLQNLGMIFDQSstTLEAAHshVKDRTGRALVEVLEDHIENQKNIL
+HCRgrVTELLIENKECRGVQVLDGAniKSRAVVLATG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>all7255 zeta-carotene desaturase 1 33.5 2.7 1 7.6% 43.9% 84124 242
+----------------------------------------------------------------------
+----------SKKVAIVGAGPGGLATAIRLAGLGYQVEIFEAAERVGGRMR-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 F0076 conserved hypothetical protein 1 33.5 2.7 1 9.3% 42.0% 81130 3282
+----------------------------------------------------------------------
+-------TNSSYDVVIVGAGPAGVGCAVALQELGLEniLLERQQVGASFSRWPTEMN-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Npun R2084 monooxygenase FAD-binding 1 33.5 2.7 1 14.5% 32.6% 87172 889
+----------------------------------------------------------------------
+-------------VCIVGGGPSGLTLALELVRRNLNVVVLEQAKatRSFRGE--------SISPDSVYIL
+DKLgeGFGEHDVLYTRQLELFENnrVLHI-----------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 4004 phytoene dehydrogenase-like oxidoreductase 1 33.5 2.8 1 8.4% 31.1% 192236 220264
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------THHFDHVINSLVNSITENGGEV
+LLNLEVTDFTLTNKTITGVKAIN-----------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Osc7112 5938 FAD dependent oxidoreductase 1 33.5 2.8 1 34.1% 23.4% 86290 3196
+----------------------------------------------------------------------
+------------QVVIVGSGPTGAALALLLVKRGIAVTLVEAAKDSYRVFRG------EGLM-PSGLDAI
+AQLGLSTMLEGVPHRQIDA-----------WEFIVGDRQLFRVDEPMGSNrpPLLETLISEAQLHPEFEF
+IPGVPVKDLLYSNDRIAGVKLGDGREIPAALVIGTDGRNsrAELELVKQQN-SIDVLWFKLAA---HPRF
+VADNVFY---------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 6777 amine oxidase 1 33.5 2.9 1 6.0% 50.0% 88119 2051
+----------------------------------------------------------------------
+--------------IVIGGGPAGLTAAYYLAQHDLRSIVLEKGDRV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>KR49 01055 FAD-dependent oxidoreductase 1 33.1 3.1 1 6.0% 43.8% 86117 1243
+----------------------------------------------------------------------
+------------QVVVIGAGQAGLSVSQALQQHGIRPLVLEKNR--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 2725 monoamine oxidase 1 33.1 3.1 1 19.0% 28.7% 82196 2104
+----------------------------------------------------------------------
+--------SSIADVLVVGAGLSGLYAARSLQRAGLTVTVLE-ARD-RVGGRVLSQTLVNGVTIDLGGQWI
+GPGQQRMYALAKEYG-----------LNTIVTHTQGESvlVDGHYQRTSDTIP-----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>cce 0784 gid protein 1 33.1 3.2 1 7.6% 42.9% 80121 141
+----------------------------------------------------------------------
+------MTESTAKVQVIGGGLAGTEAAWQVAQAGI-PVILHEMRPIRT----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 0156 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 33.1 3.2 1 6.7% 47.2% 80115 339
+----------------------------------------------------------------------
+------IAENARQVLIIGGGPAGLATALILAKRGFLNivLEK----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyast 2877 glutamate synthase (NADH) small subunit 1 33.1 3.3 1 6.3% 47.1% 83116 151184
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLSAAAQLNRAGHWVTVYEKG---------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Dacsa 1291 putative flavoprotein involved in K+ transport 1 29.6 3.4 1 4.1% 59.1% 86107 526
+----------------------------------------------------------------------
+------------KIVIIGAGPAGLLLAHYLLRRG------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 0975 kynurenine 3-monooxygenase putative 1 33.1 3.4 1 7.8% 45.2% 85126 2468
+----------------------------------------------------------------------
+-----------RKVVIVGGGPTGTLAALYLAQMGWQVFVYerSADFrsNRRSF-----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 3030 phytoene dehydrogenase-like oxidoreductase 1 33.1 3.5 1 10.2% 30.9% 192246 220279
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------TRHFEAVIDGLVKAIVDNGGEI
+IFNTEVVNFLVEHKTVTGVetHQTSKFTADTVI-------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Syn7502 00552 geranylgeranyl reductase 1 33.1 3.6 1 6.5% 48.6% 84118 236
+----------------------------------------------------------------------
+----------TLRVAVIGGGPAGSCAAETLVKAGIETYLFERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>KR49 04200 hypothetical protein 1 33.1 3.6 1 8.8% 36.2% 73119 148
+---------------------------------------------------------------------M
+PVSSseHVNASWDAIVVGSGASGGVAAMTLAEGGARVLVLEAGPDL------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Sta7437 0077 FAD dependent oxidoreductase 1 33.1 3.7 1 6.5% 42.9% 86120 337
+----------------------------------------------------------------------
+------------QVVIVGAGPTGATLALLLVQHGIQVKLIEASRDFR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Oscil6304 3798 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 33.1 3.7 1 6.7% 52.8% 85120 542
+----------------------------------------------------------------------
+-----------QKAIIIGAGPAGLLLAHYLLRRgyCVELYERRPDPR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cal6303 2358 FAD dependent oxidoreductase 1 33.1 3.9 1 10.4% 30.4% 184239 212267
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------YQAGAFYPTQHFEHVINSLVNVIESHGGQV
+LLNHEVTNFRVTDRTVTGVQAMDLTT--------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Syn6312 3722 thioredoxin-disulfide reductase 1 33.1 3.9 1 7.3% 38.5% 76114 341
+----------------------------------------------------------------------
+--STTNALNTIENVVIIGSGPAGYTAAIYAARANLKPFMFE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Mic7113 2705 phytoene desaturase 1 33.1 3.9 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLACAKYLTDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Glo7428 2687 FAD dependent oxidoreductase 1 32.7 4.0 1 6.5% 42.9% 86120 337
+----------------------------------------------------------------------
+------------QVVIVGAGPAGATLALLLVKRGIRVTLIEASRNFR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC8801 0308 phytoene desaturase 1 32.7 4.0 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCGKYLVDAGHTPIILER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan7822 2221 monooxygenase FAD-binding protein 1 33.1 4.1 1 5.8% 51.6% 82112 637
+----------------------------------------------------------------------
+--------NPEKEILIVGAGPVGLTMAASLAQSGicRII-------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AOY38 01025 glutamate synthase 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYO 12010 NADH-glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCP 0201 NADH-glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCN 0201 NADH-glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTI 0201 NADH-glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTS 0201 NADH-glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>sll1027 NADH-dependent glutamate synthase small subunit 1 33.1 4.1 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 0308 phytoene desaturase 1 32.7 4.1 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCGKYLVDAGHTPIILER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>D082 28010 Glutamate synthase [NADPH] small chain 1 32.7 4.1 1 5.8% 51.6% 85115 153183
+----------------------------------------------------------------------
+-----------KKVAVVGSGPAGLAAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Npun F2280 glucose-methanol-choline oxidoreductase 1 33.1 4.1 1 7.1% 44.7% 83120 1350
+----------------------------------------------------------------------
+---------SSYTVVVIGSGYGGSIAASRLARAGQQVCILERGKEFQ-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Lepto7376 1067 assimilatory nitrite reductase (NAD(P)H) large subunit precursor 1 33.1 4.2 1 12.5% 26.9% 200266 192258
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------------------------TVLKNKIQELGVTV
+HTDKNTTEIVSENGKIVKMTFADGTELATDMIVFSAGIRPRDELARAHDLEIG-----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 3058 glutamate synthase (NADH) small subunit 1 32.7 4.2 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLCAAAQLNTAGHWVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 5642 phytoene desaturase 1 32.7 4.2 1 7.4% 42.5% 85124 342
+----------------------------------------------------------------------
+-----------KNIIVVGAGPGGLATALRLKGQGYNVEIFESSNRVGGRMR-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 2177 Cholesterol oxidase 1 32.7 4.2 1 7.3% 33.3% 78116 3876
+----------------------------------------------------------------------
+----RNVPDEAVEALVLGSGFGGAITALRLTQAGIRTLMIERG---------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>cce 4634 zeta-carotene desaturase-like protein 1 32.7 4.2 1 17.1% 34.4% 170265 194286
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------LGMLYYFILAHQPNFDVVWCRGTVG-EMIFKPWVEKIETLGGKI
+LTNKRVTDIIInkGTAKGVM-CDNEIFAADAVIL--GVSINGIKKIVAKSKV------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Osc7112 5726 geranylgeranyl reductase 1 32.7 4.3 1 6.5% 45.7% 84118 2054
+----------------------------------------------------------------------
+----------TLRVAVVGSGPAGSSAAETLVKAGIETYLFERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>syc0901 c thioredoxin reductase 1 32.7 4.3 1 5.6% 46.7% 85114 534
+----------------------------------------------------------------------
+-----------ENVVIIGSGPAGLTAAIYAARANLKPLMFE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>M744 13725 thioredoxin 1 32.7 4.6 1 5.6% 46.7% 85114 534
+----------------------------------------------------------------------
+-----------ENVVIIGSGPAGLTAAIYAARANLKPLMFE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Synpcc7942 0623 thioredoxin reductase 1 32.7 4.6 1 5.6% 46.7% 85114 534
+----------------------------------------------------------------------
+-----------ENVVIIGSGPAGLTAAIYAARANLKPLMFE-----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ava 4795 three-step phytoene desaturase 1 32.7 4.6 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLTDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>alr1832 phytoene desaturase; Pds 1 32.7 4.6 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLTDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 4713 phytoene desaturase 1 32.7 4.7 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLTDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 4639 NADPH-dependent glutamate synthase beta chain-like oxidoreductase 1 32.7 4.7 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKVAVVGSGPAGLCAAAQLNTAGHWVTVFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 0841 Kynurenine 3-monooxygenase 1 32.7 4.9 1 4.3% 65.2% 85107 325
+----------------------------------------------------------------------
+-----------KKVVIIGAGPAGLLLAHYLLSRG------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Dacsa 3262 phytoene dehydrogenase-like oxidoreductase 1 32.7 5.0 1 12.5% 25.0% 198265 238304
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------LVEALVRGLKKYGGEL
+RLGATVAEILIEGKRAVGVRLKNGDTLKASKAVVSNA-SVWDTLKLLPKNKI------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC8801 0812 Kynurenine 3-monooxygenase 1 32.7 5.0 1 4.3% 65.2% 85107 325
+----------------------------------------------------------------------
+-----------KKVVIIGAGPAGLLLAHYLLSRG------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYAER 3034 Glutamate synthase [NADPH] small chain 1 32.7 5.0 1 5.8% 54.8% 85115 153183
+----------------------------------------------------------------------
+-----------KKVAVIGSGPAGLAAADQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Osc7112 4664 glutamate synthase NADH/NADPH small subunit 1 32.7 5.2 1 6.1% 48.5% 83115 151183
+----------------------------------------------------------------------
+---------TGKKIAVIGSGPAGLSAAAQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cal7507 3633 phytoene desaturase 1 32.7 5.2 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLTDAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MAE 14900 NADH-dependent glutamate synthase small subunit 1 32.7 5.3 1 5.8% 54.8% 85115 153183
+----------------------------------------------------------------------
+-----------KKVAVIGSGPAGLAAADQLNKAGHWVTVYER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC7418 0258 monooxygenase FAD-binding protein 1 32.3 5.3 1 6.0% 46.9% 82113 435
+----------------------------------------------------------------------
+--------NSVYDVLIIGAGPVGLATAVGLYQRGIQNLLI------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 3043 conserved hypothetical protein 1 32.3 5.4 1 9.3% 42.0% 81130 454
+----------------------------------------------------------------------
+-------TTSSYDVVIVGAGPAGVGCAVVLQELGLEniLLERQQVGASFSRWPAEMN-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 0835 phytoene dehydrogenase putative 1 32.7 5.4 1 9.3% 40.0% 85134 352
+----------------------------------------------------------------------
+-----------KKVVILGGGVAGLSAAHELIERGFAVDVYEAKKIPGGKARSIPVPNTGGM---------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>CYA 1163 ribosomal protein L18 1 30.8 5.4 1 10.1% 31.0% 76133 64118
+----------------------------------------------------------------------
+--AFKDIGTATRE----AAAVVGRSVAQRALQAGICQVVFDrgKLYHGRVQALAEAAREA----------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 4189 zeta-carotene desaturase putative 1 32.3 5.7 1 6.9% 40.5% 81117 339
+----------------------------------------------------------------------
+-------SDSKKRVVVVGAGWAGLGATYHLVSQGYDVTLLEAGS--------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cal6303 4456 FAD-dependent pyridine nucleotide-disulfide oxidoreductase 1 32.7 5.7 1 6.5% 45.7% 86120 1650
+----------------------------------------------------------------------
+------------KIVVIGSGYGGGIAASRLARAGQNVCILERGKEFQ-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cri9333 1708 FAD-dependent pyridine nucleotide-disulfide oxidoreductase 1 32.3 5.8 1 7.3% 48.7% 82120 546
+----------------------------------------------------------------------
+--------NSSSNVviIGAGPGGLSAAHALARLGFSIRVFERAKVLR-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>cce 3754 phytoene desaturase 1 32.3 5.9 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLVDTGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>KR100 14435 hypothetical protein 1 32.3 6.1 1 28.5% 26.8% 87250 17197
+----------------------------------------------------------------------
+-------------VVVIGAGAAGLMSCLEL-PAGLRILLLNRNTGRRSSSrdSAQSHADDTLRAGAGLCD
+GDAVRLLVNDAPYRVEQLQ------AMGMAfeGSALATTLEAAHSH---HRVLHvvEILRDQVEQRAG-L
+LHRrrVTKLWVEQQRCCGVQVLDGAqiRARAVVLASG---------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Tery 1823 geranylgeranyl reductase 1 32.3 6.1 1 6.0% 46.9% 84115 233
+----------------------------------------------------------------------
+----------TLRVAVVGSGPAGSSAAETLVKAGIETYLFER----------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Chro 1619 zeta-carotene desaturase 1 32.3 6.2 1 16.4% 28.4% 86194 289
+----------------------------------------------------------------------
+------------RVAIVGAGLAGLATAVTLADAGWEVEIYE--------SRPFVGGKVGSWIDPDGNHV-
+-EMGLHVFF-----------GNYYQLFELMKQVGAFEHLLRKEHVHNFINK-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Synpcc7942 0385 geranylgeranyl reductase 1 32.3 6.3 1 6.1% 45.5% 86118 4678
+----------------------------------------------------------------------
+------------RVAVVGGGPAGSCAAETLVKAGIETYLIERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>syc1129 d geranylgeranyl hydrogenase 1 32.3 6.3 1 6.1% 45.5% 86118 4678
+----------------------------------------------------------------------
+------------RVAVVGGGPAGSCAAETLVKAGIETYLIERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan10605 0874 zeta-carotene desaturase 1 32.3 6.4 1 6.1% 55.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLSCAKYLADAGHTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GEI7407 2316 nucleotide sugar dehydrogenase 1 32.3 6.4 1 20.1% 25.0% 163270 318428
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------REKVRRILNQLGIAPARSNVLVLGAAylGDWRESPAIAVMSYLLEDSVGLT
+YHDPYVPEIEVAGKTLLSVDLTESAVAAADLVVIVTDHSQVDYVRVVHHAKAVLDTR-------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 1102 thioredoxin-disulfide reductase 1 32.0 6.4 1 7.3% 47.5% 79118 241
+----------------------------------------------------------------------
+-----NVLNSerQVIIIGAGSAGLTAAIYTARANLKPLVI-RGSE-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYAER 1100 Pro-zeta-carotene desaturase prolycopene producing 1 32.3 6.5 1 16.4% 26.6% 86194 289
+----------------------------------------------------------------------
+------------RVVIVGAGLAGMATAIDLVDAGCTVEILE--------SRPFVGGKVGSWVDADGNHI-
+-EMGLHVFF-----------GCYYNLFELMKKVGAFQSLLLKEHTHTFINE-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>cce 2767 unknown 1 32.3 6.6 1 7.8% 28.6% 198239 234275
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------------------------------------------------VIDSLVGVIKENNGEI
+LYEQEVIDFIVSNRTVTGVKAINRNT--------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>M744 01055 geranylgeranyl diphosphate reductase 1 32.3 6.7 1 6.1% 45.5% 86118 436
+----------------------------------------------------------------------
+------------RVAVVGGGPAGSCAAETLVKAGIETYLIERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MAE 53100 zeta-carotene desaturase 1 32.3 6.8 1 16.4% 26.6% 86194 289
+----------------------------------------------------------------------
+------------RVVIVGAGLAGMATAIDLVDAGCTVEILE--------SRPFVGGKVGSWVDADGNHI-
+-EMGLHVFF-----------GCYYNLFELMKKVGAFQSLLLKEHTHTFINE-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>PCC8801 0178 geranylgeranyl reductase 1 32.0 7.0 1 6.1% 45.5% 86118 335
+----------------------------------------------------------------------
+------------RVAVVGSGPAGSSAAETLVKAGIETYLFERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>VL20 1522 Pro-zeta-carotene desaturase prolycopene producing 1 32.0 7.1 1 16.4% 26.6% 86194 289
+----------------------------------------------------------------------
+------------RVVIVGAGLAGMATAIDLVDAGCTVEILE--------SRPFVGGKVGSWVDADGNHI-
+-EMGLHVFF-----------GCYYNLFELMKKVGAFQSLLLKEHTHTFINE-------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyan8802 0173 geranylgeranyl reductase 1 32.0 7.1 1 6.1% 45.5% 86118 335
+----------------------------------------------------------------------
+------------RVAVVGSGPAGSSAAETLVKAGIETYLFERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>VL20 4083 Adrenodoxin reductase 1 32.0 7.3 1 6.0% 46.9% 88119 1344
+----------------------------------------------------------------------
+--------------VVIGGGPAGLTAAYCLAKHELHSIVLEKGDRV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Lepto7376 3344 NADH dehydrogenase 1 32.0 7.7 1 5.6% 53.3% 83112 235
+----------------------------------------------------------------------
+---------SQKHIVIIGGGFAGLYTALRLveDATCPEI-------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>D082 22590 Phytoene desaturase pro-zeta-carotene producing 1 32.0 7.8 1 5.8% 56.2% 88119 131
+----------------------------------------------------------------------
+--------------MIAGAGLAGLACAKYLADAGFTPIVLER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ava 0867 Monooxygenase FAD-binding protein 1 32.0 8.1 1 6.5% 45.7% 79113 2559
+----------------------------------------------------------------------
+-----DVDSHIYDVIVVGAGPIGLATAIGLYKRGIENIIV------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>ETSB 1389 putative amine oxidase 1 32.0 8.2 1 6.5% 45.7% 85119 5791
+----------------------------------------------------------------------
+-----------KSVVIIGAGLAGLACAYELSQRGFQVTLLERAPNL------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7107 5301 FAD dependent oxidoreductase 1 32.0 8.2 1 30.7% 28.5% 82253 12191
+----------------------------------------------------------------------
+--------NLTTDVLIIGGGPAGTWAAWSAASSGAKVVLVDKGYCGTS---GAAAASGNGVwdpeAAMAS
+REAMGGFLADRQWMTKVLDrdNINSLADEGYPF----SVDADGKVIRRSLQGPDYMRFMRRKIKQAGVKI
+LDHSPALELLVDAEGAVarQTGEPWTVKAAAVVIATGGCA------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AM1 2046 geranylgeranyl reductase 1 32.0 8.3 1 6.1% 45.5% 86118 436
+----------------------------------------------------------------------
+------------RVAVVGSGPAGSSAAETLVKAGIETYLFERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cri9333 4732 monooxygenase FAD-binding protein 1 32.0 8.6 1 11.7% 36.9% 72136 1679
+--------------------------------------------------------------------II
+PDTILDVQETS--CCIVGGGPTGIVLALILARQGIQVTLLEAHKTfrDFRGDLIQAGAMEIMD-------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Aazo 4038 geranylgeranyl reductase 1 32.0 8.7 1 6.5% 45.7% 84118 236
+----------------------------------------------------------------------
+----------TLRVAVVGSGPAGSSAAETLAKAGIETYLIERKLD-------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Tery 4574 HI0933-like protein 1 31.6 8.7 1 9.9% 39.6% 82134 259
+----------------------------------------------------------------------
+--------NKSQkiAVIGAGIAGLVCAQELQQAGYSVLVLEKSRGVGGrrRVLGSRADHGV---------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 4336 choline dehydrogenase-like flavoprotein 1 32.0 8.8 1 7.4% 32.5% 89128 443
+----------------------------------------------------------------------
+---------------VIGSGPAGVACAHALVQKGLDVTIIDAGLELEPERREVVE---------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Mic7113 6014 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase 1 32.0 8.8 1 8.0% 37.2% 71113 648
+-------------------------------------------------------------------NLL
+EDVFNTISPEIYDVVIIGAGPVGLATAIGLRKRGIENILV------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GEI7407 0513 amine oxidase 1 31.6 8.9 1 13.6% 27.2% 86177 376
+----------------------------------------------------------------------
+------------EIAIVGAGMAGLTCAQQLHQAGYDVVVFDKSRGVGGR---MATRRAQ-----------
+-----GTWAdgLRYFEDSPEGDLTALLSLLRDRG------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Osc7112 1775 Monoamine oxidase 1 32.0 8.9 1 8.0% 39.5% 87129 81123
+----------------------------------------------------------------------
+-------------ILVVGAGIAGLTAAYRLGQAGVRADIIEATNRVGGRIRTVPKV--------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Nos7524 1682 choline dehydrogenase-like flavoprotein 1 32.0 8.9 1 6.3% 47.1% 87120 1750
+----------------------------------------------------------------------
+-------------VVIVGSGYGGSIAASRLARAGQQVCILERGKEFQ-----------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Ple7327 2440 hypothetical protein 1 32.0 9.2 1 6.5% 42.9% 85119 5993
+----------------------------------------------------------------------
+-----------KTVVIVGAGLAGLACAYELSQRGFAVTLLERSPNL------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AA650 20215 hypothetical protein 1 32.0 9.3 1 23.8% 25.5% 197337 41179
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------YYVLAYGQTVAESTPSF
+SIEAKLLDFEIHSLSTKVGGNSGKVTVVISGAKFDSGTT----FTLV-DKNLGIEIATSRLD--------
+LLDSTKAFATFNLKGKKAGSYNLVAKNKDNQTvsFSVVEGgiIAPSAVRPGDII----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Riv7116 5757 PAS domain S-box 1 32.0 9.7 1 14.7% 28.6% 331428 14141493
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------THDGE--VNFYVSKLENNEVknS
+GCLIQFKIEDT-------------GIGIPQNKTKE----IFLPFHQLKNDDSLNEGSGLGLSISQKIVNL
+MGGKI-----------------------------------------------------------------
+-----------------------------------------------
+>PCC7424 4330 amine oxidase 1 31.6 9.7 1 15.3% 36.9% 170253 194276
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------LGMLYYFILAHQPDFDVVWCRGTVG-EKIFKPWIEQIEKVGGKV
+LTHKRVDDLILD-ETGKAAGVRCgeTFNADAVIFAVSVSG------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cyagr 2890 phytoene desaturase 1 31.6 9.7 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLSCAKYLCDAGHTPIVLE-ARDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>AOY38 12655 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>MYO 124610 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCP 2434 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNPCCN 2434 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTI 2435 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>SYNGTS 2436 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>sll0373 gamma-glutamyl phosphate reductase 1 31.6 9.7 1 19.0% 31.2% 203314 187292
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------REEIRE----L
+LGLNQYVDLIIPRGSNEFVQY-----IQQNTQIPVLGH-ADGICHLYLDAQADlkAIPITVDAKTQYPAA
+ciETLLVHQAIAAEFLPPLAQALGEkvSLRG---------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>P9215 01611 phytoene desaturase 1 31.6 9.8 1 6.1% 50.0% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLSCAKYLVDNGHIPIVLE-ARDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>GEI7407 1139 zeta-carotene desaturase three-step phytoene desaturase 1 31.6 9.8 1 6.1% 52.9% 86119 234
+----------------------------------------------------------------------
+------------RVAIAGAGLAGLACAKYLADAGHTPIVIER-RDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>P9301 01631 phytoene desaturase 1 31.6 9.9 1 6.1% 50.0% 86119 234
+----------------------------------------------------------------------
+------------RVVIAGAGLAGLSCAKYLVDNGHIPIVLE-ARDV------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Cri9333 0465 glucose-methanol-choline oxidoreductase 1 31.6 9.9 1 10.2% 31.7% 87146 761
+----------------------------------------------------------------------
+-------------VVIVGSGAGGSPIAHTLVKAGKSVLILEKGPLFRPQYQ-----NPQGLSDFKRDELF
+ADG-------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+>Npun R3302 amine oxidase 1 31.6 9.9 1 8.0% 39.5% 84126 244
+----------------------------------------------------------------------
+----------SKRVIVIGAGLAGLTAGYELTRAGFDVQVFEARERVGGRVKTV-----------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------

@@ -1,0 +1,39 @@
+>Lyngbya extdbtmp 000020 hypothetical protein tmp 000020 1 100.0% 100.0% 5135
+IFFLILTLVFLGCQKPNQDYAHLIQQEKKIVASKEAAFERVTQYLAKQFPEEALLQINHVSFVHGSHTIV
+ALIFYQTQTGEHNLVIEQELGENENVMGEKLSTCYGDDCTCKVRVMVDNNGNVEMGCNCSS
+>cce 1467 two-component sensor histidine kinase 1 30.8 2.1 1 47.3% 27.4% 3798 76137
+--------------------------------SPEAYYERIRRVLERRIPEQCYCQFEYRGQSFPLELVI
+SPIFKQHGQGTTVLVMGHRLPDND-------------------------------------
+>Npun R0306 primosomal protein N' 1 30.8 2.5 1 37.4% 34.6% 4394 609658
+--------------------------------------QRVTQELARQFPELRLIRFDstTRNKGSHRT-
+--LLTQFANGEADLLVGTQM-----------------------------------------
+>Tery 3529 protein of unknown function DUF323 1 30.4 3.1 1 35.1% 30.4% 1964 115160
+--------------KSNQEFQTWLFQQQKQLQIESAQYNRETQYLNAVYQRETTLEIKEL----------
+-------------------------------------------------------------
+>EW15 0648 carboxysome shell protein CsoS2 1 30.0 3.9 1 41.2% 33.3% 46108 308363
+-----------------------------------------TQYLGSEVID---------SFCNGSNTPI
+saKVAVTNTSHGNLVTGNEVGRSEKVTGDEPGTC---------------------------
+>NATL1 06061 carboxysome shell protein CsoS2 1 30.0 4.1 1 41.2% 33.3% 46108 309364
+-----------------------------------------TQYLGSEVID---------SFCNGSNTQI
+saKVAVTSTSHGNLVTGNEVGRSEKVTGDEPGTC---------------------------
+>PMN2A 1881 carboxysome shell protein CsoS2 1 30.0 4.1 1 41.2% 33.3% 46108 309364
+-----------------------------------------TQYLGSEVID---------SFCNGSNTQI
+saKVAVTSTSHGNLVTGNEVGRSEKVTGDEPGTC---------------------------
+>PMT9312 0243 phosphoglucosamine mutase 1 29.6 4.7 1 35.9% 38.3% 89135 158214
+----------------------------------------------------------------------
+--------------LIQSMGGENLSGMKIILDTCYGSATTcdVRVLNNSKNGLKINVNCGS
+>Npun F2462 amino acid adenylation domain protein 1 29.6 5.2 1 41.2% 31.5% 558 13841438
+IGFFVNTLVLRSKVRPEQSFSELLQQTRQTCLDAYAHQDIPFEYLVEQlpERSL----------------
+-------------------------------------------------------------
+>P9515 02741 Phosphotransferase superclass 1 28.9 8.9 1 30.5% 42.5% 96135 163214
+----------------------------------------------------------------------
+---------------------ENENLEGMklDACYGSATTcnVKVINNDKDGLKINLNCGS
+>Nos7107 4464 ATP synthase F1 subcomplex beta subunit 1 28.9 9.8 1 38.2% 32.0% 61110 176227
+--------------------------------------------------------INNIATQHGGVSVF
+AGVGERTREGnyNEMIESGVINNENLNESKIALVYG-------------------------
+>Npun R4417 ATP synthase F1 beta subunit 1 28.9 9.8 1 38.2% 32.0% 61110 176227
+--------------------------------------------------------INNIATQHGGVSVF
+AGVGERTREGnyNEMIESGVINNENLNESKIALVYG-------------------------
+>all5039 ATP synthase beta subunit 1 28.9 9.8 1 38.2% 32.0% 61110 176227
+--------------------------------------------------------INNIATQHGGVSVF
+AGVGERTREGnyNEMIESGVINNENLNESKIALVYG-------------------------

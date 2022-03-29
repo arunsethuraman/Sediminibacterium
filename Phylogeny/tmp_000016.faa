@@ -1,0 +1,360 @@
+>Lyngbya extdbtmp 000016 nucleotidyltransferase domain-containing 1 100.0% 100.0% 2109
+LATTATDKFGLTKRDIECLYSILSKYPAIELVYVFGSRAKGNFKPGSDIDLAIMNAGITDETIRSLKVDF
+EESTLPYMVDVINYSHLKSQQLKEHIDRVGVPFFVKTR
+>Syn6312 1063 putative nucleotidyltransferase 1 79.0 2e-19 1 95.4% 39.4% 2105 1104
+MSDTGTDCFGLSDSNRAIIQGILAPFSalEVVAVFGSRAQGQYRPNSDLDLALY-GNITETDCDRLWTLF
+QDSPLPFSVDIIPYNRINHPPLRHHIDLVARPLL----
+>sync 0166 nucleotidyltransferase domain protein 1 60.8 2e-12 1 90.7% 33.3% 11109 16113
+---------GISGPQQQRLLDVLIKQADVDAMWLFGSRAMGQERPGSDIDLCVDAARLTHLERLRLMADI
+DELLLPWTVD-LALRHELPPDLVSHVERVGRCLWTRTK
+>SynWH8103 00547 nucleotidyltransferase domain protein 1 55.1 3e-10 1 83.3% 33.0% 11101 998
+---------GLPQPSCNRLAEVLLQQPGLEQVWLFGSRAMGRHREGSDLDLCLMGDAIRHQDRLRLMHAI
+DELLLPWSVDLTLWHELPA-DLRGLLQRAG--------
+>Cyagr 2039 antitoxin of toxin-antitoxin stability system 1 53.9 4e-09 1 94.4% 26.5% 5106 8109
+---ASAQAIGLPESAVAAIQRVFAGSPEVEAAILYGSRALGRHRPASDIDLTLTGHAISNATLARIDADL
+DDLLLPWVIDLSACAAIGHPALLAHIEMVSRPSRV---
+>MAE 30650 hypothetical protein 1 43.5 1e-05 1 44.4% 39.6% 1562 350
+-------------RLVEKITAIVEKLPNLKLLILFGSRARGEHKPDSDWDFAVLYEERSDQ---------
+--------------------------------------
+>MAE 30670 hypothetical protein 1 40.8 2e-04 1 40.7% 41.7% 2269 1962
+--------------------TTVEKIPNLKLLILFGSRARGEHRPDSDWDLAISH----DETNRQTHI--
+--------------------------------------
+>VL20 5354 hypothetical protein 1 39.7 3e-04 1 44.4% 35.4% 1562 350
+-------------RLVEKITAIVEKLPNLKLLILFGSRARREHRPDSDWDFAVLYEERSDQ---------
+--------------------------------------
+>Oscil6304 5844 putative nucleotidyltransferase 1 40.0 4e-04 1 40.7% 41.3% 2671 1962
+------------------------KIPELKLLILFGSRARGDFQAQSDWDFAVLSDEKLNEN--SLKNNF
+--------------------------------------
+>VL20 5356 hypothetical protein 1 37.7 0.002 1 35.2% 44.7% 1754 1451
+---------------INRITTTVEKIPNLKLLILFGSRARREHKPDSDWDLAI-----------------
+--------------------------------------
+>VL20 3532 hypothetical protein 1 35.8 0.006 1 66.7% 24.7% 33105 2394
+-------------------------------IFLYGSRARNDAQPDSDWDILVLVDGITNPT-RTSQIRR
+QIYEIEWETEEVICTIVRSKNQWEHPLLQTTPFW----
+>Cyan10605 2659 DNA polymerase beta domain protein region 1 36.2 0.010 1 30.6% 48.5% 2355 1850
+---------------------IPEKMPYIKMVILFGSRARGDINDKSDWDFAIL----------------
+--------------------------------------
+>SynWH8103 00660 nucleotidyltransferase domain protein 1 34.7 0.012 1 62.0% 26.7% 16105 571
+--------------DSAAVLTLLRQQQGIDQVLLYGSRAMGRNHSGSDVDLCLVAPSL------------
+---QLQHRIDHPN--------LLAHIERVGVAWL----
+>MYAER 3577 hypothetical protein 1 34.7 0.015 1 66.7% 33.8% 29102 2697
+---------------------------AIDRIGIFGSVAREETRPTSDIDIVVCMPPNLLKRVR-LKAEL
+-ENLFGREVDVIRYRDSLNPYLKARIDREAI-------
+>PCC8801 4484 DNA polymerase beta domain protein region 1 35.4 0.018 1 37.0% 34.1% 2366 1655
+---------------------LVQKIPYLKMLILFGSRARGDTHPNSDWDF----AALYDDKLRN-----
+--------------------------------------
+>Cyagr 1742 putative nucleotidyltransferase 1 33.5 0.043 1 59.3% 32.3% 3397 3194
+-------------------------------IGVFGSVARGDARPDSDVDVWVRLDPLTPYALVHLKQEL
+-ETLLSTSVDVVLLRERMNPSLKQRI------------
+>ANA C11113 putative nucleotidyltransferase 1 33.5 0.054 1 58.3% 35.8% 3096 2592
+----------------------------LEKLILYGSQARGTAQPDSDIDILIvnYSQESEKISQLIADL
+---CLEYNV-LISCAFANSEQLENH-------------
+>Cyagr 2422 putative nucleotidyltransferase 1 33.5 0.066 1 21.3% 56.5% 3355 5375
+-------------------------------VLAFGSRARGEARPDSDLDLAVI----------------
+--------------------------------------
+>Cyan10605 1187 DNA polymerase beta domain protein region 1 33.1 0.087 1 63.9% 30.0% 30109 39115
+----------------------------LDKIILFGSRARGDYRQDSDVDILIV-----------LKNDF
+heKTSDFIAKllNYDMVISRSFTNSFdnSKTPFFLNVR
+>IJ00 10025 DNA polymerase subunit beta 1 33.5 0.12 1 28.7% 48.4% 2454 1646
+----------------------LQSIEGIATVALGGSRARGNYTPKSDVDLGI-----------------
+--------------------------------------
+>Syn7502 01816 DNA polymerase sigma 1 32.3 0.13 1 30.6% 33.3% 3365 2355
+-------------------------------IFLYGSRARNDARPDSDWDILILVDGVVNPSRR------
+--------------------------------------
+>AA650 15650 DNA polymerase 1 32.7 0.13 1 31.5% 41.2% 2255 1750
+--------------------QIPEKIPYLKMLVLFGSRATGKTKANSDWDFAVL----------------
+--------------------------------------
+>Syn6312 2070 putative nucleotidyltransferase 1 32.3 0.14 1 25.0% 44.4% 3561 2955
+---------------------------------LFGSQARGDQQPESDIDILVVLASMTN----------
+--------------------------------------
+>glr1164 hypothetical protein 1 32.3 0.17 1 82.4% 30.0% 291 5101
+LRSISTEDTSLIPRRQGVLECLRCHWPEIqtIAVFGSTARDEARPDSDVDLLvaDARVTFYQFCDLQ-DY
+LESILRIRVDLGTFDSLRPR------------------
+>Cyan10605 2018 DNA polymerase beta domain protein region 1 32.0 0.21 1 38.9% 34.1% 2871 2162
+--------------------------PVVDM-RIFGSRARGDAQPDSDLDVFI-KVNFLDRSLREMIYDL
+--------------------------------------
+>MAE 14620 DNA polymerase beta domain 1 32.0 0.21 1 26.9% 51.6% 3363 4977
+-------------------------------IILFGSLVKGKFQETSDIDLAV--AGIPPES--------
+--------------------------------------
+>VL20 4144 hypothetical protein 1 32.0 0.21 1 26.9% 51.6% 3363 4977
+-------------------------------IILFGSLVKGKFQETSDIDLAV--AGIPPES--------
+--------------------------------------
+>Cyagr 2379 putative nucleotidyltransferase 1 31.6 0.24 1 34.3% 44.7% 1754 946
+---------------LEEIAAACQRY-GIERLFVFGSALRDDFKPgsDIDLLV-----------------
+--------------------------------------
+>Sta7437 1780 DNA polymerase beta domain protein region 1 31.2 0.31 1 20.4% 59.1% 3354 2647
+-------------------------------VLVFGSVARGEARPDSDVDLLI-----------------
+--------------------------------------
+>Cal6303 1168 DNA polymerase beta domain protein region 1 31.2 0.32 1 75.0% 31.3% 1799 790
+---------------IASLKSLLtkKLGVRSLALFGSVARNEARDDSDVDILilEPPITFDRYMDVKLYL
+EEQ-LGSRVDLVTWKALKP-QIRENVER----------
+>Oscil6304 4771 putative nucleotidyltransferase 1 31.6 0.33 1 49.1% 38.9% 3083 3085
+----------------------------VEEFYLFGSVLREDFRPDSDIDVMVknAGWGLLEIVRMKREL
+-ETWLERPVDLI--------------------------
+>ANA C20561 nucleotidyltransferase 1 31.2 0.34 1 24.1% 42.3% 3055 2449
+----------------------------LQHLTLFGSQARGDAEPGSDIDVLVV----------------
+--------------------------------------
+>Cyan10605 2661 DNA polymerase beta domain protein region 1 31.2 0.40 1 30.6% 39.4% 2254 1648
+--------------------QIRKKIPYIKMLVLFGSRARGDIHDKSDWNFAV-----------------
+--------------------------------------
+>Oscil6304 3685 putative nucleotidyltransferase 1 30.8 0.45 1 24.1% 42.3% 3055 2449
+----------------------------LEQLILYGSQARGDAKPDSDIDILVI----------------
+--------------------------------------
+>MAE 57740 hypothetical protein 1 30.8 0.47 1 73.1% 32.9% 24102 1199
+----------------------LAKFYGKRLviLFGSQARGNANEDSDIDIMVVLKGPidEVIraTQLDL
+KYNTFISLIPIADEDFVHRQtlMDNIRREGI-------
+>Glo7428 1394 DNA polymerase beta domain protein region 1 30.8 0.48 1 20.4% 59.1% 3354 2647
+-------------------------------VRVFGSVARGEAQPDSDIDLLV-----------------
+--------------------------------------
+>Cal6303 2473 DNA polymerase beta domain protein region 1 31.6 0.50 1 28.7% 48.4% 2454 1646
+----------------------LQSIEGIASVALGGSRARGNHTPKSDVDLGI-----------------
+--------------------------------------
+>Cal6303 2336 DNA polymerase beta domain protein region 1 31.6 0.52 1 28.7% 48.4% 2454 1646
+----------------------LQSIEGIASVALGGSRARGNHTPKSDVDLGI-----------------
+--------------------------------------
+>Lepto7376 0410 DNA polymerase beta domain protein region 1 30.4 0.56 1 67.6% 32.5% 1897 1290
+----------------EEILAIAAKHGAFN-VRIFGSVARGEERETSDIDFLiiSSWFPVQLIRDL----
+-ETSLGMTVDVVTEAGLKP-RIRENV------------
+>Syn7502 03139 putative nucleotidyltransferase 1 31.2 0.59 1 41.7% 32.7% 2270 1660
+--------------------TIGDRLPYLKFLVLFGSRARGDAYERSDWDFAIL----CDEEARQKAIE-
+--------------------------------------
+>VL20 4146 signal peptidase II 1 30.4 0.67 1 35.2% 41.0% 1856 3371
+----------------QWLHENAVKY-GINRAYIFGSVTRpkFHPGSDVDIAVEN---------------
+--------------------------------------
+>CYA 1312 nucleotidyltransferase domain protein 1 30.4 0.74 1 55.6% 23.3% 3392 2382
+-------------------------------VLLFGSYGRGDADAGSDLDIMVIKPEVSDRYAEMIRLHE
+AVGDMGPGLDILVYSEAEYQR-----------------
+>ANA C20691 nucleotidyltransferase 1 30.4 0.81 1 67.6% 34.2% 33105 28108
+-------------------------------VILFGSQARGDATPDSDFDVLIILKDLVQATKEIEKIGF
+FLscLKYSVVISnlSRFEKEqlIQNIKKEGIYFY----
+>IJ00 26745 DNA polymerase subunit beta 1 30.0 0.83 1 33.3% 40.5% 1854 1247
+----------------EEILRIAAKYGAYN-IRVFGSVARGEARPDSDVDFLV-----------------
+--------------------------------------
+>Cyast 1549 DNA polymerase beta domain protein region 1 30.0 0.97 1 22.2% 45.8% 3558 3558
+---------------------------------LFGSQARGDARPDSDIDILVVLKG-------------
+--------------------------------------
+>Cyan10605 1200 DNA polymerase beta domain protein region 1 30.0 1.1 1 23.1% 53.8% 3055 3155
+----------------------------IQLI-LFGSRARGDAKQDSDIDILIV----------------
+--------------------------------------
+>VL20 934 hypothetical protein 1 30.0 1.1 1 73.1% 31.6% 24102 18106
+----------------------LAKFYGKRLviLFGSQARGNANEDSDLDIMVVLKGPidEVIraTQLDL
+KYNTFISLIPIADEDFVHRQtlMDNIRREGI-------
+>Syn6312 0888 putative nucleotidyltransferase 1 29.6 1.1 1 64.8% 34.7% 1889 1888
+----------------EDILAIAQKHGA-KNIRVFGSIARGDADEKSDIDFLvmEVGRSLFDLGGLQYDL
+-EILLGLQVDVVSQKGLK--------------------
+>Cal6303 1702 DNA polymerase beta domain protein region 1 30.0 1.2 1 31.5% 38.2% 2255 1548
+--------------------QIPEKIPYLKMLVLFGSRATGETHVNSDWDFAVL----------------
+--------------------------------------
+>Dacsa 3389 putative nucleotidyltransferase 1 30.0 1.2 1 20.4% 59.1% 3354 5273
+-------------------------------IILFGSLAKGKFTETSDIDLAV-----------------
+--------------------------------------
+>Osc7112 6666 DNA polymerase beta domain protein region 1 29.6 1.3 1 21.3% 43.5% 3355 3254
+-------------------------------IILYGSQARGDARPDSDIDILIL----------------
+--------------------------------------
+>KR49 05805 hypothetical protein 1 30.0 1.3 1 47.2% 32.7% 2273 3398
+--------------------ALLMDHPNAHL-WLFGSWARGDWDAFSDVDlaVLEAGMADDVLALSDQEW
+QE------------------------------------
+>SYNPCC7002 A1322 nucleotidyltransferase 1 29.6 1.3 1 25.9% 46.4% 2855 2350
+--------------------------PELKDLILFGSQAKNTAKEDSDIDIAIV----------------
+--------------------------------------
+>Oscil6304 2901 UTPGlnB (protein PII) uridylyltransferase 1 29.6 1.4 1 37.0% 42.9% 2869 1958
+--------------------------PEAEII-LFGSRARGDAASDSDWDFLILLNGEVDPD-RSLAV--
+--------------------------------------
+>Cyan8802 2072 DNA polymerase beta domain protein region 1 29.3 1.5 1 86.1% 29.5% 10104 497
+--------YELLKEKREEIIDIAAKHGANN-VRIFGSVARGEADEKSDIDLLIDYCSEYRSSWFPLRLIR
+eeTLLGCKVDIVTEQGLKD-RIRERVLKEAIPL-----
+>Osc7112 5508 DNA polymerase beta domain protein region 1 30.0 1.5 1 33.3% 35.0% 2665 2156
+------------------------QIPYLKMLILFGSRARGDTHAKSDWDF----AALYDEKLR------
+--------------------------------------
+>gll3524 hypothetical protein 1 29.3 1.6 1 66.7% 34.6% 1491 1390
+------------RRRREQILQVAARHGAYNL-RVFGSVARGESDAQSDVDFLV----DYDRSRRtlIADL
+-EILLGYRVDVVTEKNLKSQ------------------
+>Nos7524 1493 putative nucleotidyltransferase 1 29.3 1.8 1 31.5% 37.1% 2054 1447
+------------------IFRIAAQYGAYN-IRVFGSVARGEARPDSDVDFLV-----------------
+--------------------------------------
+>PMM1111 Glutaredoxin-related protein 1 29.3 1.9 1 33.3% 41.5% 2565 67102
+-----------------------SEWPTIPQVYL-----KGEFLGGSDILIEMYNAGTLKEKIE------
+--------------------------------------
+>KR49 03760 monothiol glutaredoxin 1 29.3 1.9 1 34.3% 40.5% 2465 66102
+----------------------FSSWPTIPQVYV-----KGEFMGGSDILIEMYNAGELKEKLE------
+--------------------------------------
+>Riv7116 5053 hypothetical protein 1 30.0 1.9 1 59.3% 31.2% 46109 472538
+--------------------------------------------PGSEimMAYRTGGGTTGNVKDSKITV
+IKNSIPYVKSVINYEDAYGGTDPESLDEAavPELLRTR
+>ANA C10314 nucleotidyltransferase domain-containing protein 1 28.9 2.0 1 33.3% 45.9% 1854 1247
+----------------EQILKIATKYGAYNL-RVFGSVARGEATPDSDIDFLV-----------------
+--------------------------------------
+>VL20 3985 DNA polymerase beta 1 29.3 2.0 1 35.2% 39.5% 1754 343
+---------------IELPQQIISEfwQISEMYLFGSVLREDFRPDSDIDVLV-----------------
+--------------------------------------
+>Lepto7376 0971 DNA polymerase beta domain protein region 1 29.3 2.2 1 24.1% 50.0% 3055 2954
+----------------------------LDRVILFGSQARGDAKFYSDIDVAIV----------------
+--------------------------------------
+>Cyan7822 6692 DNA polymerase beta domain protein region 1 28.9 2.2 1 78.7% 28.7% 18104 1297
+----------------EQIIAIAEKHGALN-VRIFGSVARGEADEKSDLDLLVDYCRERRSSWFPLRLIR
+eeELLGCKVDITTEQGLK-ERIKERVLKEAIPL-----
+>Nos7107 4375 DNA polymerase beta domain protein region 1 28.9 2.3 1 33.3% 43.2% 1854 1247
+----------------EEILQIAAKYGAYN-VRVFGSVARGEAKADSDVDFLV-----------------
+--------------------------------------
+>PCC7424 5818 DNA polymerase beta domain protein region 1 28.9 2.3 1 61.1% 35.3% 35102 2793
+---------------------------------LFGSFARDEAKSSSDLDLLVEFEgvTFDKYMELKF-F
+LEDSLGLSVDLVTRKMLKPQLLN-SIDKEAI-------
+>syc1575 c hypothetical protein 1 29.6 2.7 1 66.7% 25.0% 879 925999
+------DEFGHDAGDmqVARALLNQVRASDVVCRFGGEEIAILMPGASLEVSARKADQIRQAIAQLIISY
+HEQTLPSL------------------------------
+>M744 03545 diguanylate cyclase 1 29.6 2.7 1 66.7% 25.0% 879 9311005
+------DEFGHDAGDmqVARALLNQVRASDVVCRFGGEEIAILMPGASLEVSARKADQIRQAIAQLIISY
+HEQTLPSL------------------------------
+>Synpcc7942 2535 diguanylate cyclase (GGDEF domain) with PAS/PAC and GAF sensors 1 29.6 2.7 1 66.7% 25.0% 879 9561030
+------DEFGHDAGDmqVARALLNQVRASDVVCRFGGEEIAILMPGASLEVSARKADQIRQAIAQLIISY
+HEQTLPSL------------------------------
+>Dacsa 2574 putative nucleotidyltransferase 1 28.9 2.9 1 21.3% 43.5% 3557 3456
+---------------------------------LFGSQARGDAEPDSDVDILVILA--------------
+--------------------------------------
+>Synpcc7942 0033 conserved hypothetical protein 1 28.9 2.9 1 34.3% 36.8% 1754 1046
+---------------IEKVTEFCHKWKVTELA-LFGSVLRHDFRPDSDIDIMV-----------------
+--------------------------------------
+>syc1464 d hypothetical protein 1 28.9 2.9 1 34.3% 36.8% 1754 1046
+---------------IEKVTEFCHKWKVTELA-LFGSVLRHDFRPDSDIDIMV-----------------
+--------------------------------------
+>Glo7428 5149 DNA polymerase beta domain protein region 1 29.3 3.0 1 40.7% 36.4% 2063 4489
+------------------LVSLAPDYpsIKSLAIFGSVARNEARPNSDADVDILVEFFTEPT--------
+--------------------------------------
+>KR100 07300 monothiol glutaredoxin 1 28.5 3.2 1 34.3% 40.5% 2465 66102
+----------------------FSSWPTIPQVYV-----KGEFIGGSDILIEMYNAGELKEKLE------
+--------------------------------------
+>Dacsa 1753 putative nucleotidyltransferase 1 28.5 3.3 1 50.0% 33.3% 2982 2195
+---------------------------AVKTLFLFGSVARGEATPESDVDFLvlNCSVDVGTLKSLRPHL
+RETVLKEAVRV---------------------------
+>Syn6312 1255 putative nucleotidyltransferase 1 28.5 3.6 1 79.6% 27.6% 22108 14102
+--------------------SALCQQWHISKLSLFGSVLRDDFSPTSDIDILvfESGFTPSFFKLYQIQE
+ELSAlnRPIDLITTKFL-NQRIRDRVLATAKVFYVAT-
+>VL20 808 hypothetical protein 1 28.5 3.6 1 24.1% 42.3% 3358 3257
+-------------------------------LIMFGSQARGDAHPDSDIDVLVVLKG-------------
+--------------------------------------
+>AA650 01980 DNA polymerase subunit beta 1 28.1 3.9 1 33.3% 45.9% 1854 1247
+----------------EEILKIATKYGADNL-RVFGSVARGEATPDSDIDFLV-----------------
+--------------------------------------
+>P9515 12021 Glutaredoxin-related protein 1 28.5 4.0 1 33.3% 39.0% 2565 67102
+-----------------------SEWPTIPQVYL-----KGEFLGGSDILIEMYNSGTLKEKIE------
+--------------------------------------
+>Cyan7425 2968 DNA polymerase beta domain protein region 1 28.5 4.1 1 69.4% 29.1% 583 985
+---TIQTRLGLSSQDVA---TFCQQWGIIKMA-LFGSILRNDFRADSDIDLMITFAPNARQGLLTlkIKH
+eeSRLNRSIDLV--------------------------
+>tsl2232 hypothetical protein 1 28.1 4.1 1 53.7% 35.6% 3391 2078
+-------------------------------VRVFGSVARGEADAESDIDFLvlEPGRTLFDLGGLQYEL
+EQ-LLGCRVDVVTERGLKAR------------------
+>P9303 09521 Glutaredoxin-related protein 1 28.1 4.2 1 26.9% 47.1% 2558 6795
+-----------------------SNWPTIPQVYV-----KGEFIGGSDILIEMYNAG-------------
+--------------------------------------
+>PMT 1095 Glutaredoxin-related protein 1 28.1 4.4 1 26.9% 47.1% 2558 6795
+-----------------------SNWPTIPQVYV-----KGEFIGGSDILIEMYNAG-------------
+--------------------------------------
+>AM1 3267 haemagglutination activity domain protein 1 28.9 4.4 1 75.0% 24.7% 391 339421
+-AGTTTVAIPVSENGIERVTSVLQQVGAVDAVHIVSEGDEGEFWLG--------NAYVSNETLDKYKAHF
+QqgLLSTEADILIYACLTAR------------------
+>AM1 G0004 haemagglutination activity domain protein 1 28.9 4.4 1 75.0% 24.7% 391 339421
+-AGTTTVAIPVSENGIERVTSVLQQVGAVDAVHIVSEGDEGEFWLG--------NAYVSNETLDKYKAHF
+QqgLLSTEADILIYACLTAR------------------
+>MAE 56950 putative nucleotidyltransferase domain 1 28.1 4.5 1 42.6% 27.7% 1561 1156
+-------------REIKDYFHLLYQ-NQLQKIVLYGSQAREDGREDSDIDLLVILSGVVD----------
+--------------------------------------
+>AA650 08210 nucleotidyltransferase 1 28.1 4.5 1 21.3% 47.8% 3355 2850
+-------------------------------VILFGSRARGDHHSDSDVDILIV----------------
+--------------------------------------
+>MAE 11570 hypothetical protein 1 28.1 4.8 1 22.2% 45.8% 3558 3457
+---------------------------------MFGSQARGDAHPDSDIDVLVVLKG-------------
+--------------------------------------
+>Dacsa 0736 putative nucleotidyltransferase 1 28.1 4.9 1 70.4% 31.6% 1896 20101
+----------------QCINLLKKDYGAIEVI-LFGsrGDSPWHWDSDLDLAVI--GLSDKDIFEAYGKL
+ETVTPNWlvDLISLeeIRSRILQEN-------------
+>Lepto7376 2272 DNA polymerase beta domain protein region 1 28.1 5.0 1 43.5% 37.3% 454 753
+--TIAGDRLTISK---EKLVVICQQWRIKELA-LFGSVLREDFREDSDIDLLI-----------------
+--------------------------------------
+>Dacsa 3570 putative nucleotidyltransferase 1 28.1 5.2 1 53.7% 32.2% 3593 3299
+---------------------------------LFGSVLREDFRPDSDIDVMVknAHPTFRTLEQMEAEL
+-RAIFHREVDLisRNHLRRQEI----------------
+>Cyan7425 1806 DNA polymerase beta domain protein region 1 28.1 5.2 1 51.9% 35.1% 1773 1068
+---------------IAQIKELCDRWQITELA-LFGSVLRNDFKPTSDIDVLItnARKGLLTLARIKHEL
+EE------------------------------------
+>VL20 2685 PAP/25A core domainDNA polymerase beta 1 27.7 5.3 1 84.3% 30.1% 12104 697
+----------LLKNKREKIIAIAAKHGANN-VRIFGSVARGEADEKSDIDLLIDYCSERRSPWFPLPLIR
+eeALLGCKVDIVTEQGLKD-RIRERVLKEAIPL-----
+>MAE 43040 DNA polymerase beta domain 1 27.7 5.3 1 84.3% 30.1% 12104 697
+----------LLKNKREKIIAIAAKHGANN-VRIFGSVARGEADEKSDIDLLIDYCSERRSPWFPLPLIR
+eeALLGCKVDIVTEQGLKD-RIRERVLKEAIPL-----
+>Dacsa 0862 putative nucleotidyltransferase 1 28.1 5.3 1 21.3% 52.2% 3355 2749
+-------------------------------VILYGSQARGEAKADSDIDLLII----------------
+--------------------------------------
+>Mic7113 3046 putative nucleotidyltransferase 1 28.1 5.5 1 57.4% 29.2% 1781 1071
+---------------MEKIAEFCHKWQVTEFA-LFGSVLRDDFRPDSDIDVMVQFHPDAHPTFRTL--DH
+MEAELKTVFD----------------------------
+>P9215 12471 Glutaredoxin-related protein 1 28.1 5.6 1 33.3% 41.5% 2565 67102
+-----------------------SDWPTIPQVYL-----KGEFLGGSDILIEMYNAGSLKEKIE------
+--------------------------------------
+>CYA 0900 nucleotidyltransferase domain protein 1 27.7 5.8 1 38.0% 31.7% 2161 1454
+-------------------FAEIQKQFGVRRLALFGSTARGEDQAGSDIDILVEFIGKAD----------
+--------------------------------------
+>Mic7113 2942 putative nucleotidyltransferase 1 28.1 6.0 1 19.4% 47.6% 3454 3454
+--------------------------------YFFGSVLRDDFRPDSDIDVMV-----------------
+--------------------------------------
+>Cyan7425 0661 ABC transporter ATPase 1 28.5 6.1 1 23.1% 48.0% 76100 154178
+----------------------------------------------------------------------
+----LPQLIQQIFYSSLKADELKRHIETV---------
+>Cal7507 4552 protein of unknown function DUF820 1 28.5 6.3 1 63.9% 33.3% 1280 28101
+----------LQKSIPDLLRSVLAMAWADSMDWFFGIRMGIYYDPgaIVPDAFLSLGVkdENLRSSYVLW
+EEKKLPILV-----------------------------
+>PCC7418 3141 SSU ribosomal protein S3P 1 28.5 6.5 1 39.8% 30.8% 960 1153
+-------RLGITKEHLSCWYADSKRYP--ELL-------QEDFRIRNYIDQTLNNAGIS-----------
+--------------------------------------
+>SYNPCC7002 F0084 conserved hypothetical protein nucleotidyltransferase domain 1 27.7 7.0 1 39.8% 39.5% 3072 2576
+----------------------------LESIILYGSQARGEAKMDSDIdlVVLKSAitSEFISQLCLDY
+D-------------------------------------
+>Sta7437 0789 DNA polymerase beta domain protein region 1 27.7 7.2 1 24.1% 50.0% 2954 4470
+---------------------------GIDRAYLFGSLTRPhfTPQSDIDLAV-----------------
+--------------------------------------
+>Mic7113 3394 putative low-complexity protein 1 28.5 7.3 1 48.1% 30.5% 48106 225277
+----------------------------------------------TNLEGTILSLGI------SLNIRN
+PDQTAPYEWNGL-YLHSKTekIAEAFDRAGVPFYL---
+>MYAER 1839 PAP/25A core domainDNA polymerase beta-like region 1 27.7 7.3 1 79.6% 31.2% 12104 697
+----------LLKNKREKIIAIAAKHGANN-VRIFGSVARGEADEKSDIDLLirSPWFPLPLIREL----
+-EALLGCKVDIVTEQGLKD-RIRERVLKEAIPI-----
+>Cyast 1766 hypothetical protein 1 27.7 7.7 1 46.3% 27.7% 42106 1867
+----------------------------------------GNFVPPSSTD--------TD-------IDI
+EKSSVPIPDNVMDKEQIQTVKLVEKISSILSPYFI---
+>Cyan8802 1879 DNA polymerase beta domain protein region 1 27.7 8.2 1 18.5% 55.0% 3554 3655
+---------------------------------VFGSILRDDFSPSSDVDLLI-----------------
+--------------------------------------
+>PCC8801 1853 DNA polymerase beta domain protein region 1 27.7 8.2 1 18.5% 55.0% 3554 3655
+---------------------------------VFGSILRDDFSPSSDVDLLI-----------------
+--------------------------------------
+>Cal7507 2304 hypothetical protein 1 28.1 8.7 1 53.7% 28.2% 32109 461520
+------------------------------VAYRIGGGVKGNVQVGS---------------IRVLK---
+--NSLPYVASVVNYKPGRNGKNAESLEeiRVPAMLRTR
+>AM1 3524 conserved hypothetical protein 1 28.1 9.2 1 21.3% 43.5% 7698 154176
+----------------------------------------------------------------------
+----IPQLVEGLLYAQLSTQQLQHHID-----------
+>gll2293 hypothetical protein 1 27.3 9.3 1 31.5% 41.2% 3164 2457
+-----------------------------EQIILFGSRAWGTPRQDSDFDLFLIMPGETKITL-------
+--------------------------------------
+>M744 01650 DNA polymerase subunit beta 1 27.3 9.7 1 24.1% 46.2% 2954 2954
+---------------------------AIRELALFGSILRDDFHAGSDIDLLV-----------------
+--------------------------------------
+>Synpcc7942 0274 conserved hypothetical protein 1 27.3 9.7 1 24.1% 46.2% 2954 2954
+---------------------------AIRELALFGSILRDDFHAGSDIDLLV-----------------
+--------------------------------------
+>syc1239 c hypothetical protein 1 27.3 9.7 1 24.1% 46.2% 2954 2954
+---------------------------AIRELALFGSILRDDFHAGSDIDLLV-----------------
+--------------------------------------
+>Syncc9902 1418 Glutaredoxin-related protein 1 27.3 9.7 1 34.3% 35.7% 2465 66102
+----------------------FSSWPTIPQIYV-----KGEFMGGSDILIEMYNSGELKEKLE------
+--------------------------------------
+>EW15 1531 putative monothiol glutaredoxin ycf64-like 1 27.3 9.8 1 33.3% 36.6% 2565 67102
+-----------------------SNWPTIPQVYL-----KGEFMGGSDILISMYNSGELKEKLE------
+--------------------------------------
+>NATL1 14711 Glutaredoxin-related protein 1 27.3 9.8 1 33.3% 36.6% 2565 67102
+-----------------------SNWPTIPQVYL-----KGEFMGGSDILISMYNSGELKEKLE------
+--------------------------------------
+>PMN2A 0639 Glutaredoxin-related protein 1 27.3 9.8 1 33.3% 36.6% 2565 67102
+-----------------------SNWPTIPQVYL-----KGEFMGGSDILISMYNSGELKEKLE------
+--------------------------------------

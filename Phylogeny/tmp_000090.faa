@@ -1,0 +1,424 @@
+>Lyngbya extdbtmp 000090 FKBP-type peptidyl-prolyl cis-trans isomerase 1 100.0% 100.0% 28236
+ATVPATNIKLTSINDSIQYAIGAFVAQWINNNGFIISNPTLYIKGMDDVFQNKPRMIPDSVVPVMITAYQ
+QVTQKDRSLKLEQQLFTNIKQRPGLGILPNGVHYFILKSSQGQRPLPTDTVTIQLRGTLADGTVFEDTYR
+KSPVKITPAEMVPGISEALQMMPVGSKWQVYVPAMLAYADKGTSVIPPNSALVVEIEILAITTPKKEQP
+>Riv7116 4321 FKBP-type peptidyl-prolyl cis-trans isomerase 1 75.1 8e-16 1 49.3% 36.9% 126228 73179
+----------------------------------------------------------------------
+----------------------------PSGLKYEVLQEGTGETPQAGQTVTVHYTGTLEDGTKFDSSrr
+GQpfKIGQGQVIKGWDEGLGIMKVGGRRKLIIPPELGYGSRGagVIPPNATLIFDVELLGV--------
+>Sta7437 1959 peptidylprolyl isomerase FKBP-type 1 73.9 2e-15 1 49.3% 37.9% 126228 78184
+----------------------------------------------------------------------
+----------------------------PSGLQYVVVKEGNGATPQPGQTVTVHYTGTLEDGTKFddRNR
+PFSFKIGVGQVIQGWDEGVGNMKVGEQRTLIIPPDLGYGARGagVIPPNATLIFDVELLKI--------
+>PCC7424 0506 peptidylprolyl isomerase FKBP-type 1 72.4 7e-15 1 70.8% 31.8% 78228 27178
+--------------------------------------------------ERKTEMIASTLNPSSPTALA
+QEQQIAQTLNTQQE--TKAMEENAV-TTPSGLKYIDIETGQGATPTKGQTVIVHYTGTLEDGTKFddRNR
+PFSFKIGVGQVIKGWDEGVGTMQVGGRRTLIIPPNLGYGARGagVIPPNATLIFDVELLEI--------
+>CYA 1589 peptidyl-prolyl cis-trans isomerase FKBP-type 1 71.6 8e-15 1 48.8% 41.2% 127228 45150
+----------------------------------------------------------------------
+-----------------------------SGLQYYDLVEGTGPSPQPGQTVVVNYVGKLQDGTVFDSSyr
+NQPFTFTygQVIRGWEEGLATMRVGGKRYLRIPPELAYGSRGagVIPPNATLDFEVELLAI--------
+>UCYN 04670 FKBP-type peptidyl-prolyl cis-trans isomerase 1 70.1 2e-14 1 48.8% 36.3% 127228 11116
+----------------------------------------------------------------------
+-----------------------------SGLQYIDIREGEGVEPKAGQFVSVHYVGTLENGKKFDSSyr
+KQPfkIGVGQVIKGWDEGVSSMKVGSQRKLIIPSNLGYGSRGanVIPPNSVLIFNIELLSI--------
+>CYB 0395 peptidyl-prolyl cis-trans isomerase FKBP-type 1 70.5 2e-14 1 48.8% 39.2% 127228 48153
+----------------------------------------------------------------------
+-----------------------------SGLQYYDIAQGSGPSPQPGQTVVVNYVGKLQDGTIFDSSyr
+NQPFVFTygQVIRGWEEGLATMRVGGKRYLRIPPELAYGSRGagVIPPNATLDFEVELLAI--------
+>Cal6303 0515 peptidylprolyl isomerase FKBP-type 1 70.9 3e-14 1 49.8% 33.7% 126229 70176
+----------------------------------------------------------------------
+----------------------------PSGLKYVEIEEGTGETPQSGQTVTVHYTGTLENGSKFDSSrr
+NEPFkiGAGQVIKGWDEGLSTMKVGGRRTLTIPPELGYGSRGIGPIPPNSTLIFDVELLGVS-------
+>Npun R2832 peptidylprolyl isomerase FKBP-type 1 70.1 4e-14 1 49.3% 35.9% 126228 56162
+----------------------------------------------------------------------
+----------------------------PSGLKYVELKEGTGATPQPGQTVEVHYVGTLEDGTKFDSSrr
+GQpfKIGVGQVIKGWDEGVSTIKVGGRRKLIIPSELGYGARGagVIPPNATLIFDVELLGV--------
+>Mic7113 6195 FKBP-type peptidyl-prolyl cis-trans isomerase 1 70.5 5e-14 1 49.8% 36.5% 126229 79186
+----------------------------------------------------------------------
+----------------------------PSGLKYKEIKQGGGATPQKGQTVVVHYTGTLEDGTKFddRNR
+PFSFKIGVGQVIKGWDEGVGSMKVGGRRQLIIPSELGYGARGagVIPPNATLIFDVELLKIS-------
+>Chro 4024 peptidylprolyl isomerase FKBP-type 1 70.1 6e-14 1 48.8% 35.3% 127228 76181
+----------------------------------------------------------------------
+-----------------------------SGLKYTVLQEGSGEMPKKGQTVVVHYTGTLEDGSKFDSSrr
+GQPfkVGTGQVIKGWDEALSTMKVGERRQIVIPPELGYGARGagVIPPNATLIFDVELLKV--------
+>Cal7507 6047 Peptidylprolyl isomerase 1 69.7 6e-14 1 49.3% 35.9% 126228 66172
+----------------------------------------------------------------------
+----------------------------PSGLKYVELEQGTGDTPKTGQTVVVHYTGTLENGTKFDSSRD
+RssFKIGVGQVIKGWDEGLSTMKVGDRRQLIIPSELGYGARGagVIPPNATLLFDVELLEI--------
+>Ple7327 1073 FKBP-type peptidyl-prolyl cis-trans isomerase 1 69.7 8e-14 1 49.3% 35.0% 126228 70176
+----------------------------------------------------------------------
+----------------------------PSGLKYIDLQEGDGATPTKGQTVTVHYTGTLENGKKFddRDR
+PFSFKIGVGQVIQGWDEGVGSMKVGGRRTLIIPSELGYGSRGagVIPPNATLIFEVELLGV--------
+>PCC7418 3440 Peptidylprolyl isomerase 1 68.9 1e-13 1 49.8% 33.7% 127230 64171
+----------------------------------------------------------------------
+-----------------------------SGLRYVDIEEGDGATPKEGQTVVVHYTGSLADGTKFddRDR
+PFSFKLGEGQVIKGWEEGISTMQVGGRRQLIIPPELGYGQRGagVIPPNATLIFDVELLKISS------
+>Nos7107 3690 Peptidylprolyl isomerase 1 67.8 3e-13 1 48.8% 35.3% 127228 67172
+----------------------------------------------------------------------
+-----------------------------SGLKYVEIKEGTGTTPQSGQTVVVHYTGTLEDGTQFddRGR
+PFSFQIGVGQVIKGWDEGLSTMKVGGQRELIIPADLGYGSRGagVIPPNATLIFDVELLDV--------
+>IJ00 01945 peptidylprolyl isomerase 1 68.2 3e-13 1 48.8% 35.3% 127228 74179
+----------------------------------------------------------------------
+-----------------------------SGLKYIEIEEGTGATPQPGQTVTVHYTGTLEDGTKFddRNR
+PFSFAIGTGQVIKGWDEGLSTMKVGGKRQLIIPSELGYGARGagVIPPYATLIFDVELIKV--------
+>M744 04495 peptidylprolyl isomerase 1 67.8 4e-13 1 48.8% 35.3% 127228 67172
+----------------------------------------------------------------------
+-----------------------------SGLQYVDLEVGTGATPQPGQTVVVHYTGTLEDGTQFddRNR
+PFQFKLGVGQVIKGWDEGIATMKVGGRRKLTIPPTLAYGERGagVIPPNATLIFDVELIRI--------
+>Synpcc7942 2354 Peptidylprolyl isomerase 1 67.8 4e-13 1 48.8% 35.3% 127228 67172
+----------------------------------------------------------------------
+-----------------------------SGLQYVDLEVGTGATPQPGQTVVVHYTGTLEDGTQFddRNR
+PFQFKLGVGQVIKGWDEGIATMKVGGRRKLTIPPTLAYGERGagVIPPNATLIFDVELIRI--------
+>syc1749 d FKBP-type peptidyl-prolyl cis-trans isomerase 1 67.8 4e-13 1 48.8% 35.3% 127228 67172
+----------------------------------------------------------------------
+-----------------------------SGLQYVDLEVGTGATPQPGQTVVVHYTGTLEDGTQFddRNR
+PFQFKLGVGQVIKGWDEGIATMKVGGRRKLTIPPTLAYGERGagVIPPNATLIFDVELIRI--------
+>Nos7524 2223 FKBP-type peptidyl-prolyl cis-trans isomerase 1 67.8 4e-13 1 48.8% 37.3% 127228 68173
+----------------------------------------------------------------------
+-----------------------------SGLKYVEEKEGTGATPERGQTVTVHYTGTLEDGTKFddRNR
+PFSFTIGVGQVIKGWDEGLSTMKVGGRRQLIIPAELGYGARGagVIPPNATLLFDVELLDV--------
+>NATL1 17131 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 67.8 4e-13 1 44.0% 34.8% 137228 90183
+----------------------------------------------------------------------
+---------------------------------------GDGQEATPGTSVSVNYKGTLDDGKEFDSSYG
+RGPFEFsaGMVIKGWDEGVAGMKVGGKRKLVIPPELGYGSRGIGPIPPNSVLTFEVELLAV--------
+>AA650 12575 peptidylprolyl isomerase 1 67.0 5e-13 1 48.8% 35.3% 127228 56161
+----------------------------------------------------------------------
+-----------------------------SGLKYIELQEGTGATPQTGQTVEVHYVGTLENGTKFDSSrr
+GKPfkIGTGQVIKGWDEGLSTMKVGGRRQLIIPSELGYGARGagVIPPNSTLIFDVELISV--------
+>Osc7112 3600 Peptidylprolyl isomerase 1 67.8 6e-13 1 48.8% 37.3% 127228 88193
+----------------------------------------------------------------------
+-----------------------------SGLKYVELKEGNGATPKTGQRVVVHYTGTLEDGTKFDSSrr
+NSpfKIGVGQVIKGWDEGVGMMKVGDRRKLIIPPELGYGARGagVIPPNATLIFDVELLKI--------
+>Pse7367 0865 Peptidylprolyl isomerase 1 67.4 6e-13 1 49.3% 34.0% 127229 77183
+----------------------------------------------------------------------
+-----------------------------SGLKYRELKVGGGAQPKEGQTVVVHYIGTLEDGTKFDSSRD
+RnkFKLGKGEVIKGWDEGLASMRVGGRRELIIPPELGYGSRGagVIPPNATLIFDVELLRVS-------
+>Glo7428 4473 Peptidylprolyl isomerase 1 67.4 6e-13 1 49.8% 34.6% 126229 70177
+----------------------------------------------------------------------
+----------------------------PSGLKYIDIQEGDGATPKAGQRVFVHYTGTLEDGTKFddRNR
+PFDFKLGAGQVIKGWDEGISTMKVGGRRQLIIPPELGYGARGagVIPPNATLVFDVELLRIS-------
+>Cyan7822 4374 Peptidylprolyl isomerase 1 67.0 8e-13 1 49.3% 33.0% 126228 74180
+----------------------------------------------------------------------
+----------------------------PSGLKYVDITEGSGETPQKGQTVTVHYTGTLEDGKKFDSSRD
+RgsFKIGVGQVIKGWDEGVISMKVGGRRTLIIPSQLGYGARGagVIPPNATLIFDVELLGI--------
+>PMN2A 0860 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 66.6 1e-12 1 44.0% 33.7% 137228 90183
+----------------------------------------------------------------------
+---------------------------------------GDGQEATPGTSVSVNYKGTLDDGKEFDSSYG
+RGPFEFsaGMVIKGWDEGVAGMKVGGKRKLVIPPELGYGSRGIGPIPPNSVLTFEVELLGV--------
+>Syncc9605 0874 Peptidylprolyl isomerase 1 66.6 2e-12 1 50.2% 35.2% 124228 89197
+----------------------------------------------------------------------
+--------------------------ITASGLKIIELEVGSGEEATPGQTVVVHYRGTLEDGLQFDASyr
+GTPFslGAGRVIKGWDEGVAGMKVGGKRKLVIPSDLAYGSRGagVIPPNATLIFEVELLDV--------
+>Cyan8802 3186 Peptidylprolyl isomerase 1 65.9 2e-12 1 69.4% 31.3% 79228 28179
+---------------------------------------------------NKPEAIADQLkpAITTSQQ
+elVALDTSTKETQKM--DAKNTV---TTSSGLQYVDLVEGTGNSPSQGKTVTVHYTGTLENGKKFDSSRD
+RgsFKIGVGQVIKGWDEGVMSMKVGGRRQLIIPANLGYGARGagVIPPNATLIFDVELLDV--------
+>PCC8801 2910 peptidylprolyl isomerase FKBP-type 1 65.9 2e-12 1 69.4% 31.3% 79228 28179
+---------------------------------------------------NKPEAIADQLkpAITTSQQ
+elVALDTSTKETQKM--DAKNTV---TTSSGLQYVDLVEGTGNSPSQGKTVTVHYTGTLENGKKFDSSRD
+RgsFKIGVGQVIKGWDEGVMSMKVGGRRQLIIPANLGYGARGagVIPPNATLIFDVELLDV--------
+>Cal6303 3386 Peptidylprolyl isomerase 1 65.9 3e-12 1 48.8% 35.3% 127228 89194
+----------------------------------------------------------------------
+-----------------------------SGLKYTDVKVGTGATPKTGQTVTVHYVGTLENGTKFDSSrr
+GQPFDFtkGEVIKGWDEGLSTMKVGGRRNLIIPAKLGYGEQGagAIPPNATLLFDVELLGV--------
+>GEI7407 0656 Peptidylprolyl isomerase 1 65.5 3e-12 1 49.3% 35.9% 127229 79185
+----------------------------------------------------------------------
+-----------------------------SGLQYVELVPGTGATPSKGQTVTVHYTGTLTNGKVFddRGR
+PFSFRIGVGQVIKGWDEGVGSMQVGGRRKLIIPADLAYGSRGagVIPPNATLIFDVELLKIS-------
+>Anacy 3421 Peptidylprolyl isomerase 1 65.5 3e-12 1 49.3% 35.0% 126228 69175
+----------------------------------------------------------------------
+----------------------------PSGLKYVELAQGSGATPEKGKTVVVHYTGTLEDGTKFDSSRD
+RgsFKIGIGQVIKGWDEGLSTMKVGDRRKLIIPSELGYGASGanVIPPYSTLIFDVELLEI--------
+>Syncc8109 1855 Peptidylprolyl isomerase 1 64.7 7e-12 1 50.2% 35.2% 124228 89197
+----------------------------------------------------------------------
+--------------------------ITASGLKIIDLEEGSGDVATPGQTVVVHYRGTLEDGQQFDASyr
+GTPFslGSGRVIKGWDEGVAGMKVGGKRKLVIPSDLAYGTRGagVIPPNATLIFEVELLDV--------
+>KR52 12560 peptidyl-prolyl cis-trans isomerase 1 64.7 8e-12 1 52.2% 33.9% 120228 85197
+----------------------------------------------------------------------
+----------------------PDTSITASGLKITELEVGSGDEATPGQTVVVHYRGTLENGKQFDASyr
+GTPFslGAGRVIKGWDEGVAGMKVGGKRKLVIPSDLAYGSRGagVIPPNATLIFEVELLDV--------
+>KR49 13690 peptidyl-prolyl cis-trans isomerase 1 63.9 1e-11 1 48.8% 33.3% 127228 96200
+----------------------------------------------------------------------
+-----------------------------SGLSITELEIGSGAEAAPGQTVVVNYRGTLESGKEFDSSYG
+RGPFslGAGRVIKGWDEGVAGMKVGGKRKLVIPPDLAYGNRGagVIPPNATLIFEVELLDV--------
+>EW15 1771 FKBP-type peptidyl-prolyl cis-trans isomerase 1 63.5 1e-11 1 44.0% 32.6% 137228 90183
+----------------------------------------------------------------------
+---------------------------------------GDGLQATPGTSVSVNYKGTLDDGKEFDSSYG
+RGPFEFsaGMVIKGWDEGVAGMKVGGKRKLVIPPELGYGSRGIGPIPPNSVLTFEVELLGV--------
+>Ava 0331 Peptidylprolyl isomerase FKBP-type 1 62.8 2e-11 1 48.8% 34.3% 127228 59164
+----------------------------------------------------------------------
+-----------------------------SGLKYVEIEEGTGATPKSGQTVVVHYTGTLEDGTKFddRNR
+PFSFTIGVGQVIKGWDEGLSTMKVGGRRQLIIPSELGYGARGagVIPPYSTLLFDVELLEV--------
+>KR100 11710 peptidyl-prolyl cis-trans isomerase 1 63.2 3e-11 1 70.3% 32.0% 76228 42198
+------------------------------------------------VVQSEPrlDPDDPNPTLFAMAP
+NDTTADAS-ALGGPLET-----PDTTLTASGLSITELELGDGAVAGPGQTVVVNYRGTLENGKEFDSSYG
+RGPFslGAGRVIKGWDEGVAGMKVGGKRRLVIPPDLAYGTRGagVIPPNATLIFEVELLDI--------
+>Dacsa 0835 FKBP-type peptidyl-prolyl cis-trans isomerase 1 62.4 3e-11 1 49.8% 33.7% 127230 64171
+----------------------------------------------------------------------
+-----------------------------SGLRYVEVEEGEGEVPQSGQTVVVHYTGGLADGTKFddRDR
+PFSFKLGQGQVIKGWEEGISTMRVGGRRQLIIPPELGYGQRGAgvIPPNATLIFDVELLRISS------
+>Syncc9902 1524 Peptidylprolyl isomerase 1 62.8 3e-11 1 53.1% 30.6% 118228 82195
+----------------------------------------------------------------------
+--------------------EAPDTRLLASGLKITEIEVGSGDEATAGQTVVVNYRGSLENGTEFDSSYG
+RGPFslGAGRVIKGWEEGVAGMKVGGKRNLVIPPDLAYGKRGagVIPPNATLLFEVELLDV--------
+>PMT 0341 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 62.8 5e-11 1 48.8% 32.4% 127228 105209
+----------------------------------------------------------------------
+-----------------------------SGLSITDLKIGDGPEATAGQTVSVNYRGTLENGQEFDSSYK
+RGPFelGAGRVIKGWDEGVAGMKVGGKRKLVIPPELGYGSRGAgvIPGNATLIFEVELLGI--------
+>Oscil6304 3427 FKBP-type peptidyl-prolyl cis-trans isomerase 1 62.0 5e-11 1 48.8% 34.3% 127228 81186
+----------------------------------------------------------------------
+-----------------------------SGLKYTEITEGTGATPQKGQTVVVHYTGTLEDGTKFDSSrr
+NQpfKLGVGQVIKGWDEGLSTMQVGGRRELVIPPELGYGARGagVIPPNATLIFDVELLRI--------
+>P9303 19721 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 62.4 6e-11 1 48.8% 32.4% 127228 105209
+----------------------------------------------------------------------
+-----------------------------SGLSITDLKIGDGPEATAGQTVSVNYRGTLENGQEFDSSYK
+RGPFelGAGRVIKGWDEGVAGMKVGGKRKLVIPPELGYGSRGAgvIPGNATLIFEVELLGI--------
+>alr0577 FKBP-type peptidyl-prolyl cis-trans isomerase 1 61.6 6e-11 1 48.8% 33.3% 127228 59164
+----------------------------------------------------------------------
+-----------------------------SGLKYVEIEEGTGATPKSGQTVVVHYTGTLEDGTKFddRNR
+PFSFTIGVGQVIKGWDEGLSTMKVGGRRQLIIPSELGYGARGagVIPPYATLLFDVELLEV--------
+>ANA C13181 peptidylprolyl cis-trans isomerase 1 61.2 7e-11 1 48.8% 34.3% 127228 56161
+----------------------------------------------------------------------
+-----------------------------SGLKYVELVEGTGAIPQTGQTVEVHYIGTLEDGTKFDSSRD
+RgsFKIGVGQVIKGWDEGVITMKVGGRRQLIIPEQLGYGARGagVIPPYSTLIFDVELLGI--------
+>Cyagr 1286 FKBP-type peptidyl-prolyl cis-trans isomerase 1 62.4 8e-11 1 49.3% 34.0% 126228 116221
+----------------------------------------------------------------------
+----------------------------PSGLRITDLTLGEGPEAKSGQTVVVNYRGILTNGKEFDSSYG
+RGPFslGAGRVIRGWDEGVAGMKVGGKRKLVIPPDLAYGERGagVIPPNATLVFEVELLQI--------
+>Aazo 2895 Peptidylprolyl isomerase 1 61.2 9e-11 1 48.8% 37.3% 127228 60166
+----------------------------------------------------------------------
+-----------------------------SGLKYIELKKGDGltPERGQTVVVHYTGTLEDGTKFddHGQ
+PFSFKIGVGQVIKGWDEGLSTMKVGERRQLIIPSELGYGPRGsgVIPPFSTLIFDVELLDI--------
+>Cri9333 3037 peptidylprolyl isomerase FKBP-type 1 61.2 1e-10 1 49.3% 34.0% 127229 74180
+----------------------------------------------------------------------
+-----------------------------SGLKYVQLKEGDGATPKKGQTVVVHYTGTLENGEKFDSSrr
+NQPfkLGVGQVIKGWDEGLSTMKVGDRRKLIIPPELGYGARGAgvIPPNATLNFDVELLKIS-------
+>Tery 1467 Peptidylprolyl isomerase 1 61.6 1e-10 1 48.8% 32.4% 127228 96201
+----------------------------------------------------------------------
+-----------------------------SGLQYVDVVEGDGATPQRGQTVVVHYTGTLEDGSKFDSSrr
+NQPfkVGVGQVIKGWDEGVGSMKVGGRRKLIIPSDLGYGSRGagVIPPNATLIFDVELLRI--------
+>cce 3028 FKBP-type peptidyl-prolyl cis-trans isomerase 1 61.2 1e-10 1 64.6% 27.2% 78228 49187
+--------------------------------------------------ENTPDITQDTLMALNINN-K
+EITDMD----LENAVTTE-----------SGLKYIDLKEGDGESPETGQMVTVHYTGTLENGKKFDSSRD
+RgsFKIGVGQVIKGWDEGVASMKVGGQRILVIPPDLGYGARGagVIPPNATLIFDVELLGV--------
+>tlr1102 FKBP-type peptidyl-prolyl cis-trans isomerase 1 60.5 1e-10 1 49.3% 32.0% 126228 55161
+----------------------------------------------------------------------
+----------------------------PSGLQYEDIVVGSGAQPQVGDRVTVHYTGMLTDGRIFDSSrr
+GQpfQIGVGQVIKGWDEGVGSMHVGGQRRLIIPPNLGYGARGvgVIPPNATLIFDVELLGV--------
+>glr0841 FKBP-type peptidyl-prolyl cis-trans isomerase 1 60.5 1e-10 1 53.1% 33.3% 118228 46160
+----------------------------------------------------------------------
+--------------------QTPSYTTTTSGLKYLDETVGNGASPQKGQRVTVHYTGTLEDGKKFDSSrr
+GQPFSFtvGQVIQGWDEGVATMKVGGKRKLVVPANLGYGARGagVIPPNATLLFDVELLGV--------
+>AM1 1791 peptidylprolyl isomerase FKBP type 1 60.5 2e-10 1 48.8% 33.3% 127228 71176
+----------------------------------------------------------------------
+-----------------------------SGLQYRDLVEGTGEQPMLGQMVVVHYTGTLTDGSKFDSSrr
+GQPFsiGKGRVIKGWDEGVGTMKVGGRRELVIPPDLGYGSRGagVIPPNATLVFDVELLRI--------
+>SynWH7803 1741 FKBP-type peptidyl-prolyl cis-trans isomerase 1 60.8 2e-10 1 50.2% 34.3% 124228 91199
+----------------------------------------------------------------------
+--------------------------ITASGLRITDLVEGTGAEATSGQTVVVHYRGTLEDGRQFDASyr
+GTPFslGAGRVIKGWDEGVQGMKVGGKRKLVIPPDLGYGTRGagVIPPNATLIFEVELLEV--------
+>Pro 1367 FKBP-type peptidyl-prolyl cis-trans isomerase 1 60.8 2e-10 1 43.5% 31.9% 138228 103196
+----------------------------------------------------------------------
+----------------------------------------SGDEAASGKNVSVNYRGTLENGKEFDSSYG
+RAPFtlGAGRVIKGWDEGVAGMKVGGKRELTIPPSLGYGERGagVIPPNATLIFEVELLDV--------
+>GKIL 2779 peptidylprolyl isomerase 1 59.7 3e-10 1 49.3% 32.0% 126228 58163
+----------------------------------------------------------------------
+----------------------------PDGLKYLDEVVGTGATPKTGQKVTVHYTGTLEDGRKFDSSrr
+GQPFslGVGQVIKGWDEGVATMKVGGKRKLVIPPSLGYGARGIGPIPPNSTLLFDVELLGV--------
+>SynWH8103 01853 FKBP-type peptidyl-prolyl cis-trans isomerase 1 60.1 4e-10 1 49.3% 35.0% 124226 99205
+----------------------------------------------------------------------
+--------------------------ITASGLKIIELQVGEGAEAASGQTVSVHYRGTLENGKQFDASyr
+GTPFtlGAGRVIKGWDEGVVGMKVGGKRKLVIPPDLAYGSRGagVIPPNATLVFEVELL----------
+>EW14 1595 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 59.7 4e-10 1 44.5% 33.3% 136228 94189
+----------------------------------------------------------------------
+--------------------------------------NGEGDEASAGQTVTVNYTGTLEDGTQFDTSIG
+RAPFslGAGRVIKGWDEGVAGMKVGGKRQLTIPPELGYGSRGanVIPANATLIFEVELLKV--------
+>sync 0756 FKBP-type peptidyl-prolyl cis-trans isomerase 1 59.7 5e-10 1 42.1% 37.2% 135228 119210
+----------------------------------------------------------------------
+-------------------------------------EASSGQ------NVVVNYRGTLEDGKQFDSSyr
+GTPFelGAGRVIKGWDEGVQGMKVGGKRKLVIPPDLGYGQRGAgvIPPNATLIFEVELLDI--------
+>SynRCC307 1790 FKBP-type peptidyl-prolyl cis-trans isomeras 1 58.9 1e-09 1 49.3% 32.0% 126228 99205
+----------------------------------------------------------------------
+----------------------------PSGLKITDLVEGTGTEAQSGNTVSVNYRGTLTNGQEFDSSYR
+RNQAFTFpgRVIRGWDEGVMGMKEGGKRRLVIPPDLAYGSRGagVIGPNETLIFEIELVKV--------
+>SYNPCC7002 A1987 FKBP-type peptidyl-prolyl cis-trans isomerase 1 58.2 1e-09 1 48.8% 30.4% 127228 68173
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGASPMEGEMVTVHYTGKLTNGKVFDSSVK
+RnsFVIGVGQVIKGWDEGVITMKPGGKRTLIIPAELGYGSRGagVIPPNATLIFDVELLGI--------
+>MYAER 2554 FKBP-type peptidyl-prolyl cis-trans isomerase 1 57.8 1e-09 1 65.6% 28.0% 79228 28168
+---------------------------------------------------EKTNAIAAEIDPPAIT--Q
+TINKEIISMDLDQAVTTD-----------SGLKYIDIVEGTGETPQKGQKVTVHYTGTLTDGKKFDSSkr
+NQPFTFtvGQVIKGWDEGVASMKVGGQRTLIIPPELGYGARGagVIPPNATLLFDVELLGV--------
+>A9601 14921 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 58.2 2e-09 1 45.0% 31.9% 136229 94190
+----------------------------------------------------------------------
+--------------------------------------NGEGDEASAGQTVTVNYTGTLEDGTQFDTSIG
+RAPFslGAGRVIKGWDEGVAGMKVGGKRKLTIPPELGYGSRGanVIPANATLIFEVELLKVN-------
+>VL20 6402 FKBP-type peptidyl-prolyl cis-trans isomerase 1 57.4 2e-09 1 57.9% 28.0% 97228 44168
+---------------------------------------------------------------------Q
+TINKEIISMDLDQAVTTD-----------SGLKYIDIVEGTGESPQKGQKVTVHYTGTLTDGKKFDSSkr
+NQPFTFtvGQVIKGWDEGVASMKVGGQRTLIIPPELGYGARGagVIPPNATLLFDVELLGV--------
+>Syn6312 0383 FKBP-type peptidyl-prolyl cis-trans isomerase 1 57.8 2e-09 1 49.3% 33.0% 126228 76182
+----------------------------------------------------------------------
+----------------------------PSGLKYRDIKVGTGVEPKKGQVVVVDYTGTLTNGKTFDSSrr
+GQPFQFtvGQVIKGWDEGVGTMRVGGRRELIIPANLAYGSRAvgVIPANSTLVFDVELLGV--------
+>PMT9312 1389 Peptidylprolyl isomerase 1 57.8 2e-09 1 44.5% 32.3% 136228 94189
+----------------------------------------------------------------------
+--------------------------------------NGEGDEASAGQTVTVNYTGTLEDGTKFDTSIG
+RAPFslGAGRVIKGWDEGVVGMKVGGKRKLTIPPELGYGSRGanVIPANATLIFEVELLKV--------
+>P9301 14781 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 57.4 3e-09 1 44.5% 32.3% 136228 94189
+----------------------------------------------------------------------
+--------------------------------------NGEGDEANAGQTVTVDYTGTLEDGTQFDTSIG
+RAPFslGAGRVIKGWDEGVAGMKVGGKRKLTIPPELGYGKRGanVIPANATLIFEVELLKV--------
+>Syn7502 01199 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 4e-09 1 49.8% 31.7% 126229 58165
+----------------------------------------------------------------------
+----------------------------PSGLKYQEITIGTGAIPKQGNKVTVHYIGTLENGTKFddRNR
+PFDFNLGVGQVIKGWDEGLSTMRVGGRRILIIPPELGYGARGagVIPPNATLIFDVELLKVS-------
+>AOY38 02480 peptidylprolyl isomerase 1 56.6 4e-09 1 48.8% 34.3% 127228 70175
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>D082 28980 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 4e-09 1 48.8% 34.3% 127228 78183
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>PMM1293 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 57.0 5e-09 1 44.5% 31.2% 136228 94189
+----------------------------------------------------------------------
+--------------------------------------NGEGDEANSGQTVSVNYTGTLEDGTQFDTSIG
+RGPFslGAGRVIKGWDEGVAGMKVGGKRKLTIPPELGYGSRGanVIPANATLIFEVELLKV--------
+>MYO 14880 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>SYNPCCP 0482 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>SYNPCCN 0482 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>SYNGTI 0482 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>SYNGTS 0482 FKBP-type peptidyl-prolyl cis-trans isomerase 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>slr1761 FKBP-type peptidyl-prolyl cis-trans isomerase periplasmic protein 1 56.6 5e-09 1 48.8% 34.3% 127228 95200
+----------------------------------------------------------------------
+-----------------------------SGLQYIDEVVGEGPSPTKGQKVEVHYTGRLTDGTKFDSSvr
+NKPFTFtvGQVIKGWDEGVATMQVGGKRKLIIPPDLAYGSRGagVIPPNATLEFEVELLGI--------
+>MAE 54380 FKBP-type peptidyl-prolyl cis-trans isomerase 1 55.8 7e-09 1 57.9% 28.0% 97228 44168
+---------------------------------------------------------------------Q
+TINKEIISMDLDQAVTTD-----------SGLKYIDIVEGTGETPQKGQKVTVHYTGTLTDGKKFDSSkr
+NQPFTFtvGQVIKGWDEGVASMKVGGQRTLIIPPELGYGARGagVIPANATLLFDVELLAV--------
+>Lepto7376 2914 Peptidylprolyl isomerase 1 55.8 9e-09 1 48.8% 32.4% 127228 79184
+----------------------------------------------------------------------
+-----------------------------SGLRYTEDVAGEGDFPMEGEMVTVHYTGKLLNGKVFDSSrr
+NEPFsiGVGQVIKGWDEGVMAMNPGAKRTLIIPSDLAYGSRGagVIPPDATLVFDVELLKI--------
+>P9215 15211 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 55.5 1e-08 1 45.0% 30.9% 136229 94190
+----------------------------------------------------------------------
+--------------------------------------NGEGDEANAGQTVTVNYTGILEDGTQFDTSIG
+RAPFslGAGRVIKGWDEGVAGMKVGGKRKLTIPPELGYGSRGanVIPANATLIFEVELLKVN-------
+>P9515 14541 FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase) 1 55.1 2e-08 1 44.0% 31.5% 137228 95189
+----------------------------------------------------------------------
+---------------------------------------GEGDEANSGQTVTVNYTGILEDGTQFDTSIG
+RAPFslGAGRVIKGWDEGVAGMKVGGKRKLTIPPELGYGTRGanVIPANATLIFEVELLKV--------
+>Cyan7425 3860 peptidylprolyl isomerase FKBP-type 1 53.9 4e-08 1 49.3% 34.0% 126228 52158
+----------------------------------------------------------------------
+----------------------------PSGLKYRDLVVGTGAMPKRGQQVIVQYTGTLMNGTKFDSSrr
+GQpfRIGVGQVIKGWDEGVGTMRVGGQRELVIPPDLAYGSRAvgVIPANSTLKFDVELLGI--------
+>Cyan10605 2818 Peptidylprolyl isomerase 1 50.4 8e-07 1 76.6% 27.3% 68228 16184
+----------------------------------------LFLIGSFFLNQGKTRAIAEEMSQTNATLTQ
+DVSKIASASQLQSTGNMDIDLSKAE-TTSTGLMYIEQEAGNGETPTRGKKVVVHYTGYLAegKKFDSSrr
+NQPFSFtvGQVIKGWDEGVAKMSVGTKSTLIIPPDLGYGARGagVIPPNSTLIFDVELLDI--------
+>Cyast 0129 Peptidylprolyl isomerase 1 48.5 4e-06 1 45.0% 33.0% 135228 79181
+----------------------------------------------------------------------
+-------------------------------------EAGEGDSPTRGQKVTVHYTGYLAegKKFDSSkr
+NQPFTFtvGQVIKGWDEGVANMKVGDKTTLIIPPDLGYGARGagVIPPNATLIFDVELLGI--------
+>Dacsa 3406 FKBP-type peptidyl-prolyl cis-trans isomerase 1 43.9 9e-05 1 29.2% 34.4% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DTVKVHYKGKLADGTVFDSSEG
+RDPLeiGEGQIIPGFEQAVIGMAPGESKTAEIPSEEAYG------------------------------
+>KR100 12065 hypothetical protein 1 45.1 1e-04 1 49.8% 31.7% 133236 12143
+----------------------------------------------------------------------
+-----------------------------------VLRSSKGAKVSKGDNLLVNYAGTFLDGEQFDANyq
+SSPFdiGAGQVIEGWDKGLNGRRIGEVLELTIPADQAYGEEGsgGIPPNSPLRFTVELLATIPEGKQTP
+>Ple7327 3613 FKBP-type peptidyl-prolyl cis-trans isomerase 1 43.5 1e-04 1 30.1% 36.5% 144206 670
+----------------------------------------------------------------------
+----------------------------------------------PGDTVKVHYTGKLDDGTVFDSSAT
+RDPLQFSIGevIPGFEQAAIGMSPGDSKTVTIPAEQAYG------------------------------
+>Cyan8802 1389 peptidylprolyl isomerase FKBP-type 1 42.7 2e-04 1 29.2% 34.4% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DQVTVNYTGKLDDGTIFDSSID
+RDPLQFSLGevIPGFEEAVTGMSPGDTKTVTIPCNQAYG------------------------------
+>PCC8801 1359 peptidylprolyl isomerase FKBP-type 1 42.4 3e-04 1 29.2% 34.4% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DQVTVNYTGKLDDGTIFDSSID
+REPLQFSLGevIPGFEEAVTGMSPGDTKTVTIPCNQAYG------------------------------
+>Mic7113 0341 FKBP-type peptidyl-prolyl cis-trans isomerase 1 42.0 4e-04 1 29.2% 36.1% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DTVKIHYTGKLDDGTVFDSSVN
+REPLEFtqGQVIPGFEEAVMGMTPGESKTQKIPVDQAYG------------------------------
+>Riv7116 1000 FKBP-type peptidyl-prolyl cis-trans isomerase 1 42.0 5e-04 1 34.4% 30.4% 146224 881
+----------------------------------------------------------------------
+------------------------------------------------DNVKVHYTGKLDDGTVFDSSAE
+REPLQFssGNVIPGFEEAIVGMAPGESKTATIPADQAYG-------PQREELVITVE------------
+>GEI7407 3637 peptidylprolyl isomerase FKBP-type 1 41.2 8e-04 1 29.2% 32.8% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DTVRVHYTGKLVDGTIFDSSSN
+RDPLeiGSGGIIPGFEQAVIGMNPGDSKTTHIPADQAYG------------------------------
+>PCC7418 3856 peptidylprolyl isomerase FKBP-type 1 40.8 0.001 1 29.2% 32.8% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------NTVQVHYTGKLADGTVFDSSEG
+REPLeiGEGQIIPGFEQAVIGMDEGESKTAEIPSEEAYG------------------------------
+>cce 3724 putative FKBP-type peptidyl-prolyl cis-trans isomerase 1 40.8 0.001 1 29.2% 32.8% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DTVKVNYTGKLQDGTVFDSSVN
+RDPLQFsqGQVIAGFEEAIVGMSPGDNKSVTIPSEQAYG------------------------------
+>Cal6303 3983 peptidylprolyl isomerase FKBP-type 1 40.4 0.001 1 29.2% 34.4% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DTVTVHYTGKLSDGTVFDSSNG
+GDPLEFteGELIAGFENAVVGMNTGETKTAEIPVEQAYG------------------------------
+>Oscil6304 2593 FKBP-type peptidyl-prolyl cis-trans isomerase 1 38.1 0.009 1 34.4% 30.4% 146224 881
+----------------------------------------------------------------------
+------------------------------------------------DMVKVHYTGKLDDGTVFDSSID
+RDPLEFVLGelIAGFEQAVLGMTPGESKTEKIPADEAYG-------PHRQEMVVEVE------------
+>Cyan7822 4661 peptidylprolyl isomerase FKBP-type 1 37.7 0.011 1 29.2% 31.1% 146206 870
+----------------------------------------------------------------------
+------------------------------------------------DQVKVHYTGKLDNGEIFDSSVE
+RTPLeiGKQEVIPGFEEAVIGMSPGDSKTVKIPSEEAYG------------------------------
+>Chro 0598 hypothetical protein 1 38.5 0.018 1 27.3% 33.3% 2890 228288
+ALVLLFCTKLKDITEFVKYSIGafIAVWLANNGFLAWSVDMTLEGM------KLKLVGFSIIP-------
+----------------------------------------------------------------------
+---------------------------------------------------------------------
+>AM1 2617 peptidyl-prolyl cis-trans isomerase FKBP-type 1 37.0 0.023 1 25.8% 38.9% 146199 864
+----------------------------------------------------------------------
+------------------------------------------------DTVSIHYTGKLDDGSVFDSSLE
+REPLkiGGQQVIPGFEQaiGMNPGESKTETIV-------------------------------------
+>Chro 1444 glutamate dehydrogenase (NADP) 1 32.3 1.9 1 23.0% 30.6% 56104 353400
+----------------------------LANAGGVVVSYLEWVQGLSYVFWDEER-VNRELEHLMVQAYQ
+QVSQKSR---------------------------------------------------------------
+---------------------------------------------------------------------
+>alr5189 two-component sensor histidine kinase 1 30.4 7.4 1 26.3% 29.1% 3892 298354
+----------TTFNDMMDRLQNAFISqfINDAGHELRTPITIIRGHLELMGNDPKEIQETLTIVI-----
+----------------------------------------------------------------------
+---------------------------------------------------------------------
+>Sta7437 3455 hypothetical protein 1 30.4 7.5 1 10.0% 69.6% 7799 439459
+-------------------------------------------------FQKVER--PDLVVPVMIEAYQ
+QV--------------------------------------------------------------------
+---------------------------------------------------------------------
+>Ava 2439 Periplasmic Sensor Signal Transduction Histidine Kinase 1 30.4 8.9 1 26.3% 29.1% 3892 298354
+----------TTFNDMMDRLQNAFISqfINDAGHELRTPITIIRGHLELMGNDPKEIQETLTIVI-----
+----------------------------------------------------------------------
+---------------------------------------------------------------------
+>Tery 4534 hypothetical protein 1 29.6 9.1 1 23.0% 27.1% 174221 144191
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------NSSRLIEKIEEILLKLPIGSKYEGYINATTDLKSLNLKIRTPNDELVI---------------
+>PCC8801 1194 conserved hypothetical protein 1 29.6 9.9 1 21.1% 38.6% 146189 245
+----------------------------------------------------------------------
+------------------------------------------------ETITIGKYLTLADFCTCTNTYN
+KYPDKIDPWPKNPQTIQAIQAL-----------------------------------------------

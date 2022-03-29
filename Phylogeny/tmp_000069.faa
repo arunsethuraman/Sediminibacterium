@@ -1,0 +1,644 @@
+>Lyngbya extdbtmp 000069 membrane protein insertase YidC 1 100.0% 100.0% 220615
+ERSAEYERQMSNICFSEDNEFDYISVNTEKQFEKPVQWVSVVQQFFNHTLIAKNNFNTGDVKWQRKTDTT
+NSLATTETNLQMKLPVAAAVTVPFQLYYGPSDYAILKKQAPEMDRIVNLGRDMYSFVRPINKYIIMPVFD
+FFAGFVTNYGWVVLLLTLFIRLVTSPLTYSSYLSGAKMKALRPELDTMREKFGDDKQGFAMEQMKLFREA
+GVNPLGGCIPALLQIPIFFALYSFFNANIELRGQSFLWSDDLSSYDVIATLPFSIPLGFGDHISLFTITA
+VITSFLISIYNMSMTPTQDNPMLKYMPYIFPFILLFIFNRLPSALTWYYTVSNLVTLGLQFVIQNYIINH
+DLILAKIDEKRKAPKKKSKWQERYEQMMESQKKLQDLKEKNQKRNK
+>CYA 1785 inner membrane protein OxaA 1 95.5 4e-20 1 27.0% 41.6% 353465 12122
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIIFLTLVIRFALYPLNVGSIRNMRRMKVINprMREIQEKYRDDPQKLREAQAKLYSEL
+GVNPLGGCLPLLIQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>CYB 2241 inner membrane protein OxaA 1 94.7 7e-20 1 27.0% 40.7% 353465 12122
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIIFLTLVIRFALYPLNVGSIRNMRRMKVISprMRELQEKYRDDPQKLREAQAKLYSEL
+GANPLGGCLPLLIQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PMT 1371 Putative inner membrane protein; similar to 60 kDa inner membrane protein family 1 88.2 9e-18 1 36.4% 40.4% 349499 5185
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNILLPILD
+FFYGLVPSYGLAIVALTVVIRLALFPLSAGSIRSARRMRIAQPAmdEIKSRYAKDPQKQQEELGKVMKEF
+G-NPLSGCLPLLVQMPILFALFA------TLRGSPflPSDQIAafPVIASLPSGTKLGVGdqIKLQTLTG
+----------------------------------------------------------------------
+----------------------------------------------
+>AM1 3092 inner membrane protein OxaA putative 1 87.0 3e-17 1 29.0% 39.3% 344465 2120
+----------------------------------------------------------------------
+------------------------------------------------------NFIGFISDNIMLPILD
+FFYGIVPSYGLAIVALTLVIRSVLYPVSAGQIRNMRRMKVSQPVMqeLQERYKDDPAKLQEEQTKLFKEF
+G-NPLAGCFPLLIQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Dacsa 2045 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 85.9 5e-17 1 28.8% 37.2% 349469 8125
+----------------------------------------------------------------------
+-----------------------------------------------------------ISNNIMLPILD
+FFHGIVPSYGFAIIALTLVIRFALYPLSAKSIRSMRRMRVAQpkVKEVQERYKDDPEKQRQEMSAVYKEY
+G-NPLAGCFPVILQMPILFALFA------TLRGSPFADVD------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>M744 09155 protein translocase component YidC 1 85.1 1e-16 1 33.3% 38.1% 353491 12178
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGLVPSYGLAIIALTLVIRIALYPLSAGAIRNARRMRIANPVmqEIRERYANDPSKLQEETAKLFKEF
+G-NPLAGCFPLLLQMPLLFALFA------TLRGSPfvFVADGVHYRVAAVLPAGTQLGVGDR--------
+----------------------------------------------------------------------
+----------------------------------------------
+>Synpcc7942 1617 inner membrane protein-like 1 85.1 1e-16 1 33.3% 38.1% 353491 12178
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGLVPSYGLAIIALTLVIRIALYPLSAGAIRNARRMRIANPVmqEIRERYANDPSKLQEETAKLFKEF
+G-NPLAGCFPLLLQMPLLFALFA------TLRGSPfvFVADGVHYRVAAVLPAGTQLGVGDR--------
+----------------------------------------------------------------------
+----------------------------------------------
+>syc0074 d preprotein translocase YidC subunit 1 85.1 1e-16 1 33.3% 38.1% 353491 12178
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGLVPSYGLAIIALTLVIRIALYPLSAGAIRNARRMRIANPVmqEIRERYANDPSKLQEETAKLFKEF
+G-NPLAGCFPLLLQMPLLFALFA------TLRGSPfvFVADGVHYRVAAVLPAGTQLGVGDR--------
+----------------------------------------------------------------------
+----------------------------------------------
+>ANA C13240 60Kd inner membrane insertion protein 1 84.7 1e-16 1 26.8% 38.9% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYGFVPSYGLAIVALTLIIRFALYPLSAGSIRSMRRMKVVQprMAEIKERYKDDQQKQQEEMLKVQNEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>AA650 09145 protein translocase component YidC 1 84.3 1e-16 1 36.4% 35.2% 353497 12166
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYGFVPSYGLAIVALTLIIRFALYPLSAGSIRSMRRMRVVQprMAEIKERYKDDQQKQQEEMLKVQSEF
+G-NPLAGCLPLLLQMPVLLALFafSGVNYSVNLQIFPQEeeRIQPQAFATPPQNIYIADGDHTPISAI--
+----------------------------------------------------------------------
+----------------------------------------------
+>P9303 06091 Putative inner membrane protein 1 84.3 2e-16 1 36.4% 39.7% 349499 5185
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNILLPILD
+FFYGLVPSYGLAIVALTVVIRLALFPLSAGSIRSARRMRIAQPAmdEIKSRYAKDPQKQQEELGKVMKEF
+G-NPLSGCLPLLVQMPILFALFA------TLRGSPflPSDQIAafPVIASLQSGTKLGVGdqIKLQTLTG
+----------------------------------------------------------------------
+----------------------------------------------
+>Anacy 2824 membrane protein insertase YidC/Oxa1 family 1 84.0 2e-16 1 35.6% 36.4% 353503 12169
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYGIVPSYGLAIVALTLIIRFALYPLSAGSIRSMRRMRIVQprMAEVKERYKDDAQKQQEEMVNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPFaySVNLQVfqAFATPPQNIYIADGDHTK---ITA
+ILPS------------------------------------------------------------------
+----------------------------------------------
+>Cyast 0731 membrane protein insertase YidC/Oxa1 family 1 84.0 2e-16 1 27.8% 39.3% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFGIVALTLVVRFAVYPLSAGQIRNMRKMRITQPLmdEIRKKYKDNPQKQQEEMGKIMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PCC7418 0897 membrane protein insertase YidC/Oxa1 family 1 82.8 5e-16 1 27.3% 40.2% 353469 12125
+----------------------------------------------------------------------
+---------------------------------------------------------------IMLPILD
+FFHGIVPSYGFAIIALTLVIRFALYPLSATSIRSMRRMRVAQPAMqeVQERYKDdkQRAAMSE--VYKEY
+G-NPLSGCFPVILQMPILFALFA------TLRGSPFADVD------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cyan7425 5265 60 kDa inner membrane insertion protein 1 82.4 8e-16 1 26.8% 38.9% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRLALYPLSAGSIRNMRQMKIVQpkVKEIQEKYKNDPTGQQQAMSEVYKEF
+G-NPLAGCFPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>UCYN 03100 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 81.6 1e-15 1 27.8% 40.2% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFSIIALTLVIRLALYPLSAGQIRNMRKMKITQPLMKERQerYKDDSAKQQEEMGKLMKEF
+G-NPLAGCLPLVLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>IJ00 24875 protein translocase component YidC 1 81.6 1e-15 1 26.8% 38.1% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYGFVPSYGLAIVALTLIIRFALYPLSAGSIRNMRRMKIVQprMQEIKERYKDDTPKQQEEMMKVQQEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Aazo 0687 membrane protein insertase YidC/Oxa1 family 1 81.6 1e-15 1 35.6% 35.1% 353503 12169
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYGFFPSYGLAIVALTLIIRFALYPLSAGSIRSMRRMRVVQprMAEIKERYKDDPQKQQEEMVNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPflPAEQIERiqAFATAPQNIYIADGEHTK---ITA
+ILPS------------------------------------------------------------------
+----------------------------------------------
+>Ple7327 1264 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 81.6 1e-15 1 27.8% 39.3% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeQIQKRYKDDPAKQQEEMGKLMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PMT9312 1287 putative inner membrane protein 1 80.9 2e-15 1 27.8% 37.6% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMKtiKSKFSGDPKKQQEELGKLMNEF
+G-SPLAGCLPLIVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cyan10605 1140 membrane protein insertase YidC/Oxa1 family 1 80.5 3e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFGIIALTLVVRFAVYPLSAGQIRNMRKMRITQPLMkeIQKKYKDNPQKQQEEMGKLMQEL
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Sta7437 2499 membrane protein insertase YidC/Oxa1 family 1 80.5 3e-15 1 27.8% 37.6% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISNNIMLPILD
+FFYGIVPSYGFAIIALTLVVRFAVFPLSAGQIRNMRKMKIVQPLmeEIQKRYKNDPAKQQEEMGKLMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Tery 4710 60 kDa inner membrane insertion protein 1 80.5 3e-15 1 27.5% 39.3% 349465 8120
+----------------------------------------------------------------------
+-----------------------------------------------------------ISNNIMLPILD
+FFYGIVPSYGLAIVALTLVIRASLYPLNAGSIRNMRKMKVTQPLmeEIQKRYKDDPQKQQEEMGKLMKE-
+-FNPLAGCLPLLFQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cyan8802 4099 60 kDa inner membrane insertion protein 1 80.1 3e-15 1 27.8% 40.2% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFAIIALTLVIRFGLYPLSAGQIRNMRKMKITQPLMKERQerYKDDPAKQQEEMGKLMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PCC8801 4060 60 kDa inner membrane insertion protein 1 80.1 3e-15 1 27.8% 40.2% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFAIIALTLVIRFGLYPLSAGQIRNMRKMKITQPLMKERQerYKDDPAKQQEEMGKLMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>sync 2095 Inner membrane protein oxaA 1 80.1 4e-15 1 35.1% 35.6% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTVVIRLALFPLSAGSIRSARRMRIAQPVMqeIKARYANDPQKQQAELGKLMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPADQIAAVeiVASLPGGTKLGTGDSVPI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>glr2231 hypothetical protein 1 80.1 4e-15 1 30.3% 34.6% 353479 12135
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FLYRIVPNYGVGIVLLTLIVKGLLWPLTAGSIRSMRKMQVVQPEMqeIQEKYKNEPERMQQEMAGLYKEY
+G-NPLAGCLPLVVQMPILFALFA------TLRGSPFADTVHMATVQVKPT--------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Nos7107 0200 membrane protein insertase YidC/Oxa1 family 1 80.1 4e-15 1 35.6% 34.4% 353503 12169
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYGILPSYGLAIVALTLIVRFALYPLSAGSIRNMRRMKIVQprMQEIKERHKDDPQKQQEEMMNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPflPSEQIERiqAFATAPQNIYVADGEH---HKVTA
+ILPS------------------------------------------------------------------
+----------------------------------------------
+>AOY38 08655 preprotein translocase YidC 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>MYO 116850 inner membrane protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SYNPCCP 1668 inner membrane protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SYNPCCN 1668 inner membrane protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SYNGTI 1669 inner membrane protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SYNGTS 1669 inner membrane protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>slr1471 hypothetical protein 1 80.1 4e-15 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFGIVHSYGFAIIALTLVIRLGLYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>D082 01090 Inner membrane protein translocase component YidC short form OxaI-like 1 79.7 5e-15 1 26.5% 38.4% 354465 1109
+----------------------------------------------------------------------
+----------------------------------------------------------------MLPILD
+FFFGIVHSYGFAIIALTLVIRLALYPLSAGQIRNMRKMRITQPLmeEIQKRYKDDPAKQQEEMAKVMKEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>GEI7407 3401 membrane protein insertase YidC/Oxa1 family 1 79.3 7e-15 1 26.8% 37.2% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLSAGSIRSMRRMRVAQprVKEIQERYKSDPAKQQEEMSKIYKEF
+G-NPLAGCFPILLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SynRCC307 0637 Preprotein translocase subunit YidC 1 79.3 8e-15 1 27.8% 36.8% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNVLLPILD
+FFYGLVPSYGLAIIALTVVIRLALFPLSAGSIRNARRMRIAQPVMqeIRSKFANNPSKQQEEMGKLMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Mic7113 5941 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 79.0 8e-15 1 26.8% 38.1% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALFPLNAGSIRNMRRMRITQPLMKKRQEeyKDDPAKQQEEMSKLFKEF
+G-NPLAGCLPVVLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>A9601 13791 Putative inner membrane protein 1 79.0 9e-15 1 36.6% 34.9% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSGDPKKQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFAtyNINLKVVPQDQIAAIDpsHFPVVATIPNGTKLGTEDSIKI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>Cal7507 3348 membrane protein insertase YidC/Oxa1 family 1 79.0 1e-14 1 26.8% 35.4% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYGILPSYGLAIVALTLIVRFALYPLSAGSIRNMRKMRVVQprMAEIKERYKDDPQKQQEEMVNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>P9215 14001 Putative inner membrane protein 1 78.6 1e-14 1 36.6% 34.9% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSGDPKRQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFAtyNINLKVVPQDQIATIDpsHFPVIATIPNGTKLGTEDSVKI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>Syn6312 3759 preprotein translocase subunit YidC 1 79.0 1e-14 1 26.3% 40.7% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFAVYPLSAGSIRSMRRMKIVQprVKDIQERYKSdkQQQAMSE--VYKEF
+G-NPLAGCFPLLLQLPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>tll0600 hypothetical protein 1 79.0 1e-14 1 36.9% 34.4% 353503 12167
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVVRFAVYPLSAGSIRNMRRMKVVQprMQEIQQKYKDNPAEQQKAMAEVYREF
+G-NPLAGCFPLLLQLPILFALFafADVNYQINLQ-IVPPDQPVLAQPFATKPQNIYVDEGVH---FPIQA
+VVPS------------------------------------------------------------------
+----------------------------------------------
+>Nos7524 3607 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 78.6 1e-14 1 26.8% 36.3% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYGIVPSYGLAIVALTLIIRFALYPLSAGSIRNMRRMRIVQprMAEVKERYKDDPQKQQEEMMNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PCC7424 0894 60 kDa inner membrane insertion protein 1 78.6 1e-14 1 37.9% 35.8% 349499 8186
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYRIVPSYGFAIIALTLVIRFALYPLSAGQIRNMRKMRITQPLmeEIQKRYKNDPQKQQEEMGKLMQEF
+G-NPLAGCLPLLVQMPILFALFATLRGsievQPQTfiYVNDGVHYPIAALLPGGNKLGVGDSTAVELQTA
+----------------------------------------------------------------------
+----------------------------------------------
+>cce 1364 putative 60 kD inner membrane insertion protein 1 78.6 1e-14 1 27.8% 38.5% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYGIVPSYGFAIIALTLVIRFGLYPLSAGQIRNMRKMRITQPLMkeIQRRYKDDPTKQQEEMGKLMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>NATL1 16601 Putative inner membrane protein 1 78.6 1e-14 1 35.1% 36.3% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTIVIRLALFPLSAGSIRSARRMKIAQPVMqeIKSRYASNPQKQQEELGKLMGEF
+G-SPLAGCLPLIVQMPILFALFA------TLRGSPflPSDQIAafPVIAALPGGTKIGSGDSVKI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>PMN2A 0805 preprotein translocase subunit YidC 1 78.6 1e-14 1 35.1% 36.3% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTIVIRLALFPLSAGSIRSARRMKIAQPVMQkiKSRYASNPQKQQEELGKLMGEF
+G-SPLAGCLPLIVQMPILFALFA------TLRGSPflPSDQIAafPVIAALPGGTKIGSGDSVKI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>EW15 1716 Inner membrane protein translocase component YidC 1 78.6 1e-14 1 35.1% 36.3% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTIVIRLALFPLSAGSIRSARRMKIAQPVMQkiKSRYASNPQKQQEELGKLMGEF
+G-SPLAGCLPLIVQMPILFALFA------TLRGSPflPSDQIAafPVIAALPGGTKIGSGDSVKI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>SynWH7803 1901 Preprotein translocase subunit YidC 1 78.6 1e-14 1 35.1% 35.6% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLLPILD
+FFYGLVPSYGLAIVALTVVIRLALFPLSAGSIRSARRMRIAQPVMqeIKARFASNPQKQQEELGKLMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPAEQIAAVdvIASLPGGTKIGAGENVQI-----
+----------------------------------------------------------------------
+----------------------------------------------
+>PMM1186 Putative inner membrane protein; similar to 60 kDa inner membrane protein family 1 78.2 1e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSSDPKKQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SYNPCC7002 A0991 inner membrane protein YidC/OxaA 1 78.6 1e-14 1 26.3% 39.8% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGFAIIALTLVIRFAVYPLSAKSIRSMRRTKITQprVKEIQERYKNdkQQAAMSE--VYKEF
+G-NPLAGCLPILLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>P9515 13581 Putative inner membrane protein 1 78.2 2e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSGDPKKQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Oscil6304 1926 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 78.2 2e-14 1 26.8% 35.4% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLSAGSIRSMRRMRVAQprVKEIQERYKEEPAKQQEEMSKVYKEF
+G-NPLSGCLPVVLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>P9301 13871 Putative inner membrane protein 1 78.2 2e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSGDPKKQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>KR49 11960 preprotein translocase subunit YidC 1 78.2 2e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRIALYPLSAGSIRSARRMRIAQPVMQkiKSRYADNPQKQQEELGKVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Syncc9605 0577 putative inner membrane protein; similar to 60 kDa inner membrane protein family 1 77.8 2e-14 1 35.1% 34.9% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRIALYPLSAGSIRSARRMRIAQPVIqeIRSRYANNPQKLQEELGNVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPADQIAAVevIASLPRGTKIGVGDSATV-----
+----------------------------------------------------------------------
+----------------------------------------------
+>EW14 1435 Inner membrane protein translocase component YidC 1 77.8 2e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISEKLLIPILD
+FFYGLVPSYGLAIVALTVVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSKFSGDPKRQQEELGKLMNEF
+G-SPLAGCLPLIVQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Riv7116 0179 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 77.8 2e-14 1 35.6% 36.6% 353494 12181
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYSIVPSYGLAIIALTLIIRFSLYPLSAGSIRNMRKMKIVQprMAEVKEKYKDDPQKQQEEMMSVQKEF
+G-NPLAGCAPLILQMPVLLALFAtyNVNLQirIqsSIYVDEGERIKVAAILPGGNKLAVGEHTKL-----
+----------------------------------------------------------------------
+----------------------------------------------
+>Lepto7376 3206 membrane protein insertase YidC/Oxa1 family 1 77.8 2e-14 1 26.3% 39.8% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGFAIIALTLVIRFAVYPLSAKSIRSMRRTKITQprVKEIQERFKNekQQEAMSQ--VYKEF
+G-NPLAGCLPIVLQMPILFALFA------TLRGTPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Npun R1585 60 kDa inner membrane insertion protein 1 77.8 2e-14 1 36.1% 32.4% 353497 12166
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYGIVPSYGLAIVALTLIVRFALYPLSAGSIRNMRKMRIVQprMAEIKERYKDEPQKQQEEMVNVQKEF
+G-NPLAGCFPLLVQMPVLLALFafASANYSVNLQ-ILPAEQIEQiqAFATAPQNIYVADGEHVKVAAI--
+----------------------------------------------------------------------
+----------------------------------------------
+>KR100 04470 preprotein translocase subunit YidC 1 77.8 2e-14 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRVALYPLSAGSIRSARRMRIAQPVIqeIKSRYADNIQKQQQELGKVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cri9333 2736 membrane protein insertase YidC/Oxa1 family 1 77.8 2e-14 1 26.8% 36.3% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLSAGSIRNMRKMRVVQprMQEVKEKYKDNPAKQQEEMVAVQKEF
+G-NPLAGCFPVLVQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cyan7822 2796 membrane protein insertase YidC/Oxa1 family 1 77.4 3e-14 1 27.8% 36.8% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFYRIVPSYGFAIIALTLVIRFALYPLSAGQIRNMRKMRITQPLmeEIQKRYKNDPQKQQEEMSKIMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>alr3415 hypothetical protein 1 77.4 3e-14 1 26.8% 36.3% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYSVVPSYGLAIVALTLIIRFALYPLSAGQIRNMRKMRIVQprMAEIKERYKDDPQKQQEEMMNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Ava 3435 60 kDa inner membrane insertion protein 1 77.4 3e-14 1 26.8% 36.3% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+FFYSVVPSYGLAIVALTLIIRFALYPLSAGQIRNMRKMRIVQprMAEIKERYKDDPQKQQEEMMNVQKEF
+G-NPLAGCLPLLLQMPVLLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cal6303 4358 membrane protein insertase YidC/Oxa1 family 1 77.4 3e-14 1 27.8% 35.0% 353469 12125
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPIID
+LFYSLVPSYGLAIVALTLVIRLALYPLSAGSIRNMRKMRIVQprMQEIKERYKDDPPKQQEEMMKTQQEF
+G-NPLAGCLPLVLQMPVLLALFA------TLRGSPFAGAN------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Chro 0258 membrane protein insertase YidC/Oxa1 family 1 76.6 6e-14 1 26.8% 34.5% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLSAGSIRTMRRTRVTQprVKEIQERYKDNPAKMQEEMGAVYKEF
+G-NPLAGCLPVLLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>MAE 04020 inner membrane protein 1 75.9 9e-14 1 27.8% 35.9% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFRIVHSYGFAIIALTLVVRFAVFPLSAGQIRNMRKMRITQPLMkeIQQRYKNDPQKQQEEMGKLMQEL
+G-NPLAGCLPLLLQMPILLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Osc7112 0228 membrane protein insertase YidC/Oxa1 family 1 75.9 1e-13 1 26.8% 36.3% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------LMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLNAGSLRNMRRMKVAQprVDQIQKLYKDNPAKQQEEMSKVYKEF
+G-NPLAGCFPLVLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Syncc9902 1787 putative inner membrane protein; similar to 60 kDa inner membrane protein family 1 75.9 1e-13 1 27.8% 35.0% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRVALYPLSAGSIRSARRMRIAQPVMQkiKARYASNPQKQQEELGKVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Cyagr 1309 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 75.9 1e-13 1 27.8% 35.9% 349465 5118
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLLPILD
+FFYGLVPSYGLAIVALTVVIRLALFPLSAGSIRSARRMRIAQPVMqeIKAKYANNPQKQQEELGGLMKEF
+G-SPLSGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>VL20 1238 Inner membrane protein translocase component YidC short form OxaI 1 75.9 1e-13 1 27.8% 35.9% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFRIVHSYGFAIIALTLVVRFAVFPLSAGQIRNMRKMRITQPLMkeIQQRYKNDPQKQQEEMGKLMQEL
+G-NPLAGCLPLLLQMPILLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>MYAER 1293 Inner membrane protein translocase component YidC short form OxaI-like 1 75.5 1e-13 1 27.8% 35.9% 349465 8121
+----------------------------------------------------------------------
+-----------------------------------------------------------ISTNIMLPILD
+FFFRIVHSYGFAIIALTLVVRFAVFPLSAGQIRNMRKMRITQPLMkeIQQRYKNDPQKQQEEMGKLMQEL
+G-NPLAGCLPLLLQMPILLALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>SynWH8103 02148 preprotein translocase subunit YidC 1 75.5 1e-13 1 35.1% 34.9% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTIVIRVALYPLSAGSIRSARRMRIAQPVIqeIKSRYANNLQKQQEELGKVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPADQIAAVevIASLPRGTKLGVGDSATV-----
+----------------------------------------------------------------------
+----------------------------------------------
+>Pse7367 3437 membrane protein insertase YidC/Oxa1 family 1 76.3 1e-13 1 26.8% 38.1% 353465 9122
+----------------------------------------------------------------------
+---------------------------------------------------------------IMLPILD
+FFYGIVPSYGLAIVALTLVIRFALFPVSANQIRNMRRMKIANprTKEVQERYKNdrEEIQRVQSENFKEF
+G-NPLAGCLPAILQIPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>KR52 14115 preprotein translocase subunit YidC 1 75.1 2e-13 1 35.1% 34.2% 349494 5178
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRIALYPLSAGSIRSARRMRIAQPVIqeIKSRYANNPQKQQEELGNVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPADQIAAVevIASLPRGTKIGVGDSATV-----
+----------------------------------------------------------------------
+----------------------------------------------
+>GKIL 1519 inner membrane protein translocase component YidC 1 74.7 2e-13 1 26.8% 34.5% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FLYRIVPNYGVGIVLLTLIVKGLLWPLGAGSIRNMRKMQVVQPEMqeIQEKYKNDPERLRQEMSGIYKEY
+G-NPFAGCLPLVVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Syncc8109 0636 putative inner membrane protein 1 75.1 2e-13 1 35.1% 34.2% 349494 24197
+----------------------------------------------------------------------
+-----------------------------------------------------------ISDNLLIPILD
+FFYGLVPSYGLAIVALTLVIRIALYPLSAGSIRSARRMRIAQPVIqeIKSRYANNPQKQQEELGNVMKEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPflPADQIAAVevIASLPRGTKIGVGDSATV-----
+----------------------------------------------------------------------
+----------------------------------------------
+>Glo7428 3006 membrane protein insertase YidC/Oxa1 family 1 74.7 2e-13 1 26.8% 34.5% 353465 12121
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGIVPSYGLAIVALTLVIRFALYPLSAGSIRNMRRTRITQprVKEIQERHKDNPAKLQEEMSAVYKEF
+G-NPLSGCLPVLLQMPVLFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Pro 1302 Preprotein translocase subunit YidC 1 72.4 1e-12 1 26.8% 35.4% 353465 9118
+----------------------------------------------------------------------
+---------------------------------------------------------------LLIPILD
+FFYGLFHSYGIAIVALTIVIRIALFPLSAGSIRSARRMKIAQPVMQkiKSRYANDPKKQQDELGKLMGEF
+G-SPLAGCLPLLVQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Syn7502 02397 membrane protein insertase YidC/Oxa1 family C-terminal domain protein 1 71.2 3e-12 1 26.8% 37.2% 353465 12125
+----------------------------------------------------------------------
+---------------------------------------------------------------VMLPILD
+FFYGKFPSYGLAIVALTLVIRIALFPVNANQLRNMRNMKIANprIKEVQERYKGDPAKQQQEMAKvfKEF
+G-NPLAGCLPALLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>ETSB 1331 putative inner membrane protein translocase component YidC 1 60.5 8e-09 1 23.2% 36.4% 367465 398
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------SYGFAIIALTLVVRFGLYPLSAGQIRNMRKMKITQPLmeEIQQRYKDDPGKQQEEIGKVMQEF
+G-NPLAGCLPLLLQMPILFALFA------TLRGSPF----------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Anacy 0199 hypothetical protein 1 35.8 0.64 1 19.2% 34.2% 220295 119199
+ETSLENQrqPTELVLKTDNSLPNLAKNTASQQESPAIDLSPNKTFISKSLISSNPinISEIPIQRKLDTE
+SSSALT----------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>Oscil6304 2353 putative ATPase 1 35.8 0.77 1 15.4% 37.7% 389449 10491110
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------SSYLVGQELTSLVPEIATYREAIRALKQVACRTYVGILQQV
+VVNLHGGsmPWKLQGPIYHA--------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>ETSB 0880 30S ribosomal protein S14 1 30.8 5.8 1 11.1% 34.1% 572615 1662
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--LVEKYAEERETIKEEFRLAETYEEKMDLHRKLQRLPRnnRRRNR
+>Cyan7425 0806 hypothetical protein 1 31.6 6.5 1 7.6% 36.7% 543572 6695
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-------------------------------------------AGAWFYTLTGTVTNNTQGMVQNVIVNY
+EVV-------------------------------------------
+>Cyan7425 4570 nitrate ABC transporter ATPase subunits C and D 1 32.3 7.6 1 21.2% 30.2% 418503 274363
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------HGLEKINL--EI
+GFIPLSDCAPLVvkEKGFFARHGLEQVTlePGWQAimTTGRLDAAQMVAGMPLSLTLGVGDQPPLPTVTA
+LVLS------------------------------------------------------------------
+----------------------------------------------
+>AM1 0220 two-component hybrid sensor and regulator histidine kinase 1 32.3 8.2 1 17.2% 37.7% 287355 493563
+-------------------------------------------------------------------DTN
+QRVLTLQtsWKMKPQVAASGYEALGlhAGPFDIAILDMQMPEMDGL-TLAQKIRSHPRGVNFPMVM----
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------
+>PCC7424 0468 Vitamin K epoxide reductase 1 32.0 9.2 1 26.8% 24.8% 468576 49156
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--------------------------------------TTGVSSCDRVLTSPYAKL--FGLPLSLYGLGA
+YIAMTILALCPFAVNPETDKPLRKQLEDI-TWKLLFIGSTAMTVFSGYLIYTSLVVIGAeyCIGSALCSL
+ALFIVTI---------------------------------------

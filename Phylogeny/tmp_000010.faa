@@ -1,0 +1,125 @@
+>Lyngbya extdbtmp 000010 5'-nucleotidase C-terminal domain-containing 1 100.0% 100.0% 14247
+ALSSCSTFYQPTSLQHTQYKIDASIRSDSSVVGMLQPYATNINTTMNKVIGASADTYINKRPESEIGNFL
+ADCYKEMGEKKFARKIDAAFMNAGGIRSYLSKGNITVGKIFEIMPFDNILILQELKGSVLQQYLDVMAAD
+GGWPVSKGVTLQIKNKKAVNILIHGKPLDPNAVYTVAHSDYVANGGSDCSMLKPIPQINLGYLMRDAILE
+YIDSQTKAGKTIQPVIENRVTNAD
+>Syn7502 00028 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 62.0 4e-10 1 65.0% 31.4% 71223 359523
+---------------------------------------------------------VNIAGESPLGKII
+ADAQLAATRTEGTGNAVIAFMNPGGIRADLtdGNITYGQAFTVQPFGNSLVTMTVTGAQIKQILevVGQN
+RILQVSQGFSYTWtgNKVSNMKLHNQNIDPTADYRITVNSFLADGGDNFTGFKE-GRDRLGGVLDLAALE
+------------------------
+>Ava 3996 metallophosphoesterase 1 58.2 6e-09 1 41.0% 37.4% 100198 358458
+----------------------------------------------------------------------
+----------------DLAVFNGGSIrdILPPGAITQYDVIRILPFGGKVVAVEISGALLQRVLDQGQAn
+gGYLQTAKVSQQANSR---SWLIQGQPLDPNRTYKIAISDFLISG-------------------------
+------------------------
+>Oscil6304 0841 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 55.1 8e-08 1 52.6% 34.4% 100230 360493
+----------------------------------------------------------------------
+----------------DLAILNSGAIrdVIEPGPITQYDILRLLPFPGLVMAVEMKGSLLEQVLHQGTEN
+KG----TGGYLQIANVnhNNWMIADRPLDPNQTYTVVLPQFLVQGREqcEHRD----IHCGEELRDIRLI
+VIDQWKK-----------------
+>Lepto7376 1855 5'-nucleotidase 1 52.0 8e-07 1 42.7% 31.1% 96198 361465
+----------------------------------------------------------------------
+------------ATDVDVSIFNSGSIrdVMPPGIITQYDVIRVLPFGGEIVTVEMSGELLEQVLNQGLAn
+gGFLQTSGVT---QDSDTQNWLVGDRPLDPTTTYKVATVEFLISG-------------------------
+------------------------
+>Chro 2394 5'-Nucleotidase domain-containing protein 1 51.2 2e-06 1 52.6% 33.1% 100226 357487
+----------------------------------------------------------------------
+----------------DLAIFNSGSIrdFIPPGRITQYDIIRVLPFGGKVLAVEMKGSLLEKVLEQGQAN
+RG----TGGFLQTAnsKKADimVNGEPLEKDKNYRVAINDFLMSGQEQGLEFLNFKqvKLIYQMRDLRFV
+AID---------------------
+>Cyan7822 2183 5'-Nucleotidase domain protein 1 47.4 3e-05 1 41.0% 34.3% 100198 357457
+----------------------------------------------------------------------
+----------------DLAIYNSGSIrdILYPGKITQYDVLRILPFGGEIMLVEMKGSLLEEILEQGIKn
+gGYLQTANVQLGPDGK---TFFINDQALDPEKTYRVAINDFLMKG-------------------------
+------------------------
+>syc0766 c hypothetical protein 1 42.7 0.001 1 43.2% 30.2% 93198 360468
+----------------------------------------------------------------------
+---------KSYLRAveLAIYNSGAIrdVLPSGPISQYDVIRMLPFGGAIASVEMRGELLQRVLEQgrGS
+GGFLQTDGVQRSDRGWQ-----IQGQPLRPDRWYRVAIADYLLTG-------------------------
+------------------------
+>Synpcc7942 0770 conserved hypothetical protein 1 42.7 0.001 1 43.2% 30.2% 93198 350458
+----------------------------------------------------------------------
+---------KSYLRAveLAIYNSGAIrdVLPSGPISQYDVIRMLPFGGAIASVEMRGELLQRVLEQgrGS
+GGFLQTDGVQRSDRGWQ-----IQGQPLRPDRWYRVAIADYLLTG-------------------------
+------------------------
+>SYNPCC7002 A0064 Ser/Thr protein phosphatase family protein family 1 41.6 0.002 1 40.2% 30.9% 102198 347445
+----------------------------------------------------------------------
+------------------AIFNGGSIrdVLPPGPLSQYDVIRILPFGGNLATVEIKGTTLERILNQGLAn
+gGYLQTARVTFVPESQ---TWQIGDRPLDPERIYRVAATEFLISG-------------------------
+------------------------
+>CYB 2932 2`3`-cyclic-nucleotide 2`-phosphodiesterase putative 1 41.2 0.003 1 84.6% 23.4% 38238 296523
+------------------------IPPDPELLALTEPYHQATLRYIRQPIGQARSAYSGGLAARLGANPL
+AELLHQAQLQAVREAGFPAELSLVNICSslSAGPISLQDAYSLTVYDNTLCVLEITGDILRRALEQTaaD
+PAapEARGYTFDLYhkRLVTLQFRGQPVEPAQTFRLAINHYRAGGGGGYSMFQ---EAQTLWISADSIRD
+FLVYYIHTHSPIQPI---------
+>CYA 0972 putative 2`3`-cyclic-nucleotide 2`-phosphodiesterase 1 39.7 0.009 1 85.9% 22.1% 38241 296526
+------------------------IPADPELLALTEPYHQATLRYIRQPIGQARCAYRGGLAARFGANPL
+AELLHQAQLQAVREAGLSAELSLVNICSslAAGPIFLQDAYSLTVYDNTLCVLEITGDILRRALEQTaaD
+PaaPEARGYTFDLYheRLVTLQFRGQPVQPDQTFRLAINHYRAGGGGGYSMFQ---EAQTLWISADSIRD
+FLARHIHTHSPIQPIYRH------
+>Cyan7822 2288 metallophosphoesterase 1 36.6 0.099 1 62.8% 22.7% 41194 279438
+---------------------------DTDLENFINTFKEQVDRKYNRIITRLVrtHPRREIETELGNLI
+TDVFAE----QLAP--DIVLIGSGSIRGTEMGPVVTLADLKKVYPYDGALYKVIVTGAQLKKVFsiMRPE
+NRRP-GEGNCFQIneKKLESLTIKGNPVEDDAHYSLALQEY-----------------------------
+------------------------
+>Syncc9902 1476 hypothetical protein 1 32.7 0.89 1 23.5% 37.3% 165231 1065
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------QLRRRRAAELLAGgsPAD-------AVSRLTAEWG--CSRRTSLRDVNLG---QDALLE
+SIDSQTHA----------------
+>Riv7116 6586 5'-nucleotidase/2'3'-cyclic phosphodiesterase-like hydrolase 1 33.5 0.91 1 47.4% 25.4% 92205 321442
+----------------------------------------------------------------------
+--------KKSLENNVDIVILQGGAIrkYKKGTSFTYGDLLQELPFDTEIAVIQIPGEVLQ---DAIKLT
+RSTPESEAPRFliEDYPSSQIviNHTPFNPHTLYKVGIYQYLLTGLNDINPL------------------
+------------------------
+>tlr2072 probable methyltransferase 1 32.7 1.3 1 17.5% 40.0% 5599 123163
+-----------------------------------------LDMRMNPANPLTAATVINHYSEQE----L
+ADIFYEYGEERFARRI------------------------------------------------------
+----------------------------------------------------------------------
+------------------------
+>PCC8801 0825 5'-Nucleotidase domain protein 1 32.7 1.5 1 24.8% 34.5% 76133 380443
+--------------------------------------------------------------ETNQGNLI
+ADAitQLAPSLGLPTPNVALQNGGGIrsIIAAGDITELDTFDMLPFSNFL--------------------
+----------------------------------------------------------------------
+------------------------
+>Cyan8802 0854 5'-Nucleotidase domain protein 1 32.7 1.6 1 24.8% 34.5% 76133 380443
+--------------------------------------------------------------ETNQGNLI
+ADAitQLAPSLGLPTPNVALQNGGGIrsIIAAGDITELDTFDMLPFSNFL--------------------
+----------------------------------------------------------------------
+------------------------
+>SynWH7803 0111 Atypical alkaline phosphatase with phytase-like insertion 1 32.0 3.2 1 94.0% 24.4% 14247 12241481
+GIAALKQFVPGSDIAPSQDVVDAYNRLVAT--GVIQDAFTSFGTTSSSLNGLRADV---RSRETNLSRLT
+ADStqYLVSEGESGRVDIALKNGGGIRDTINGPDVLALDIAAALAFNNRQTILDLTGAQFLAAVevPALD
+GRFPHFAGIELelNGASRVNTLidGTTVdlNETFTLATNSFIAGGGDGYQAFANLP---------DTLET
+EIGEQEILETYIQDVLNGAVTLSD
+>SYNPCC7002 A2092 4'-phosphopantetheinyl transferase 1 30.4 5.5 1 14.5% 34.2% 177214 74107
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------HGKPLLPDIAFNLSHTQKLAL----CAISLDVPQAHLG---------
+------------------------
+>Ava 4421 Glycoside hydrolase family 24 1 30.4 7.3 1 47.4% 25.0% 98217 32148
+----------------------------------------------------------------------
+--------------RIDGDFGneAAVKQFQQKQNITPDGVVEINTRNAL-------NKAIQRQIEIagAS
+GKLPLP-GVNL-IKEFEGCKLIAYPDPLSKGKPYTIGWGSTVKKDGSEWSLGEKITQVEADELL------
+------------------------
+>Anacy 3284 Protein grpE 1 30.4 7.3 1 22.2% 31.6% 166222 190241
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+------------LKQRRVVPIVAQGKPFDSQTMYAVGR-EYRA----DITDNTVIQEVVRGYLWGDKVL-
+------------------------
+>Nos7524 3585 glutathione synthetase 1 30.4 7.4 1 22.2% 26.9% 175226 63114
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+---------------------LVDGRWIAANPWYQLSQRSFLSLESMDAVFMRTDPPVNDAYLYATYILD
+YID---------------------
+>Pse7367 3280 glutathione synthase 1 30.4 8.3 1 26.9% 27.0% 164226 53115
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------LEPVNVAAVTLGDHGKWQAANPWYELQAGKFEALTDMDAVWIRPDPPVTMHYIYATYMLD
+YVD---------------------
+>Lepto7376 3099 5'-nucleotidase 1 30.4 8.5 1 23.5% 30.9% 93147 425479
+----------------------------------------------------------------------
+---------KKQGYDVDFAMTDATVLSTGLPARPLMYSDWFALMPYSDTLSLFQLTGKQLQQFL------
+----------------------------------------------------------------------
+------------------------

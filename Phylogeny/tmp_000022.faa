@@ -1,0 +1,75 @@
+>Lyngbya extdbtmp 000022 helix-turn-helix domain-containing protein 1 100.0% 100.0% 177
+MTETSKIDRFIIQKVKDLRIAHGMTQITLSQKLNMSDSFIGHVESPKRRDKYNLKHINSLAKIFKCSPRD
+FLPEKPL
+>Pse7367 1430 helix-turn-helix domain protein 1 36.2 0.003 1 77.9% 26.2% 1272 766
+-----------VTRIAKLREDMGLTQRELSQLLQVTENTVANWENNRTGLEW-IERVIKLCRLFECSPED
+LI-----
+>Cri9333 2649 helix-turn-helix domain protein 1 32.7 0.025 1 77.9% 29.0% 1374 1574
+------------ERLRYLRLIRELSQEDLAHLCNLDRSYIGGVERGQR--NVSLLNIKKIADALCVSPKE
+FFDE---
+>Cyan7822 2047 transcriptional regulator XRE family 1 33.1 0.052 1 74.0% 29.8% 1167 3694
+----------LTQGMRNLRKRVGMTQKELAQKLGVTQGWVSKLESANNDHTFalAYLDGLAADFEAA---
+-------
+>Nos7524 2710 putative transcription factor MBF1 like protein 1 32.0 0.059 1 63.6% 33.3% 1366 1159
+------------QRVRDERLQQGLSQEELAEKAGLHRTYIGMIE----RAEKNITLIN-IGKIAKA----
+-------
+>Dacsa 2093 putative transcriptional regulator with C-terminal CBS domains 1 32.0 0.061 1 39.0% 46.7% 1948 3867
+------------------RISAGMTQQELAEKMNAKQSAIARIESGKQ----------------------
+-------
+>Cyan8802 3281 transcriptional regulator XRE family 1 32.0 0.15 1 74.0% 29.8% 1167 3896
+----------LTQAMKQLRKKVGLTQQQLAEKLGVTQSWVSKLESANNDHTFelAYLNGLVPDFEIA---
+-------
+>PCC8801 2818 transcriptional regulator XRE family 1 31.2 0.25 1 74.0% 29.8% 1167 3896
+----------LTQAMKQLRKKVGLTQKQLAEKLGVTQSWVSKLESANNDHTFelAYLNGLLADFEIT---
+-------
+>Riv7116 3093 putative transcriptional regulator with C-terminal CBS domains 1 29.6 0.51 1 54.5% 33.3% 1556 1759
+--------------LRNIRTERGCTQESLAKAVGETQSFISKCERGERrdVVELRH--------------
+-------
+>IJ00 01490 hypothetical protein 1 30.4 0.52 1 50.6% 35.9% 3977 115153
+--------------------------------------FVNRLGSVTRKDKYNLRVFNVQGELLATYTCN
+FQLEKPL
+>Anacy 5780 helix-turn-helix domain protein 1 30.0 0.76 1 45.5% 42.9% 1448 480514
+-------------QVREARIAKGWPQTKLASLLNVSQKFISLVERGDR----------------------
+-------
+>Tery 2007 dihydroorotate oxidase A 1 30.0 0.82 1 57.1% 34.1% 3477 185228
+---------------------------------NCGDYFVVNVSSPNTPGLRSLQNTDSLSKILEVLPRE
+NERKKPI
+>UCYN 09560 predicted transcriptional regulator 1 29.3 1.3 1 63.6% 36.0% 1564 1361
+--------------VKRCRLALKLTQSAMARKININTQSLGKIESGKTQ-KLNHKTRLGLAEIL------
+-------
+>Oscil6304 4863 putative transcriptional regulator 1 28.5 1.3 1 72.7% 24.1% 1774 1974
+----------------EIRQSSKLTQVQVAQRLHKPQSFVSKYERGERR--LDVVEFLEVAKALEVNPSE
+LLTQ---
+>Npun F4782 helix-turn-helix domain protein 1 28.1 1.7 1 72.7% 27.6% 1774 1974
+----------------EARKAAKLTQAELSAKLKLPQSYVSKYERGERR--LDVIKFLQVAQVLEIDPLA
+FIEE---
+>Cyan7822 4575 hypothetical protein 1 28.1 2.0 1 63.6% 28.6% 2472 2775
+-----------------------MTPGQLAARLEINYRTLGQYRRGEREFRLNMKQIQSLQELLRQIGRD
+YL-----
+>GKIL 0790 XRE family transcriptional regulator 1 27.3 4.0 1 94.8% 18.4% 176 274
+LTDAPKVIRW---RLREVMARKRITGRDLASALDLHETSISRLRASDTMPRLDGEQLNALCQALDCTPGD
+LLEYIP-
+>cce 1704 AcrB/AcrD/AcrF family protein 1 27.7 5.0 1 51.9% 35.0% 1655 702741
+---------------EDLNILHGLAQQVLNIAENNPDIVMTHTSSSLNQPEYQLK---------------
+-------
+>IJ00 05445 alkaline phosphatase 1 27.3 5.1 1 40.3% 25.8% 333 5484
+--KTTDLEKSVLEQINRYRIAHGLPALTINQNI-------------------------------------
+-------
+>Nos7107 4857 Mannitol dehydrogenase 1 27.7 5.4 1 58.4% 31.1% 1256 289333
+-----------IAKMLDFAARHGIEPVTETFDFSQINEAIAHLEAGKARYRIVLKH--------------
+-------
+>Cal7507 5569 helix-turn-helix domain protein 1 26.9 7.2 1 40.3% 35.5% 1545 6494
+--------------LKELRLKNQLSQATLAKKINSSQSRVAKMEA-------------------------
+-------
+>Cyan7425 0486 DNA-directed RNA polymerase beta'' subunit 1 27.3 7.9 1 51.9% 35.0% 1554 12621303
+--------------VIDDRTARSYTLESLEEDDTVGEGFLGSVSTPkrRDRFSF----------------
+-------
+>Osc7112 3541 transcriptional regulator XRE family 1 26.2 8.6 1 57.1% 20.5% 2972 2063
+----------------------------LAARVGMHPTSVSKIKTRRRLTRIDETTLNALCKALNCQPGD
+LM-----
+>GKIL 3917 ribosome-binding factor A 1 26.6 8.8 1 27.3% 52.4% 828 1939
+-------DMLIKQQIKDLRIGAGMVSVT------------------------------------------
+-------
+>Cyan7425 0455 putative transcription regulator with HTH domain protein 1 26.6 8.9 1 62.3% 38.0% 2473 63114
+-----------------------MTEHSLRQkiFKTESIVSDVLRGRRNLTVN--HIEQLAKFFHVSPAV
+FFP----
