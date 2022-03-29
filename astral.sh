@@ -7,7 +7,6 @@
 #PBS
 cd $PBS_O_WORKDIR
 
-export PATH=$PATH:/home/tuf29140/work/DcoccGenome/standard-RAxML/
 module load java
 
 #astralinput.tre is the input containing all the RAXML gene trees
