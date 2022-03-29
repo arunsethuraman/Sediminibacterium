@@ -10,5 +10,6 @@ cd $PBS_O_WORKDIR
 export PATH=$PATH:/home/tuf29140/work/DcoccGenome/standard-RAxML/
 module load java
 
+#Launch a series of serial RAXML runs from all the multiple sequence alignments in the Phylogeny folder
 torque-launch torq1.txt
 	
