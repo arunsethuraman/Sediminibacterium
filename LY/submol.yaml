@@ -1,45 +1,30 @@
-topology: 'linear'
-comment: 'There is no really a biologist Arnold Schwarzenegger'
-consortium: 'SkyNet consortium'
+topology: circular
+comment: 'Filamentous cyanobacterium LYN-RS  (previously called Lyngbya-like or LY)'
+consortium: 'CSUSM + SDSU + NSF REU'
 tp_assembly: true
 organism:
     genus_species: 'Sediminibacterium' 
-    strain: 'replaceme'
+    strain: 'Filamentous cyanobacterium LYN-RS'
 contact_info:
-    last_name: 'Doe'
-    first_name: 'Jane'
-    email: 'jane_doe@gmail.com'
-    organization: 'Institute of Klebsiella foobarensis research'
-    department: 'Department of Using NCBI'
-    phone: '301-555-0245'
-    street: '1234 Main St'
-    city: 'Docker'
-    postal_code: '12345'
-    country: 'Lappland'
+    last_name: 'Read'
+    first_name: 'Betsy'
+    email: 'bread@csusm.edu'
+    organization: 'California State University San Marcos'
+    department: 'Biological Sciences'
+    phone: '760-750-4129'
+    street: '333 S Twin Oaks Valley Rd'
+    city: 'San Marcos CA'
+    postal_code: '92096'
+    country: 'USA'
     
 authors:
     -     author:
-            first_name: 'Arnold'
-            last_name: 'Schwarzenegger'
-            middle_initial: 'T'
+            first_name: 'Betsy'
+            last_name: 'Read'
     -     author:
-            first_name: 'Linda'
-            last_name: 'Hamilton'
+            first_name: 'Arun'
+            last_name: 'Sethuraman'
 bioproject: 'PRJNA9999999'
 biosample: 'SAMN99999999'      
 # -- Locus tag prefix - optional. Limited to 9 letters. Unless the locus tag prefix was officially assigned by NCBI, ENA, or DDBJ, it will be replaced upon submission of the annotation to NCBI and is therefore temporary and not to be used in publications. If not provided, pgaptmp will be used.
 locus_tag_prefix: 'tmp'
-publications:
-    - publication:
-        pmid: 16397293
-        title: 'Discrete CHARMm of Klebsiella foobarensis. Journal of Improbable Results, vol. 34, issue 13, pages: 10001-100005, 2018'
-        status: published  # this is enum: controlled vocabulary
-        authors:
-            - author:
-                first_name: 'Arnold'
-                last_name: 'Schwarzenegger'
-                middle_initial: 'T'
-            - author:
-                  first_name: 'Linda'
-                  last_name: 'Hamilton'
-
